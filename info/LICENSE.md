@@ -1,6 +1,6 @@
 ---
 layout: info
-title: license
+title: License
 commentable: false
 edit: 2021-07-19
 ---
