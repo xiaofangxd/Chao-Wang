@@ -1,6 +1,6 @@
 # Site settings
-title: Hello World
-description: Evolutionary algorithm is not just a optimization solver
+title: Evolutionary algorithm is not just a optimization solver
+description: Blog of Chao Wang
 baseurl: "" 
 #change the baseurl to "" if you are using it as your user GitHub Pages
 url: "https://xiaofangxd.github.io/Chao-Wang/"  
