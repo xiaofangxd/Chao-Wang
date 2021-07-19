@@ -1,17 +1,17 @@
 # Site settings
-title: Website Title
-description: Website short description
+title: Hello World
+description: Evolutionary algorithm is not just a optimization solver
 baseurl: "" 
 #change the baseurl to "" if you are using it as your user GitHub Pages
-url: "https://yk-liu.github.io"  
+url: "https://xiaofangxd.github.io/Chao-Wang/"  
 
 
 # GitHub User settings
-username: Username
-github_username: github_username
-user_description: user_description
-user_title: user_title
-email: 
+username: Chao Wang
+github_username: Xiaofangxd
+user_description: My current research interests include evolutionary computation, machine learning, and complex networks
+user_title: Ph.D
+email: xiaofengxd@126.com
 
 # Blog Author settings
 author:
