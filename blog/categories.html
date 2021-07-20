@@ -25,7 +25,7 @@ title: Category Index
     <dt>
       <code>{{ post.date | date_to_string }}</code> 
 				<i class="fas fa-angle-double-right"></i> 
-					<a href="/Chao-Wang/{{ post.url }}">{{ post.title }}</a>
+					<a href="/Chao-Wang{{ post.url }}">{{ post.title }}</a>
 					&nbsp;{% include status-indicator.html status=post.status%}
     </dt>
     {% if post.description %}
