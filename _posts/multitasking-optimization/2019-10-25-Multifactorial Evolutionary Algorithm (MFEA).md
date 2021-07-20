@@ -5,7 +5,7 @@ Edit: 2019-10-25
 mathjax: true
 mermaid: true
 tags: reading
-categories: multitasking optimization
+categories: multitasking-optimization
 description: This is the first in a series of multitasking optimization algorithms-Multifactorial Evolutionary Algorithm (MFEA).
 ---
 闲话：由于前段时间一直忙着写论文，所以很久没有更新了，之前的多目标优化系列我也不打算更新了，因为田野老师的PlatEMO真的很好用，代码也很规范，刚入门的同学们，我很建议你们去看看PlatEMO的源代码，会大有益处。最近看了很多关于多任务优化的文章，觉得这是一个蛮有意思的方向，想把里面最经典的两个方法介绍给大家，今天先介绍第一个MFEA，这个方向有一个平台，这里面有原作者的代码及最新的出版物，感兴趣的同学可以看看：http://www.bdsc.site/websites/MTO/index.html。

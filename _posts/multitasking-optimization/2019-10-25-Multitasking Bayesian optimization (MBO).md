@@ -5,7 +5,7 @@ Edit: 2019-10-25
 mathjax: true
 mermaid: true
 tags: reading
-categories: multitasking optimization
+categories: multitasking-optimization
 description: This is the second in a series of multitasking optimization algorithms-Multitasking Bayesian optimization(MBO).
 ---
 高斯过程(GPs)是一个用于指定函数$f:\chi \rightarrow \mathbb{R}$上先验分布的一个灵活分类模型。它们由N个点的任意有限集合$X=\left \{ x_n\in \chi \right \}^N_{n=1}$导出一个$\mathbb{R}^N$高斯分布。高斯过程由一个均值函数$m:\chi\rightarrow \mathbb{R}$，一个正定协方差矩阵或者内核函数$K:\chi \cdot \chi\rightarrow\mathbb{R}$指定。预测值和方差可以表示如下：

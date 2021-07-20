@@ -5,7 +5,7 @@ Edit: 2019-10-25
 mathjax: true
 mermaid: true
 tags: reading
-categories: multitasking optimization
+categories: multitasking-optimization
 description: This is the third in a series of multitasking optimization algorithms-Multifactorial Evolutionary Algorithm II (MFEAII).
 ---
 ## 摘要
