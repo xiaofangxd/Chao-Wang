@@ -8,7 +8,7 @@ layout: null
       "category"    : "{{ post.category }}",
       "tags"        : "{{ post.tags | join: ', ' }}",
       "keywords"    : "{{ post.keywords | join: ', ' }}",
-      "url"         : "{{ site.baseurl }}{{ post.url }}",
+      "url"         : "/Chao-Wang/{{ site.baseurl }}{{ post.url }}",
       "date"        : "{{ post.date }}",
       "description" : "{{ post.description }}"
     } {% unless forloop.last %},{% endunless %}
