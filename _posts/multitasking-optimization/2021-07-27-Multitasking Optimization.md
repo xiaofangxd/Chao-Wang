@@ -28,7 +28,7 @@ A collection of main papers on multitasking optimization.
 
 ----------
 
-## Survey
+# Survey
 
 | Paper Title                                                  | Venue                 | Year | Authors        | Materials                                                    | Comment |
 | ------------------------------------------------------------ | --------------------- | ---- | -------------- | ------------------------------------------------------------ | ------- |
@@ -37,7 +37,9 @@ A collection of main papers on multitasking optimization.
 | 3. Multi-Task Optimization and Multi-Task Evolutionary Computation in the Past Five Years A Brief Review | Mathematics           | 2021 | _Xu et al._    | [[paper](https://www.mdpi.com/2227-7390/9/8/864)]            |         |
 | 4. Evolutionary Transfer Optimization A New Frontier in Evolutionary Computation Research | CIM                   | 2021 | _Tan et al._   | [[paper](https://ieeexplore.ieee.org/document/9321762)]      |         |
 
-## Multitasking Single-objective Optimization
+
+
+# Multitasking Single-objective Optimization
 
 | Paper Title                                                  | Venue | Year | Authors        | Materials                                                    | Comment                                                      |
 | ------------------------------------------------------------ | ----- | ---- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -51,7 +53,9 @@ A collection of main papers on multitasking optimization.
 | 8. Regularized Evolutionary Multi-Task Optimization Learning to Inter-Task Transfer in Aligned Subspace | TEVC  | 2020 | _Tang st al._  | [[paper](https://ieeexplore.ieee.org/document/9195010)]      |                                                              |
 | 9. Solving Multi-task Optimization Problems with Adaptive Knowledge Transfer via Anomaly Detection | TEVC  | 2021 | _Wang st al._  | [[paper](https://ieeexplore.ieee.org/document/9385398)] [[code](https://github.com/xiaofangxd/MTEA-AD)] |                                                              |
 
-## Multitasking Multi-objective Optimization
+
+
+# Multitasking Multi-objective Optimization
 
 | Paper Title                                                  | Venue | Year | Authors        | Materials                                                    | Comment |
 | ------------------------------------------------------------ | ----- | ---- | -------------- | ------------------------------------------------------------ | ------- |
@@ -63,7 +67,9 @@ A collection of main papers on multitasking optimization.
 | 6. Cognizant Multitasking in Multiobjective Multifactorial Evolution MO-MFEA-II | TCYB  | 2020 | _Bali et al._  | [[paper](https://ieeexplore.ieee.org/document/9076689)] [[code](http://www.bdsc.site/websites/MTO/index.html)] |         |
 | 7. Multiobjective Multitasking Optimization Based on Decomposition with Dual Neighborhoods | arXiv | 2021 | _Wang et al._  | [[paper](https://arxiv.org/abs/2101.07548)]                  |         |
 
-## Multitasking Combination Optimization
+
+
+# Multitasking Combination Optimization
 
 | Paper Title                                                  | Venue  | Year | Authors       | Materials                                                    | Comment |
 | ------------------------------------------------------------ | ------ | ---- | ------------- | ------------------------------------------------------------ | ------- |
@@ -73,14 +79,18 @@ A collection of main papers on multitasking optimization.
 | 4. Explicit Evolutionary Multitasking for Combinatorial Optimization A Case Study on Capacitated Vehicle Routing Problem | TCYB   | 2020 | _Feng st al._ | [[paper](https://ieeexplore.ieee.org/document/9023952)] [[code](http://www.bdsc.site/websites/ETO/ETO.html)] |         |
 | 5. A Unified Framework of Graph-based Evolutionary Multitasking Hyper-heuristic | TEVC   | 2021 | _Hao et al._  | [[paper](https://ieeexplore.ieee.org/document/9084121)]      |         |
 
-## Multitasking High-dimensional Optimization
+
+
+# Multitasking High-dimensional Optimization
 
 | Paper Title                                                  | Venue | Year | Authors       | Materials                                               | Comment |
 | ------------------------------------------------------------ | ----- | ---- | ------------- | ------------------------------------------------------- | ------- |
 | 1. Large Scale optimization via Evolutionary Multitasking assisted Random Embedding | CEC   | 2020 | _Feng et al._ | [[paper](https://ieeexplore.ieee.org/document/9185660)] |         |
 | 2. Multi-Space Evolutionary Search for Large-Scale Optimization | arXiv | 2021 | _Feng et al._ | [[paper](https://arxiv.org/abs/2102.11693)]             |         |
 
-## Multitasking Data-Driven Evolutionary Optimization
+
+
+# Multitasking Data-Driven Evolutionary Optimization
 
 | Paper Title                                                  | Venue | Year | Authors       | Materials                                                    | Comment |
 | ------------------------------------------------------------ | ----- | ---- | ------------- | ------------------------------------------------------------ | ------- |
@@ -88,7 +98,9 @@ A collection of main papers on multitasking optimization.
 | 2. Novel Multitask Conditional Neural-Network Surrogate Models for Expensive Optimization | TCYB  | 2020 | _Luo et al._  | [[paper](https://ieeexplore.ieee.org/document/9186363)]      |         |
 | 3. Evolutionary Multitasking for Expensive Minimax Optimization in Multiple Scenarios | CIM   | 2021 | _Wang et al._ | [[paper](https://ieeexplore.ieee.org/document/9321420)] [[code](http://www.soft-computing.de/DDEO.html)] |         |
 
-## Multitasking Genetic Programming and Swarm Intelligence
+
+
+# Multitasking Genetic Programming and Swarm Intelligence
 
 | Paper Title                                                  | Venue | Year | Authors        | Materials                                                    | Comment |
 | ------------------------------------------------------------ | ----- | ---- | -------------- | ------------------------------------------------------------ | ------- |
@@ -96,7 +108,9 @@ A collection of main papers on multitasking optimization.
 | 2. Multifactorial Genetic Programming for Symbolic Regression Problems | TSMC  | 2018 | _Zhong et al._ | [[paper](https://ieeexplore.ieee.org/abstract/document/8419217)] |         |
 | 3. Self-Adjusting Multi-Task Particle Swarm Optimization     | TEVC  | 2021 | _Han et al._   | [[paper](https://ieeexplore.ieee.org/document/9491081)]      |         |
 
-## Multitasking Optimization in Complex Networks
+
+
+# Multitasking Optimization in Complex Networks
 
 | Paper Title                                                  | Venue | Year | Authors       | Materials                                                    | Comment |
 | ------------------------------------------------------------ | ----- | ---- | ------------- | ------------------------------------------------------------ | ------- |
@@ -106,7 +120,9 @@ A collection of main papers on multitasking optimization.
 | 4. Learning Large-Scale Fuzzy Cognitive Maps Using an Evolutionary Many-Task Algorithm | ASOC  | 2021 | _Wang et al._ | [[paper](https://www.sciencedirect.com/science/article/pii/S1568494621003641)] |         |
 | 5. Evolutionary Multitasking Multilayer Network Reconstruction | TCYB  | 2021 | _Wang et al._ | [[paper](https://ieeexplore.ieee.org/document/9489377)] [[code](https://github.com/xiaofangxd/EM2MNR)] |         |
 
-## Multitasking Optimization in Machine Learning
+
+
+# Multitasking Optimization in Machine Learning
 
 | Paper Title                                                  | Venue | Year | Authors           | Materials                                                    | Comment |
 | ------------------------------------------------------------ | ----- | ---- | ----------------- | ------------------------------------------------------------ | ------- |
@@ -116,7 +132,9 @@ A collection of main papers on multitasking optimization.
 | 4. Can Transfer Neuroevolution Tractably Solve Your Differential Equations | arXiv | 2021 | _Huang et al._    | [[paper](https://arxiv.org/abs/2101.01998)]                  |         |
 |                                                              |       |      |                   |                                                              |         |
 
-## Transfer Optimization
+
+
+# Transfer Optimization
 
 | Paper Title                                                  | Venue | Year | Authors          | Materials                                                    | Comment |
 | ------------------------------------------------------------ | ----- | ---- | ---------------- | ------------------------------------------------------------ | ------- |
@@ -127,7 +145,9 @@ A collection of main papers on multitasking optimization.
 | 5. Scalable Transfer Evolutionary Optimization Coping with Big Task Instances | arXiv | 2020 | _Shakeri et al._ | [[paper](https://arxiv.org/abs/2012.01830)] [[code](https://github.com/erfanMhi/Transfer-Optimization)] |         |
 | 6. Transfer Stacking from Low-to High-Fidelity A Surrogate-Assisted Bi-Fidelity Evolutionary Algorithm | ASOC  | 2020 | _Wang et al._    | [[paper](https://www.sciencedirect.com/science/article/pii/S1568494620302167)] [[code](https://sites.google.com/site/handingwanghomepage/publication)] |         |
 
-## Theoretical Analysis
+
+
+# Theoretical Analysis
 
 | Paper Title                                                  | Venue | Year | Authors        | Materials                                                    | Comment |
 | ------------------------------------------------------------ | ----- | ---- | -------------- | ------------------------------------------------------------ | ------- |
@@ -135,7 +155,9 @@ A collection of main papers on multitasking optimization.
 | 2. Analysis on the Efficiency of Multifactorial Evolutionary Algorithms | PPSN  | 2020 | _Huang et al._ | [[paper](https://link.springer.com/chapter/10.1007%2F978-3-030-58115-2_44)] |         |
 | 3. From Multi-Task Gradient Descent to Gradient-Free Evolutionary Multitasking A Proof of Faster Convergence | TCYB  | 2021 | _Bai et al._   | [[paper](https://ieeexplore.ieee.org/document/9376716)]      |         |
 
-## Other Applications
+
+
+# Other Applications
 
 | Paper Title                                                  | Venue                         | Year | Authors        | Materials                                                    | Comment |
 | ------------------------------------------------------------ | ----------------------------- | ---- | -------------- | ------------------------------------------------------------ | ------- |
@@ -145,9 +167,9 @@ A collection of main papers on multitasking optimization.
 | 4. A Multitasking Electric Power Dispatch Approach With Multi-Objective Multifactorial Optimization Algorithm | Access                        | 2020 | _Liu et al._   | [[paper](https://ieeexplore.ieee.org/document/9173778)]      |         |
 | 5. Solving Dynamic Multiobjective Problem via Autoencoding Evolutionary Search | TCYB                          | 2020 | _Liang et al._ | [[paper](https://ieeexplore.ieee.org/document/9210737)] [[code](http://www.bdsc.site/websites/ETO/ETO.html)] |         |
 
-----------
 
-## Datasets
+
+# Datasets
 
 | Paper Title                                                  | Venue      | Year      | Authors       | Materials                                                    | Comment |
 | ------------------------------------------------------------ | ---------- | --------- | ------------- | ------------------------------------------------------------ | ------- |
@@ -157,9 +179,9 @@ A collection of main papers on multitasking optimization.
 | 4. Evolutionary Many-tasking Optimization                    | CEC, GECCO | 2017~2021 | _Feng et al._ | [[code](http://www.bdsc.site/websites/MTO_competition_2021/MTO_Competition_CEC_2021.html)] |         |
 | 5. Evolutionary Transfer Optimization                        | CEC        | 2021      | _Tan et al._  | [[code](https://www.scholat.com/vpost.html?pid=160180)]      |         |
 
-----------
 
-## Tools
+
+# Tools
 
 | Name        | Authors/Organizations                        | Materials                                                    | Comment                                                      |
 | ----------- | -------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -169,7 +191,7 @@ A collection of main papers on multitasking optimization.
 | 4. PlatEMO  | _Tian et al._                                | [[paper](https://ieeexplore.ieee.org/document/8065138)] [[code](https://github.com/BIMK/PlatEMO)] | Developed by BIMK (Institute of Bioinspired Intelligence and Mining Knowledge) of Anhui University and NICE (Nature Inspired Computing and Engineering Group) of University of Surrey. 150+ open source evolutionary algorithms, 300+ open source benchmark problems, Powerful GUI for performing experiments in parallel, Generating results in the format of Excel or LaTeX table by one-click operation, State-of-the-art algorithms will be included continuously. |
 | 5. EvoGrad  | _Uber AI Labs_                               | [[code](https://github.com/uber-research/EvoGrad)]           | EvoGrad is a lightweight tool for differentiating through expectation, built on top of PyTorch. EvoGrad enables fast prototyping of NES-like algorithms. We believe there are many interesting algorithms yet to be discovered in this vein, and we hope this library will help to catalyze progress in the machine learning community. |
 
-----------
+
 
 **Disclaimer**
 
