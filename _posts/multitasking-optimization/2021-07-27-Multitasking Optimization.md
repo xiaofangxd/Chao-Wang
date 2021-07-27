@@ -8,7 +8,7 @@ tags: summary
 categories: multitasking-optimization
 description: This is the summary of multitasking optimizaion.
 ---
-A collection of main papers on multitasking optimization.
+# A Collection of Main Papers on Multitasking Optimization
 
 - [Multitasking Optimization](#Multitasking-Optimization)
   - [Survey](#survey)
@@ -38,7 +38,6 @@ A collection of main papers on multitasking optimization.
 | 4. Evolutionary Transfer Optimization A New Frontier in Evolutionary Computation Research | CIM                   | 2021 | _Tan et al._   | [[paper](https://ieeexplore.ieee.org/document/9321762)]      |         |
 
 
-
 # Multitasking Single-objective Optimization
 
 | Paper Title                                                  | Venue | Year | Authors        | Materials                                                    | Comment                                                      |
@@ -63,7 +62,7 @@ A collection of main papers on multitasking optimization.
 | 2. Evolutionary Multitasking via Explicit autoencoding       | TCYB  | 2018 | _Feng et al._  | [[paper](https://ieeexplore.ieee.org/document/8401802)] [[code](http://www.bdsc.site/websites/MTO/index.html)] |         |
 | 3. Multiobjective Multitasking OptimizationBased on Incremental Learning | TEVC  | 2020 | _Lin et al._   | [[paper](https://ieeexplore.ieee.org/document/8944273)]      |         |
 | 4. An Effective Knowledge Transfer Approach for Multiobjective Multitasking Optimization | TCYB  | 2020 | _Lin st al._   | [[paper](https://ieeexplore.ieee.org/document/9032363)] [[code](http://www.bdsc.site/websites/ETO/ETO.html)] |         |
-| 5. Evolutionary Multitasking for Multiobjective Optimization With Subspace Alignmentand Adaptive Differential Evolution | TCYB  | 2020 | _Liang st al._ | [[paper](https://ieeexplore.ieee.org/document/9123962)]      |         |
+| 5. Evolutionary Multitasking for Multiobjective Optimization With Subspace Alignmentand Adaptive Differential Evolution | TCYB  | 2020 | _Liang st al._ | [[paper](https://ieeexplore.ieee.org/document/9123962)] [[code](https://github.com/CIA-SZU/DH)] |         |
 | 6. Cognizant Multitasking in Multiobjective Multifactorial Evolution MO-MFEA-II | TCYB  | 2020 | _Bali et al._  | [[paper](https://ieeexplore.ieee.org/document/9076689)] [[code](http://www.bdsc.site/websites/MTO/index.html)] |         |
 | 7. Multiobjective Multitasking Optimization Based on Decomposition with Dual Neighborhoods | arXiv | 2021 | _Wang et al._  | [[paper](https://arxiv.org/abs/2101.07548)]                  |         |
 
@@ -128,9 +127,9 @@ A collection of main papers on multitasking optimization.
 | ------------------------------------------------------------ | ----- | ---- | ----------------- | ------------------------------------------------------------ | ------- |
 | 1. Multi-task Bayesian Optimization                          | NIPS  | 2012 | _Swersky et al._  | [[paper](https://papers.nips.cc/paper/2013/file/f33ba15effa5c10e873bf3842afb46a6-Paper.pdf)] |         |
 | 2. Co-evolutionary Multi-Task Learning for Dynamic Time Series Prediction | ASOC  | 2018 | _Chandra et al._  | [[paper](https://www.sciencedirect.com/science/article/pii/S1568494618303168)] [[code](https://github.com/rohitash-chandra/CMTL_dynamictimeseries)] |         |
-| 3. Adaptive Multi-factorial Evolutionary Optimization for Multi-task Reinforcement Learning | TEVC  | 2021 | _Martinez et al._ | [[paper](https://ieeexplore.ieee.org/abstract/document/9439811)] [[code](https://git.code. tecnalia.com/aritz.martinez/a-mfea-rl)] |         |
+| 3. Adaptive Multi-factorial Evolutionary Optimization for Multi-task Reinforcement Learning | TEVC  | 2021 | _Martinez et al._ | [[paper](https://ieeexplore.ieee.org/abstract/document/9439811)] [[code](https://git.code.tecnalia.com/aritz.martinez/a-mfea-rl)] |         |
 | 4. Can Transfer Neuroevolution Tractably Solve Your Differential Equations | arXiv | 2021 | _Huang et al._    | [[paper](https://arxiv.org/abs/2101.01998)]                  |         |
-|                                                              |       |      |                   |                                                              |         |
+| 5.Simultaneously Evolving Deep Reinforcement Learning Models using Multifactorial Optimization | arXiv | 2020 | _Martinez et al._ | [[paper](https://arxiv.org/abs/2002.12133)] [[code](https://git.code.tecnalia.com/aritz.martinez/dql-mfea)] |         |
 
 
 
@@ -175,7 +174,7 @@ A collection of main papers on multitasking optimization.
 | ------------------------------------------------------------ | ---------- | --------- | ------------- | ------------------------------------------------------------ | ------- |
 | 1. Evolutionary Multitasking for Single-objective Continuous Optimization Benchmark Problems Performance Metric and Baseline Results | arXiv      | 2017      | _Da et al._   | [[paper](https://arxiv.org/abs/1706.03470)] [[code](http://www.bdsc.site/websites/MTO/index.html)] |         |
 | 2. Evolutionary Multitasking for Multiobjective Continuous Optimization Benchmark Problems Performance Metrics and Baseline Results | arXiv      | 2017      | _Yuan et al._ | [[paper](https://arxiv.org/abs/1706.02766)] [[code](http://www.bdsc.site/websites/MTO/index.html)] |         |
-| 3. Evolutionary Transfer Optimization                        | CEC, GECCO | 2017~2021 | _Feng et al._ | [[code](http://www.bdsc.site/websites/MTO_competition_2021/MTO_Competition_CEC_2021.html)] |         |
+| 3. Evolutionary Multitasking Optimization for Complex Problems | CEC, GECCO | 2017~2021 | _Feng et al._ | [[code](http://www.bdsc.site/websites/MTO_competition_2021/MTO_Competition_CEC_2021.html)] |         |
 | 4. Evolutionary Many-tasking Optimization                    | CEC, GECCO | 2017~2021 | _Feng et al._ | [[code](http://www.bdsc.site/websites/MTO_competition_2021/MTO_Competition_CEC_2021.html)] |         |
 | 5. Evolutionary Transfer Optimization                        | CEC        | 2021      | _Tan et al._  | [[code](https://www.scholat.com/vpost.html?pid=160180)]      |         |
 
@@ -214,4 +213,3 @@ issn = {1568-4946},
 doi = {https://doi.org/10.1016/j.asoc.2021.107441},
 url = {https://www.sciencedirect.com/science/article/pii/S1568494621003641},
 author = {Chao Wang and Jing Liu and Kai Wu and Chaolong Ying}}
-
