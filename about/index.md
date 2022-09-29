@@ -1,15 +1,25 @@
 ---
 title: About
 layout: info
-Edit: 2021-07-19
+Edit: 2022-09-29
 toc: false
 commentable: false
 protected: true
 mathjax: true
 ---
 
-# Me
-I received the B.S. degree in intelligent science and technology in 2019 from Xidian University, Xi’an, China, where I am currently studying for my doctorate at Xidian University, Xidian University, China. My current research interests include evolutionary multitasking optimization and learning, machine learning, and complex networks.
+# Short Bio
+Chao Wang received the B.S. degree in intelligent science and technology in 2019 from Xidian University, Xi’an, China, where he is currently studying for my doctorate at Xidian University, Xidian University, China. His current research interests include multitasking optimization and learning, evolutionary computation, and complex networks (Graphs).
+
+# Research Topic
+The main research directions are multitasking optimization and learning, evolutionary deep learning, and complex networks (Graphs).
+## Evolutionary Multitasking Optimization
+
+## Multi-task Learning as Multi-objective Optimization
+
+## Evolutionary Deep Learning
+
+## Complex Networks
 
 # This Site
 This blog mainly shares and records the problems encountered in my scientific research.
