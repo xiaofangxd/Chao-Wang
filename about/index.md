@@ -58,3 +58,12 @@ The posts are at different status.
 The best way to reach me is via email: $xiaofengxd$ @ $126.com$.
 
 My homepage of Google Scholar: https://scholar.google.com/citations?user=Nj-aZHoAAAAJ&hl=zh-CN.
+
+# Quick Links
+[IEEE CIS](https://cis.ieee.org/publications) [IEEE CIM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10207) [IEEE TEC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235) [IEEE TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) [IEEE TFS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91) [IEEE TAI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688) [IEEE TETCI](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7433297) [IEEE TCYB](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) [IEEE TSMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021)
+
+[JMLR](https://www.jmlr.org/) [AIJ](https://www.journals.elsevier.com/artificial-intelligence) [ECJ](https://direct.mit.edu/evco) 
+
+[IEEE CS](https://www.computer.org/) [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) [IEEE TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69) 
+
+[CCF](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
