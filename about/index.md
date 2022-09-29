@@ -29,10 +29,15 @@ Graph machine learning has been extensively studied in both academic and industr
 Influence Maximization (IM), which selects a set of k users (called seed set) from a social network to maximize the expected number of influenced users (called influence spread), is a key algorithmic problem in social influence analysis. Due to its immense application potential and enormous technical challenges, IM has been extensively studied in the past decade. We focus on the following key aspects: (1) proxy models, (2) a rigorous theoretical of evolutionary IM algorithms.
 
 [1] Gupta A, Ong Y S, Feng L. Multifactorial evolution: toward evolutionary multitasking[J]. IEEE Transactions on Evolutionary Computation, 2015, 20(3): 343-357.
+
 [2] Sener O, Koltun V. Multi-task learning as multi-objective optimization[J]. Advances in neural information processing systems, 2018, 31.
+
 [3] Wierstra D, Schaul T, Glasmachers T, et al. Natural evolution strategies[J]. The Journal of Machine Learning Research, 2014, 15(1): 949-980.
+
 [4] Wang X, Zhang Z, Zhu W. Automated Graph Machine Learning: Approaches, Libraries and Directions[J]. arXiv preprint arXiv:2201.01288, 2022.
+
 [5] Li Y, Fan J, Wang Y, et al. Influence maximization on social graphs: A survey[J]. IEEE Transactions on Knowledge and Data Engineering, 2018, 30(10): 1852-1872.
+
 
 # This Site
 This blog mainly shares and records the problems encountered in my scientific research.
