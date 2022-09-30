@@ -81,7 +81,7 @@ The posts are at different status.
 
 # Contact
 
-The best way to reach me is via email: $xiaofengxd$ @ $126.com$.
+The best way to reach me is via email: xiaofengxd@126.com.
 
 [My homepage of Google Scholar](https://scholar.google.com/citations?user=Nj-aZHoAAAAJ&hl=zh-CN)
 
