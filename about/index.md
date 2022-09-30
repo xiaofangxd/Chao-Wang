@@ -9,13 +9,18 @@ mathjax: true
 ---
 
 # Short Bio
-<img align="right" src="wangchao.png" width="5%"/>
+<img align="right" src="wangchao.png" width="10%"/>
 Chao Wang received the B.S. degree in intelligent science and technology in 2019 from Xidian University, Xi’an, China, where he is currently studying for my doctorate at Xidian University, Xidian University, China. His current research interests include multitasking optimization and learning, evolutionary computation, and complex networks (Graphs).
 
-The best way to reach me is via email: xiaofengxd@126.com.
+North Campus, Xidian University
 
-[My homepage of Google Scholar](https://scholar.google.com/citations?user=Nj-aZHoAAAAJ&hl=zh-CN)
+No. 2 South Taibai Road, Xi’an, Shaanxi 710071
 
+Email: xiaofengxd@126.com.
+[Google Scholar](https://scholar.google.com/citations?user=Nj-aZHoAAAAJ&hl=zh-CN)
+DBLP Profile
+CSDN Profile
+Github Profile
 
 
 # Publications and Preprint
