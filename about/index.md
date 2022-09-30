@@ -13,7 +13,7 @@ Chao Wang received the B.S. degree in intelligent science and technology in 2019
 
 # Publications and Preprint
 ### Preprint
-1. Kai Wu, **Chao Wang***, Junyuan Chen, Jing Liu. Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection from Dynamics[J]. arXiv preprint arXiv:2201.01134, 2022, _IEEE TAI_, submitted. [[paper](https://arxiv.org/abs/2201.01134)] [[code](https://github.com/xiaofangxd/EMTNRCD)]
+1. Kai Wu, **Chao Wang***, Junyuan Chen, Jing Liu. Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection from Dynamics[J]. arXiv preprint arXiv:2201.01134, 2022, _IEEE TETCI_, submitted. [[paper](https://arxiv.org/abs/2201.01134)] [[code](https://github.com/xiaofangxd/EMTNRCD)]
 
 2. **Chao Wang**, Jiaxuan Zhao, Lingling Li, Licheng Jiao*, Jing Liu, Kai Wu. A Multi-Transformation Evolutionary Framework for Influence Maximization in Social Networks[J]. arXiv preprint arXiv:2204.03297, 2022, _IEEE CIM_, Under Scond Review. [[paper](https://arxiv.org/abs/2204.03297)] [[code](https://github.com/xiaofangxd/MTEFIM)]
 
