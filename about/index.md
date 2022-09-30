@@ -12,6 +12,12 @@ mathjax: true
 <img align="right" src="wangchao.png" width="5%"/>
 Chao Wang received the B.S. degree in intelligent science and technology in 2019 from Xidian University, Xi’an, China, where he is currently studying for my doctorate at Xidian University, Xidian University, China. His current research interests include multitasking optimization and learning, evolutionary computation, and complex networks (Graphs).
 
+The best way to reach me is via email: xiaofengxd@126.com.
+
+[My homepage of Google Scholar](https://scholar.google.com/citations?user=Nj-aZHoAAAAJ&hl=zh-CN)
+
+
+
 # Publications and Preprint
 ### Preprint
 1. Kai Wu, **Chao Wang***, Junyuan Chen, Jing Liu. Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection from Dynamics[J]. arXiv preprint arXiv:2201.01134, 2022, _IEEE TETCI_, submitted. [[paper](https://arxiv.org/abs/2201.01134)] [[code](https://github.com/xiaofangxd/EMTNRCD)]
@@ -77,12 +83,6 @@ The posts are at different status.
 | Writing   | This post is being actively edited.                          |
 | Paused    | This post is considered of low priority. I will come back to this post later. |
 | Archived  | This post is outdated and I probably won't update it anymore. |
-
-# Contact
-
-The best way to reach me is via email: xiaofengxd@126.com.
-
-[My homepage of Google Scholar](https://scholar.google.com/citations?user=Nj-aZHoAAAAJ&hl=zh-CN)
 
 # Quick Links
 [IEEE CIS](https://cis.ieee.org/publications) [IEEE CIM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10207) [IEEE TEC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235) [IEEE TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) [IEEE TFS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91) [IEEE TAI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688) [IEEE TETCI](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7433297) [IEEE TCYB](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) [IEEE TSMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021)
