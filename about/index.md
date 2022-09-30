@@ -9,9 +9,11 @@ mathjax: true
 ---
 
 # Short Bio
-<img align="right" src="wangchao.png" width="15%"/>
+<img align="lift" src="wangchao.png" width="15%"/>
 
-Chao Wang Ph.D. candidate
+Chao Wang
+
+Ph.D. candidate
 
 [School of Artificial Intelligence](https://sai.xidian.edu.cn/)
 
