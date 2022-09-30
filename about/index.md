@@ -11,6 +11,7 @@ mathjax: true
 # Short Bio
 Chao Wang received the B.S. degree in intelligent science and technology in 2019 from Xidian University, Xi’an, China, where he is currently studying for my doctorate at Xidian University, Xidian University, China. His current research interests include multitasking optimization and learning, evolutionary computation, and complex networks (Graphs).
 
+
 # Publications and Preprint
 ### Preprint
 1. Kai Wu, **Chao Wang***, Junyuan Chen, Jing Liu. Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection from Dynamics[J]. arXiv preprint arXiv:2201.01134, 2022, _IEEE TETCI_, submitted. [[paper](https://arxiv.org/abs/2201.01134)] [[code](https://github.com/xiaofangxd/EMTNRCD)]
@@ -28,7 +29,7 @@ Chao Wang received the B.S. degree in intelligent science and technology in 2019
 
 4. **C. Wang**, J. Liu*, K. Wu, and C. Ying, "Learning Large-scale Fuzzy Cognitive Maps Using an Evolutionary Many-task Algorithm," _Applied Soft Computing_ (IF: 8.263, SCI I), vol. 108, 2021, 107441. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1568494621003641)] [[code](https://github.com/xiaofangxd/IBMTEA-FCM)]
 
-5. Kai Wu, **Chao Wang**, Jing Liu*, "Multilayer Nonlinear Dynamical Network Reconstruction from Streaming Data," _SCIENTIA SINICA Technologica_, vol. 52, no. 6, pp. 971-982, 2022. or 吴凯, **王超**, 刘静*, 流数据驱动的非线性动力学网络重构, 中国科学: 技术科学, vol. 52, no. 6, pp. 971-982, 2022. [[paper](https://www.sciengine.com/SST/doi/10.1360/SST-2020-0491)] [[code](https://github.com/SparseL/OMNR)]
+5. Kai Wu, **Chao Wang**, Jing Liu, "Multilayer Nonlinear Dynamical Network Reconstruction from Streaming Data," _SCIENTIA SINICA Technologica_, vol. 52, no. 6, pp. 971-982, 2022. or 吴凯, **王超**, 刘静*, 流数据驱动的非线性动力学网络重构, 中国科学: 技术科学, vol. 52, no. 6, pp. 971-982, 2022. [[paper](https://www.sciengine.com/SST/doi/10.1360/SST-2020-0491)] [[code](https://github.com/SparseL/OMNR)]
 
 6. C. Ying, J. Liu, K. Wu, and **C. Wang**, "A Multiobjective Evolutionary Approach for Solving Large-Scale Network Reconstruction Problems via Logistic Principal Component Analysis," in _IEEE Transactions on Cybernetics_ (IF: 19.118, SCI I), 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/9537739)] [[code](https://github.com/xiaofangxd/SLEMO-NR)]
 
@@ -81,7 +82,7 @@ The posts are at different status.
 
 The best way to reach me is via email: $xiaofengxd$ @ $126.com$.
 
-My homepage of Google Scholar: https://scholar.google.com/citations?user=Nj-aZHoAAAAJ&hl=zh-CN.
+[My homepage of Google Scholar](https://scholar.google.com/citations?user=Nj-aZHoAAAAJ&hl=zh-CN)
 
 # Quick Links
 [IEEE CIS](https://cis.ieee.org/publications) [IEEE CIM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10207) [IEEE TEC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235) [IEEE TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) [IEEE TFS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91) [IEEE TAI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688) [IEEE TETCI](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7433297) [IEEE TCYB](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) [IEEE TSMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021)
