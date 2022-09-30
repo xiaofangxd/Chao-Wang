@@ -13,11 +13,11 @@ Chao Wang received the B.S. degree in intelligent science and technology in 2019
 
 # Publications and Preprint
 ### Preprint
-1. Kai Wu, **Chao Wang***, Junyuan Chen, Jing Liu. Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection from Dynamics[J]. arXiv preprint arXiv:2201.01134, 2022, IEEE TAI, submitted. [[paper](https://arxiv.org/abs/2201.01134)] [[code](https://github.com/xiaofangxd/EMTNRCD)]
+1. Kai Wu, **Chao Wang***, Junyuan Chen, Jing Liu. Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection from Dynamics[J]. arXiv preprint arXiv:2201.01134, 2022, _IEEE TAI_, submitted. [[paper](https://arxiv.org/abs/2201.01134)] [[code](https://github.com/xiaofangxd/EMTNRCD)]
 
-2. **Chao Wang**, Jiaxuan Zhao, Lingling Li, Licheng Jiao*, Jing Liu, Kai Wu. A Multi-Transformation Evolutionary Framework for Influence Maximization in Social Networks[J]. arXiv preprint arXiv:2204.03297, 2022, IEEE CIM, Under Scond Review. [[paper](https://arxiv.org/abs/2204.03297)] [[code](https://github.com/xiaofangxd/MTEFIM)]
+2. **Chao Wang**, Jiaxuan Zhao, Lingling Li, Licheng Jiao*, Jing Liu, Kai Wu. A Multi-Transformation Evolutionary Framework for Influence Maximization in Social Networks[J]. arXiv preprint arXiv:2204.03297, 2022, _IEEE CIM_, Under Scond Review. [[paper](https://arxiv.org/abs/2204.03297)] [[code](https://github.com/xiaofangxd/MTEFIM)]
 
-3. **Chao Wang**, Licheng Jiao*, Jiaxuan Zhao, Lingling Li, Xu Liu, Fang Liu, Shuyuan Yang. Bi-level Multi-objective Evolutionary Learning, 2022, IEEE TEVC, Submitted. [[code](https://github.com/xiaofangxd/BLMOL)]
+3. **Chao Wang**, Licheng Jiao*, Jiaxuan Zhao, Lingling Li, Xu Liu, Fang Liu, Shuyuan Yang. Bi-level Multi-objective Evolutionary Learning, 2022, _IEEE TEVC_, Submitted. [[code](https://github.com/xiaofangxd/BLMOL)]
 
 ### Journal Papers
 1. **C. Wang**, K. Wu*, and J. Liu, "Evolutionary Multitasking AUC Optimization [Research Frontier]," in _IEEE Computational Intelligence Magazine_ (IF: 9.809, SCI II), vol. 17, no. 2, pp. 67-82, May 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/9756594)] [[code](https://github.com/xiaofangxd/EMTAUC)]
