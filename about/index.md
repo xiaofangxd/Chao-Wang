@@ -17,7 +17,7 @@ Chao Wang Ph.D. candidate
 
 [Xidian University, China](https://www.xidian.edu.cn/)
 
-Email: xiaofengxd@126.com. [Google Scholar](https://scholar.google.com/citations?user=Nj-aZHoAAAAJ&hl=zh-CN) [Researchgate Profile](https://www.researchgate.net/profile/Chao-Wang-408?ev=hdr_xprf) [CSDN Profile](https://blog.csdn.net/qq_40434430?type=blog) [Github Profile](https://github.com/xiaofangxd)
+Email: xiaofengxd@126.com. [[Google Scholar](https://scholar.google.com/citations?user=Nj-aZHoAAAAJ&hl=zh-CN)] [[Researchgate Profile](https://www.researchgate.net/profile/Chao-Wang-408?ev=hdr_xprf)] [[CSDN Profile](https://blog.csdn.net/qq_40434430?type=blog)] [[Github Profile](https://github.com/xiaofangxd)]
 
 Research Topic: Multitasking Optimization and Learning, Evolutionary Computation, and Complex Networks (Graphs).
 
