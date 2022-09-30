@@ -9,10 +9,8 @@ mathjax: true
 ---
 
 # Short Bio
+<img align="right" src="wangchao.png"/>
 Chao Wang received the B.S. degree in intelligent science and technology in 2019 from Xidian University, Xi’an, China, where he is currently studying for my doctorate at Xidian University, Xidian University, China. His current research interests include multitasking optimization and learning, evolutionary computation, and complex networks (Graphs).
-
-![image](wangchao.png)
-
 
 # Publications and Preprint
 ### Preprint
