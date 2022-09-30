@@ -26,9 +26,9 @@ Chao Wang received the B.S. degree in intelligent science and technology in 2019
 
 3. K. Wu, **C. Wang***, and J. Liu, "Evolutionary Multitasking Multilayer Network Reconstruction," in _IEEE Transactions on Cybernetics_ (IF: 19.118, SCI I), 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/9489377)] [[code](https://github.com/xiaofangxd/EM2MNR)]
 
-4. **C. Wang**, J. Liu*, K. Wu, and C. Ying, "Learning Large-scale Fuzzy Cognitive Maps Using an Evolutionary Many-task Algorithm, _Applied Soft Computing_ (IF: 8.263, SCI I), Vol. 108, 2021, 107441. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1568494621003641)] [[code](https://github.com/xiaofangxd/IBMTEA-FCM)]
+4. **C. Wang**, J. Liu*, K. Wu, and C. Ying, "Learning Large-scale Fuzzy Cognitive Maps Using an Evolutionary Many-task Algorithm," _Applied Soft Computing_ (IF: 8.263, SCI I), Vol. 108, 2021, 107441. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1568494621003641)] [[code](https://github.com/xiaofangxd/IBMTEA-FCM)]
 
-5. Kai Wu, **Chao Wang**, Jing Liu*, “Multilayer Nonlinear Dynamical Network Reconstruction from Streaming Data,” _SCIENTIA SINICA Technologica_, vol. 52, np. 6, pp. 971-982, 2022. or 吴凯, **王超**, 刘静*, 流数据驱动的非线性动力学网络重构, 中国科学: 技术科学, vol. 52, np. 6, pp. 971-982, 2022. [[paper](https://www.sciengine.com/SST/doi/10.1360/SST-2020-0491)] [[code](https://github.com/SparseL/OMNR)]
+5. Kai Wu, **Chao Wang**, Jing Liu*, "Multilayer Nonlinear Dynamical Network Reconstruction from Streaming Data," _SCIENTIA SINICA Technologica_, vol. 52, np. 6, pp. 971-982, 2022. or 吴凯, **王超**, 刘静*, 流数据驱动的非线性动力学网络重构, 中国科学: 技术科学, vol. 52, np. 6, pp. 971-982, 2022. [[paper](https://www.sciengine.com/SST/doi/10.1360/SST-2020-0491)] [[code](https://github.com/SparseL/OMNR)]
 
 6. C. Ying, J. Liu, K. Wu, and **C. Wang**, "A Multiobjective Evolutionary Approach for Solving Large-Scale Network Reconstruction Problems via Logistic Principal Component Analysis," in _IEEE Transactions on Cybernetics_ (IF: 19.118, SCI I), 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/9537739)] [[code](https://github.com/xiaofangxd/SLEMO-NR)]
 
