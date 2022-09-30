@@ -9,7 +9,7 @@ mathjax: true
 ---
 
 # Short Bio
-<img align="lift" src="wangchao.png" width="15%"/>
+<img align="left" src="wangchao.png" width="15%"/>
 
 Chao Wang
 
