@@ -1,7 +1,7 @@
 ---
 title: Multitasking Optimization
 commentable: flase
-Edit: 2021-07-27
+Edit: 2022-10-4
 mathjax: true
 mermaid: true
 tags: summary
@@ -36,6 +36,8 @@ description: This is the summary of multitasking optimizaion.
 | 2. Evolutionary Multitask Optimization a Methodological Overview Challenges and Future Research Directions | arXiv                 | 2021 | _Osaba et al._ | [[paper](https://arxiv.org/pdf/2102.02558.pdf)]              |         |
 | 3. Multi-Task Optimization and Multi-Task Evolutionary Computation in the Past Five Years A Brief Review | Mathematics           | 2021 | _Xu et al._    | [[paper](https://www.mdpi.com/2227-7390/9/8/864)]            |         |
 | 4. Evolutionary Transfer Optimization A New Frontier in Evolutionary Computation Research | CIM                   | 2021 | _Tan et al._   | [[paper](https://ieeexplore.ieee.org/document/9321762)]      |         |
+| 5. Half a Dozen Real-World Applications of Evolutionary Multitasking and More | CIM                  | 2022 | _Gupta et al._   | [[paper](https://ieeexplore.ieee.org/document/9756606)]      |         |
+| 6. A Review on Evolutionary Multi-Task Optimization: Trends and Challenges | TEVC                   | 2022 | Wei et al._   | [[paper](https://ieeexplore.ieee.org/document/9665768)]      |         |
 
 
 # Multitasking Single-objective Optimization
@@ -51,6 +53,15 @@ description: This is the summary of multitasking optimizaion.
 | 7. Evolutionary Manytasking Optimization Based on Symbiosis in Biocoenosis | AAAI  | 2019 | _Liaw st al._  | [[paper](https://ojs.aaai.org//index.php/AAAI/article/view/4338)] | [[blog](https://blog.csdn.net/qq_40434430/article/details/117172668?spm=1001.2014.3001.5501)] |
 | 8. Regularized Evolutionary Multi-Task Optimization Learning to Inter-Task Transfer in Aligned Subspace | TEVC  | 2020 | _Tang st al._  | [[paper](https://ieeexplore.ieee.org/document/9195010)]      |                                                              |
 | 9. Solving Multi-task Optimization Problems with Adaptive Knowledge Transfer via Anomaly Detection | TEVC  | 2021 | _Wang st al._  | [[paper](https://ieeexplore.ieee.org/document/9385398)] [[code](https://github.com/xiaofangxd/MTEA-AD)] |                                                              |
+| 10. Evolutionary Multi-task Optimization with Adaptive Knowledge Transfer | TEVC  | 2021 | _Xu st al._  | [[paper](https://ieeexplore.ieee.org/document/9521551)]  |                                                              |
+| 11. Evolutionary Many-task Optimization Based on Multi-source Knowledge Transfer | TEVC  | 2021 | _Liang st al._  | [[paper](https://ieeexplore.ieee.org/document/9502920)]  |  
+| 12. Multi-Task Shape Optimization Using a 3D Point Cloud Autoencoder as Unified Representation | TEVC  | 2021 | _Rios st al._  | [[paper](https://ieeexplore.ieee.org/document/9446541)]  | 
+| 13. Towards Large-Scale Evolutionary Multi-Tasking: A GPU-Based Paradigm | TEVC  | 2021 | _Huang st al._  | [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9530458)]  | 
+| 14. Improving Evolutionary Multitasking Optimization by Leveraging Inter-Task Gene Similarity and Mirror Transformation | CIM  | 2021 | _Ma st al._  | [[paper](https://ieeexplore.ieee.org/document/9570735)]  |
+| 15. A Bi-objective Knowledge Transfer Framework for Evolutionary Many-Task Optimization | TEVC  | 2022 | _Jiang st al._  | [[paper](https://ieeexplore.ieee.org/abstract/document/9905754)]  |
+| 16. An Effective Knowledge Transfer Method Based on Semi-supervised Learning for Evolutionary Optimization | IS | 2022 | _Gao st al._  | [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522010660)]  |
+| 17. Orthogonal Transfer for Multitask Optimization | TEVC | 2022 | _Wu st al._  | [[paper](https://ieeexplore.ieee.org/document/9737234)]  |
+
 
 
 
@@ -62,9 +73,16 @@ description: This is the summary of multitasking optimizaion.
 | 2. Evolutionary Multitasking via Explicit autoencoding       | TCYB  | 2018 | _Feng et al._  | [[paper](https://ieeexplore.ieee.org/document/8401802)] [[code](http://www.bdsc.site/websites/MTO/index.html)] |         |
 | 3. Multiobjective Multitasking OptimizationBased on Incremental Learning | TEVC  | 2020 | _Lin et al._   | [[paper](https://ieeexplore.ieee.org/document/8944273)]      |         |
 | 4. An Effective Knowledge Transfer Approach for Multiobjective Multitasking Optimization | TCYB  | 2020 | _Lin st al._   | [[paper](https://ieeexplore.ieee.org/document/9032363)] [[code](http://www.bdsc.site/websites/ETO/ETO.html)] |         |
-| 5. Evolutionary Multitasking for Multiobjective Optimization With Subspace Alignmentand Adaptive Differential Evolution | TCYB  | 2020 | _Liang st al._ | [[paper](https://ieeexplore.ieee.org/document/9123962)] [[code](https://github.com/CIA-SZU/DH)] |         |
+| 5. Evolutionary Multitasking for Multiobjective Optimization With Subspace Alignmentand Adaptive Differential Evolution | TCYB  | 2020 | _Liang st al._ | [[paper](https://ieeexplore.ieee.org/document/9123962)] [[code](https://github.com/CIA-SZU/DH)]      |         |
 | 6. Cognizant Multitasking in Multiobjective Multifactorial Evolution MO-MFEA-II | TCYB  | 2020 | _Bali et al._  | [[paper](https://ieeexplore.ieee.org/document/9076689)] [[code](http://www.bdsc.site/websites/MTO/index.html)] |         |
 | 7. Multiobjective Multitasking Optimization Based on Decomposition with Dual Neighborhoods | arXiv | 2021 | _Wang et al._  | [[paper](https://arxiv.org/abs/2101.07548)]                  |         |
+| 8. Towards Generalized Resource Allocation on Evolutionary Multitasking for Multi-Objective Optimization | CIM | 2021 | _Wei et al._  | [[paper](https://ieeexplore.ieee.org/document/9570733)]                  |         |
+| 9. Evolutionary Multitasking for Multi-objective Optimization Based on Generative Strategies | TEVC | 2022 | _Liang et al._  | [[paper](https://ieeexplore.ieee.org/document/9817402)]                  |         |
+| 10. Dynamic Auxiliary Task-Based Evolutionary Multitasking for Constrained Multi-objective Optimization | TEVC | 2022 | _Qiao et al._  | [[paper](https://ieeexplore.ieee.org/document/9774845)]                  |         |
+| 11. Multiobjective Multitask Optimization -Neighborhood as a Bridge for Knowledge Transfer | TEVC | 2022 | _Wang et al._  | [[paper](https://ieeexplore.ieee.org/document/9721409)]                  |         |
+| 12. A Multi-objective Multitask Optimization Algorithm Using Transfer Rank | TEVC | 2022 | _Chen et al._  | [[paper](https://ieeexplore.ieee.org/document/9697101)]                  |         |
+| 13. A Multiform Optimization Framework for Constrained Multiobjective Optimization | TCYB | 2022 | _Jiao et al._  | [[paper](https://ieeexplore.ieee.org/document/9793373)]                  |         |
+| 14. Multiobjective Multitasking Optimization With Subspace Distribution Alignment and Decision Variable Transfer | TETCI | 2022 | _Gao et al._  | [[paper](https://ieeexplore.ieee.org/document/9582815)]                  |         |
 
 
 
@@ -77,6 +95,11 @@ description: This is the summary of multitasking optimizaion.
 | 3. Solving Generalized Vehicle Routing Problem With Occasional Drivers via Evolutionary Multitasking | TCYB   | 2019 | _Feng st al._ | [[paper](https://ieeexplore.ieee.org/document/8938734)] [[code](http://www.bdsc.site/websites/ETO/ETO.html)] |         |
 | 4. Explicit Evolutionary Multitasking for Combinatorial Optimization A Case Study on Capacitated Vehicle Routing Problem | TCYB   | 2020 | _Feng st al._ | [[paper](https://ieeexplore.ieee.org/document/9023952)] [[code](http://www.bdsc.site/websites/ETO/ETO.html)] |         |
 | 5. A Unified Framework of Graph-based Evolutionary Multitasking Hyper-heuristic | TEVC   | 2021 | _Hao et al._  | [[paper](https://ieeexplore.ieee.org/document/9084121)]      |         |
+| 6. Many-Objective Job-Shop Scheduling: A Multiple Populations for Multiple Objectives-Based Genetic Algorithm Approach | TCYB  | 2022 | _Liu et al._  | [[paper](https://ieeexplore.ieee.org/document/9536021)]      |  
+| 7. Transfer Learning Assisted Batch Optimization of Jobs Arriving Dynamically in Manufacturing Cloud | JOMS | 2022 | _Zhou et al._  | [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0278612522001297)]      |
+| 8. Task Relatedness Based Multitask Genetic Programming for Dynamic Flexible Job Shop Scheduling | TEVC | 2022 | _Zhang et al._  | [[paper](https://ieeexplore.ieee.org/document/9861686)]      |
+| 9. Knowledge Transfer Genetic Programming with Auxiliary Population for Solving Uncertain Capacitated Arc Routing Problem | TEVC | 2022 | _Ardeh et al._  | [[paper](https://ieeexplore.ieee.org/document/9761253)]      |
+| 10. Multitask Multiobjective Genetic Programming for Automated Scheduling Heuristic Learning in Dynamic Flexible Job-Shop Scheduling | TCYB | 2022 | _Zhang et al._  | [[paper](https://ieeexplore.ieee.org/document/9868257)]      |
 
 
 
@@ -85,7 +108,8 @@ description: This is the summary of multitasking optimizaion.
 | Paper Title                                                  | Venue | Year | Authors       | Materials                                               | Comment |
 | ------------------------------------------------------------ | ----- | ---- | ------------- | ------------------------------------------------------- | ------- |
 | 1. Large Scale optimization via Evolutionary Multitasking assisted Random Embedding | CEC   | 2020 | _Feng et al._ | [[paper](https://ieeexplore.ieee.org/document/9185660)] |         |
-| 2. Multi-Space Evolutionary Search for Large-Scale Optimization | arXiv | 2021 | _Feng et al._ | [[paper](https://arxiv.org/abs/2102.11693)]             |         |
+| 2. A Multi-Variation Multifactorial Evolutionary Algorithm for Large-Scale Multi-Objective Optimization | TEVC | 2021 | _Feng et al._ | [[paper](https://ieeexplore.ieee.org/abstract/document/9569756)]             |         |
+| 3. Evolutionary Multitasking for Large-Scale Multiobjective Optimization | TEVC | 2022 | _Liu et al._ | [[paper](https://ieeexplore.ieee.org/document/9755945)]             |         |
 
 
 
@@ -106,6 +130,9 @@ description: This is the summary of multitasking optimizaion.
 | 1. Learning Ensemble of Decision Trees through Multifactorial Genetic Programming | CEC   | 2016 | _Wen et al._   | [[paper](https://ieeexplore.ieee.org/abstract/document/7748363)] |         |
 | 2. Multifactorial Genetic Programming for Symbolic Regression Problems | TSMC  | 2018 | _Zhong et al._ | [[paper](https://ieeexplore.ieee.org/abstract/document/8419217)] |         |
 | 3. Self-Adjusting Multi-Task Particle Swarm Optimization     | TEVC  | 2021 | _Han et al._   | [[paper](https://ieeexplore.ieee.org/document/9491081)]      |         |
+| 4. Self-adaptive Multi-task Particle Swarm Optimization     | arxiv  | 2021 | _Zheng et al._   | [[paper](https://arxiv.org/pdf/2110.04473.pdf)]      |         |
+| 5. Multi-Task Particle Swarm Optimization with Dynamic On-Demand Allocation     | TEVC  | 2022 | _Han et al._   | [[paper](https://ieeexplore.ieee.org/document/9811100)]      |         |
+| 6. Multi-Task Particle Swarm Optimization With Dynamic Neighbor and Level-Based Inter-Task Learning  | TETCI  | 2022 | _Tang et al._   | [[paper](https://ieeexplore.ieee.org/document/9343727)]      |         |
 
 
 
@@ -113,11 +140,12 @@ description: This is the summary of multitasking optimizaion.
 
 | Paper Title                                                  | Venue | Year | Authors       | Materials                                                    | Comment |
 | ------------------------------------------------------------ | ----- | ---- | ------------- | ------------------------------------------------------------ | ------- |
-| 1. Evolutionary Multitasking Sparse Reconstruction Framework and Case Study | TEVC  | 2018 | _Hao et al._  | [[paper](https://ieeexplore.ieee.org/document/8540026)]      |         |
+| 1. Evolutionary Multitasking Sparse Reconstruction Framework and Case Study | TEVC  | 2018 | _Li et al._  | [[paper](https://ieeexplore.ieee.org/document/8540026)]      |         |
 | 2. MUMI Multitask Module Identification for Biological Networks | TEVC  | 2020 | _Chen et al._ | [[paper](https://ieeexplore.ieee.org/document/8894074)] [[code]( https://github.com/WeiqiChen/Mumimultitask-module-identification)] |         |
 | 3. Evolutionary Multitasking Network Reconstruction from Time Series with Online Parameter Estimation | KBS   | 2021 | _Shen et al._ | [[paper](https://www.sciencedirect.com/science/article/pii/S0950705121002823)] |         |
 | 4. Learning Large-Scale Fuzzy Cognitive Maps Using an Evolutionary Many-Task Algorithm | ASOC  | 2021 | _Wang et al._ | [[paper](https://www.sciencedirect.com/science/article/pii/S1568494621003641)] |         |
 | 5. Evolutionary Multitasking Multilayer Network Reconstruction | TCYB  | 2021 | _Wang et al._ | [[paper](https://ieeexplore.ieee.org/document/9489377)] [[code](https://github.com/xiaofangxd/EM2MNR)] |         |
+| 6. Community detection in multiplex networks based on evolutionary multi-task optimization and evolutionary clustering ensemble | TEVC  | 2022 | _Lyu et al._ | [[paper](https://ieeexplore.ieee.org/document/9802693)] |         |
 
 
 
@@ -129,7 +157,10 @@ description: This is the summary of multitasking optimizaion.
 | 2. Co-evolutionary Multi-Task Learning for Dynamic Time Series Prediction | ASOC  | 2018 | _Chandra et al._  | [[paper](https://www.sciencedirect.com/science/article/pii/S1568494618303168)] [[code](https://github.com/rohitash-chandra/CMTL_dynamictimeseries)] |         |
 | 3. Adaptive Multi-factorial Evolutionary Optimization for Multi-task Reinforcement Learning | TEVC  | 2021 | _Martinez et al._ | [[paper](https://ieeexplore.ieee.org/abstract/document/9439811)] [[code](https://git.code.tecnalia.com/aritz.martinez/a-mfea-rl)] |         |
 | 4. Can Transfer Neuroevolution Tractably Solve Your Differential Equations | arXiv | 2021 | _Huang et al._    | [[paper](https://arxiv.org/abs/2101.01998)]                  |         |
-| 5.Simultaneously Evolving Deep Reinforcement Learning Models using Multifactorial Optimization | arXiv | 2020 | _Martinez et al._ | [[paper](https://arxiv.org/abs/2002.12133)] [[code](https://git.code.tecnalia.com/aritz.martinez/dql-mfea)] |         |
+| 5.Simultaneously Evolving Deep Reinforcement Learning Models using Multifactorial Optimization | arXiv  | 2020 |   _Martinez et al._     |    [[paper](https://arxiv.org/abs/2002.12133)] [[code](https://git.code.tecnalia.com/aritz.martinez/dql-mfea)]                    |         |
+| 6.Evolutionary Multitasking for Feature Selection in High-dimensional Classification via Particle Swarm Optimisation | TEVC  | 2021 |   _Chen et al._     |    [[paper](https://ieeexplore.ieee.org/document/9496593)]                  |         |
+| 7.Evolutionary Machine Learning with Minions: A Case Study in Feature Selection | TEVC  | 2021 |   _Zhang et al._     |    [[paper](https://ieeexplore.ieee.org/document/9493747)]                  |         |
+| 8.Learning and Sharing: A Multitask Genetic Programming Approach to Image Feature Learning | TEVC  | 2021 |   _Bi et al._     |    [[paper](https://ieeexplore.ieee.org/document/9484082)]                  |         |
 
 
 
@@ -143,7 +174,9 @@ description: This is the summary of multitasking optimizaion.
 | 4. Generalizing Transfer Bayesian Optimization to Source-Target Heterogeneity | TASE  | 2020 | _Min et al._     | [[paper](https://ieeexplore.ieee.org/document/9180071)]      |         |
 | 5. Scalable Transfer Evolutionary Optimization Coping with Big Task Instances | arXiv | 2020 | _Shakeri et al._ | [[paper](https://arxiv.org/abs/2012.01830)] [[code](https://github.com/erfanMhi/Transfer-Optimization)] |         |
 | 6. Transfer Stacking from Low-to High-Fidelity A Surrogate-Assisted Bi-Fidelity Evolutionary Algorithm | ASOC  | 2020 | _Wang et al._    | [[paper](https://www.sciencedirect.com/science/article/pii/S1568494620302167)] [[code](https://sites.google.com/site/handingwanghomepage/publication)] |         |
-
+| 7. Transfer Learning Based Co-surrogate Assisted Evolutionary Bi-objective Optimization for Objectives with Non-uniform Evaluation Times | arxiv  | 2021 | _Wang et al._    | [[paper](https://arxiv.org/abs/2108.13339)]  |         |
+| 8. Evolutionary Sequential Transfer Optimization for Objective-Heterogeneous Problems | TEVC | 2022 | _Xue st al._  | [[paper](https://ieeexplore.ieee.org/document/9644585)]  |
+| 9. Transfer Learning Based Co-Surrogate Assisted Evolutionary Bi-Objective Optimization for Objectives with Non-Uniform Evaluation Times  | EC | 2022 | _Wang st al._  | [[paper](https://direct.mit.edu/evco/article-abstract/30/2/221/107906/Transfer-Learning-Based-Co-Surrogate-Assisted?redirectedFrom=fulltext)]  |
 
 
 # Theoretical Analysis
@@ -162,9 +195,12 @@ description: This is the summary of multitasking optimizaion.
 | ------------------------------------------------------------ | ----------------------------- | ---- | -------------- | ------------------------------------------------------------ | ------- |
 | 1. Evolutionary Multitasking In Bi-Level Optimization        | Complex & Intelligent Systems | 2015 | _Gupta et al._ | [[paper](https://link.springer.com/article/10.1007/s40747-016-0011-y)] |         |
 | 2. An Evolutionary Multitasking Algorithm for Cloud Computing Service Composition | World Congress on Services    | 2018 | _Bao st al._   | [[paper](https://link.springer.com/chapter/10.1007/978-3-319-94472-2_10)] |         |
-| 3. Multi-Tasking Genetic Algorithm (MTGA)                    | TFS                           | 2019 | _Wu et al._    | [[paper](https://ieeexplore.ieee.org/abstract/document/8967000)] |         |
+| 3. Multi-Tasking Genetic Algorithm (MTGA)                    | TFS                           | 2019 | _Wu et al._    | [[paper](https://ieeexplore.ieee.org/abstract/document/8967000)] |    [[blog](http://blog.sciencenet.cn/blog-3418535-1197956.html)]     |
 | 4. A Multitasking Electric Power Dispatch Approach With Multi-Objective Multifactorial Optimization Algorithm | Access                        | 2020 | _Liu et al._   | [[paper](https://ieeexplore.ieee.org/document/9173778)]      |         |
 | 5. Solving Dynamic Multiobjective Problem via Autoencoding Evolutionary Search | TCYB                          | 2020 | _Liang et al._ | [[paper](https://ieeexplore.ieee.org/document/9210737)] [[code](http://www.bdsc.site/websites/ETO/ETO.html)] |         |
+| 6. A Multi-Task Bee Colony Band Selection Algorithm with Variable-size Clustering for Hyperspectral Images | TEVC                         | 2022 | _He et al._ | [[paper](https://ieeexplore.ieee.org/document/9733922)] |         |
+| 7. Predicting Demands of COVID-19 Prevention and Control Materials via Co-Evolutionary Transfer Learning | TCYB                        | 2022 | _Song et al._ | [[paper](https://ieeexplore.ieee.org/document/9761800)] |         |
+| 8. Multi-View Point Cloud Registration Based on Evolutionary Multitasking With Bi-Channel Knowledge Sharing Mechanism | TETCI                      | 2022 | _Wu et al._ | [[paper](https://ieeexplore.ieee.org/document/9903069)] |         |
 
 
 
@@ -174,9 +210,9 @@ description: This is the summary of multitasking optimizaion.
 | ------------------------------------------------------------ | ---------- | --------- | ------------- | ------------------------------------------------------------ | ------- |
 | 1. Evolutionary Multitasking for Single-objective Continuous Optimization Benchmark Problems Performance Metric and Baseline Results | arXiv      | 2017      | _Da et al._   | [[paper](https://arxiv.org/abs/1706.03470)] [[code](http://www.bdsc.site/websites/MTO/index.html)] |         |
 | 2. Evolutionary Multitasking for Multiobjective Continuous Optimization Benchmark Problems Performance Metrics and Baseline Results | arXiv      | 2017      | _Yuan et al._ | [[paper](https://arxiv.org/abs/1706.02766)] [[code](http://www.bdsc.site/websites/MTO/index.html)] |         |
-| 3. Evolutionary Multitasking Optimization for Complex Problems | CEC, GECCO | 2017~2021 | _Feng et al._ | [[code](http://www.bdsc.site/websites/MTO_competition_2021/MTO_Competition_CEC_2021.html)] |         |
+| 3. Evolutionary Multitasking Optimization for Complex Problems                        | CEC, GECCO | 2017~2021 | _Feng et al._ | [[code](http://www.bdsc.site/websites/MTO_competition_2021/MTO_Competition_CEC_2021.html)] |         |
 | 4. Evolutionary Many-tasking Optimization                    | CEC, GECCO | 2017~2021 | _Feng et al._ | [[code](http://www.bdsc.site/websites/MTO_competition_2021/MTO_Competition_CEC_2021.html)] |         |
-| 5. Evolutionary Transfer Optimization                        | CEC        | 2021      | _Tan et al._  | [[code](https://www.scholat.com/vpost.html?pid=160180)]      |         |
+| 5. Evolutionary Transfer Optimization                        | CEC        | 2021      | _Tan et al._  | [[paper](https://arxiv.org/ftp/arxiv/papers/2110/2110.08033.pdf)] [[code](https://www.scholat.com/vpost.html?pid=160180)]      |         |
 
 
 
@@ -213,3 +249,4 @@ issn = {1568-4946},
 doi = {https://doi.org/10.1016/j.asoc.2021.107441},
 url = {https://www.sciencedirect.com/science/article/pii/S1568494621003641},
 author = {Chao Wang and Jing Liu and Kai Wu and Chaolong Ying}}
+
