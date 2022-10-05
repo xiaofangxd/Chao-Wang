@@ -1,5 +1,5 @@
 ---
-title: Graph-Machine-Learning
+title: Graph Machine Learning
 commentable: true
 Edit: 2022-10-5
 mathjax: true
