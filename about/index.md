@@ -64,7 +64,7 @@ Graph machine learning has been extensively studied in both academic and industr
 ### Influence maximization with Reinforcement Learning [4] [[Summary](https://github.com/xiaofangxd/Influence-Maximization-Reinforcement-Learning)]
 Influence Maximization (IM), which selects a set of k users (called seed set) from a social network to maximize the expected number of influenced users (called influence spread), is a key algorithmic problem in social influence analysis. Due to its immense application potential and enormous technical challenges, IM has been extensively studied in the past decade. We focus on the following key aspects: (1) proxy models, (2) a rigorous theoretical of IM algorithms with reinforcement learning.
 
-### Natural Evolution Strategy for Deep Learning [5]
+### Natural Evolution Strategy for Deep Learning [5] [[Summary](https://github.com/xiaofangxd/Natural-Evolution-Strategy)]
 Natural evolution strategies (NES) are a family of numerical optimization algorithms for black box problems. Similar in spirit to evolution strategies, they iteratively update the (continuous) parameters of a search distribution by following the natural gradient towards higher expected fitness.
 
 [1] Gupta A, Ong Y S, Feng L. Multifactorial evolution: toward evolutionary multitasking[J]. IEEE Transactions on Evolutionary Computation, 2015, 20(3): 343-357.
