@@ -5,7 +5,7 @@ Edit: 2022-10-5
 mathjax: true
 mermaid: true
 tags: summary
-categories: Natural-Evolution-Strategy-and-Learning-to-Optimize
+categories: Natural-Evolution-Strategy Learning-to-Optimize
 description: This is the summary of natural evolution strategy and learning to optimize.
 ---
 
