@@ -50,16 +50,16 @@ Research Topic: Multitasking Optimization and Learning, Evolutionary Computation
 
 # Research Topic
 The main research directions are multitasking optimization and learning, natural evolution strategy, and complex networks (Graphs).
-### Evolutionary Multitasking Optimization [1]
+### Evolutionary Multitasking Optimization [1] [[Summary](https://github.com/xiaofangxd/Multitasking-Optimization)]
 Evolutionary Multitasking Optimization is a paradigm that focuses on solving multiple self-contained tasks at the same time. Inspired by the well-established concepts of transfer learning and multi-task learning in predictive analytics, the key motivation behind multitask optimization is that if optimization tasks are related to each other (in terms of their optimal solutions, or the general characteristics of their function landscapes), then the search progress on one can be transferred to substantially speedup the search on the other. Notably, the success of the paradigm is not necessarily limited to one-way knowledge transfers from simpler to more complex tasks. In fact, in an attempt to intentionally solve a harder task, several simpler ones may often be unintentionally solved.
 
-### Multi-task Learning as Multi-objective Optimization [2]
+### Multi-task Learning as Multi-objective Optimization [2] [[Summary](https://github.com/xiaofangxd/Multi-objective-optimization-and-Multi-task-Learning)]
 In multi-task learning, multiple tasks are solved jointly, sharing inductive bias between them. Multi-task learning is inherently a multi-objective problem because different tasks may conflict, necessitating a trade-off. We explicitly cast multi-task learning as multi-objective optimization, with the overall objective of finding Pareto optimal solution set.
 
 ### Natural Evolution Strategy for Deep Learning [3]
 Natural evolution strategies (NES) are a family of numerical optimization algorithms for black box problems. Similar in spirit to evolution strategies, they iteratively update the (continuous) parameters of a search distribution by following the natural gradient towards higher expected fitness.
 
-### Automatic Graph Representation Learning [4]
+### Automatic Graph Representation Learning and Multi-task Learning [4] [[Summary](https://github.com/xiaofangxd/Graph-Neural-Network-and-Multi-Task-Learning)]
 Graph machine learning has been extensively studied in both academic and industry. However, as the literature on graph learning booms with a vast number of emerging methods and techniques, it becomes increasingly difficult to manually design the optimal machine learning algorithm for different graph-related tasks. To tackle the challenge, automated graph machine learning, which aims at discovering the best hyper-parameter and neural architecture configuration for different graph tasks/data without manual design, is gaining an increasing number of attentions from the research community. We extensively discuss automated graph machine approaches, covering hyper-parameter optimization (HPO) and neural architecture search (NAS) for graph machine learning.
 
 ### Influence maximization [5]
