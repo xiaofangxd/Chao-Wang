@@ -56,24 +56,24 @@ Evolutionary Multitasking Optimization is a paradigm that focuses on solving mul
 ### Multi-task Learning as Multi-objective Optimization [2] [[Summary](https://github.com/xiaofangxd/Multi-objective-optimization-and-Multi-task-Learning)]
 In multi-task learning, multiple tasks are solved jointly, sharing inductive bias between them. Multi-task learning is inherently a multi-objective problem because different tasks may conflict, necessitating a trade-off. We explicitly cast multi-task learning as multi-objective optimization, with the overall objective of finding Pareto optimal solution set.
 
-### Natural Evolution Strategy for Deep Learning [3]
-Natural evolution strategies (NES) are a family of numerical optimization algorithms for black box problems. Similar in spirit to evolution strategies, they iteratively update the (continuous) parameters of a search distribution by following the natural gradient towards higher expected fitness.
-
-### Automatic Graph Representation Learning and Multi-task Learning [4] [[Summary](https://github.com/xiaofangxd/Graph-Neural-Network-and-Multi-Task-Learning)]
+### Automatic Graph Representation Learning and Multi-task Learning [3] [[Summary](https://github.com/xiaofangxd/Graph-Neural-Network-and-Multi-Task-Learning)]
 Graph machine learning has been extensively studied in both academic and industry. However, as the literature on graph learning booms with a vast number of emerging methods and techniques, it becomes increasingly difficult to manually design the optimal machine learning algorithm for different graph-related tasks. To tackle the challenge, automated graph machine learning, which aims at discovering the best hyper-parameter and neural architecture configuration for different graph tasks/data without manual design, is gaining an increasing number of attentions from the research community. We extensively discuss automated graph machine approaches, covering hyper-parameter optimization (HPO) and neural architecture search (NAS) for graph machine learning.
 
-### Influence maximization [5]
+### Influence maximization [4]
 Influence Maximization (IM), which selects a set of k users (called seed set) from a social network to maximize the expected number of influenced users (called influence spread), is a key algorithmic problem in social influence analysis. Due to its immense application potential and enormous technical challenges, IM has been extensively studied in the past decade. We focus on the following key aspects: (1) proxy models, (2) a rigorous theoretical of evolutionary IM algorithms.
+
+### Natural Evolution Strategy for Deep Learning [5]
+Natural evolution strategies (NES) are a family of numerical optimization algorithms for black box problems. Similar in spirit to evolution strategies, they iteratively update the (continuous) parameters of a search distribution by following the natural gradient towards higher expected fitness.
 
 [1] Gupta A, Ong Y S, Feng L. Multifactorial evolution: toward evolutionary multitasking[J]. IEEE Transactions on Evolutionary Computation, 2015, 20(3): 343-357.
 
 [2] Sener O, Koltun V. Multi-task learning as multi-objective optimization[J]. Advances in neural information processing systems, 2018, 31.
 
-[3] Wierstra D, Schaul T, Glasmachers T, et al. Natural evolution strategies[J]. The Journal of Machine Learning Research, 2014, 15(1): 949-980.
+[3] Wang X, Zhang Z, Zhu W. Automated Graph Machine Learning: Approaches, Libraries and Directions[J]. arXiv preprint arXiv:2201.01288, 2022.
 
-[4] Wang X, Zhang Z, Zhu W. Automated Graph Machine Learning: Approaches, Libraries and Directions[J]. arXiv preprint arXiv:2201.01288, 2022.
+[4] Li Y, Fan J, Wang Y, et al. Influence maximization on social graphs: A survey[J]. IEEE Transactions on Knowledge and Data Engineering, 2018, 30(10): 1852-1872.
 
-[5] Li Y, Fan J, Wang Y, et al. Influence maximization on social graphs: A survey[J]. IEEE Transactions on Knowledge and Data Engineering, 2018, 30(10): 1852-1872.
+[5] Wierstra D, Schaul T, Glasmachers T, et al. Natural evolution strategies[J]. The Journal of Machine Learning Research, 2014, 15(1): 949-980.
 
 # This Site
 This blog mainly shares and records the problems encountered in my scientific research.
