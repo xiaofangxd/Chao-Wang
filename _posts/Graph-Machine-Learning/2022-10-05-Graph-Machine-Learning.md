@@ -56,7 +56,7 @@ description: This is the summary of auto graph neural network and multi-task/tra
 
 ## Auto Graph Learning
 
-See https://github.com/THUMNLab/awesome-auto-graph-learning.
+See this [[URL](https://github.com/THUMNLab/awesome-auto-graph-learning)].
 
 **Disclaimer**
 
