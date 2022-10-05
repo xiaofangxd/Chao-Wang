@@ -1,6 +1,6 @@
 ---
 title: Deep learning tutorial
-commentable: flase
+commentable: false
 Edit: 2018-09-29
 mathjax: true
 mermaid: true
