@@ -1,5 +1,5 @@
 ---
-title: Influence-Maximization-with Deep Learning
+title: Influence Maximization with Deep Learning
 commentable: true
 Edit: 2022-10-5
 mathjax: true
@@ -19,14 +19,14 @@ description: This is the summary of influence maximization with deep learning.
 
 ----------
 
-# Evolutionary Algorithm
+## Evolutionary Algorithm
 
 | Paper Title                                                  | Venue | Year | Authors        | Materials                                                    | Comment                                                      |
 | ------------------------------------------------------------ | ----- | ---- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Influence Maximization in Complex Networks by Using Evolutionary Deep Reinforcement Learning | TETCI | 2022 | _Ma et al._ | [[paper](https://ieeexplore.ieee.org/abstract/document/9679820)] |  |
 
 
-# Deep Learning
+## Deep Learning
 
 | Paper Title                                                  | Venue | Year | Authors        | Materials                                                    | Comment                                                      |
 | ------------------------------------------------------------ | ----- | ---- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -38,7 +38,7 @@ description: This is the summary of influence maximization with deep learning.
 
 
 
-# Reinforcement Learning
+## Reinforcement Learning
 
 | Paper                                                  | Venue | Year | Authors        | Materials                                                    | Comment |
 | ------------------------------------------------------------ | ----- | ---- | -------------- | ------------------------------------------------------------ | ------- |
@@ -50,7 +50,7 @@ description: This is the summary of influence maximization with deep learning.
 | Finding key players in complex networks through deep reinforcement learning | NMI | 2020 | _Fan et al._ | [[paper](https://www.nature.com/articles/s42256-020-0177-2)] [[code](https://codeocean.com/capsule/1372964/tree/v1)] |  |
 
 
-# Miscellaneous
+## Miscellaneous
 
 | Paper                                                  | Venue | Year | Authors        | Materials                                                    | Comment |
 | ------------------------------------------------------------ | ----- | ---- | -------------- | ------------------------------------------------------------ | ------- |
