@@ -1,7 +1,7 @@
 ---
 title: About
 layout: info
-Edit: 2022-09-30
+Edit: 2022-10-05
 toc: false
 commentable: false
 protected: true
@@ -59,7 +59,7 @@ In multi-task learning, multiple tasks are solved jointly, sharing inductive bia
 ### Automatic Graph Representation Learning and Multi-task Learning [3] [[Summary](https://github.com/xiaofangxd/Graph-Neural-Network-and-Multi-Task-Learning)]
 Graph machine learning has been extensively studied in both academic and industry. However, as the literature on graph learning booms with a vast number of emerging methods and techniques, it becomes increasingly difficult to manually design the optimal machine learning algorithm for different graph-related tasks. To tackle the challenge, automated graph machine learning, which aims at discovering the best hyper-parameter and neural architecture configuration for different graph tasks/data without manual design, is gaining an increasing number of attentions from the research community. We extensively discuss automated graph machine approaches, covering hyper-parameter optimization (HPO) and neural architecture search (NAS) for graph machine learning.
 
-### Influence maximization [4]
+### Influence maximization and Reinforcement Learning [4]
 Influence Maximization (IM), which selects a set of k users (called seed set) from a social network to maximize the expected number of influenced users (called influence spread), is a key algorithmic problem in social influence analysis. Due to its immense application potential and enormous technical challenges, IM has been extensively studied in the past decade. We focus on the following key aspects: (1) proxy models, (2) a rigorous theoretical of evolutionary IM algorithms.
 
 ### Natural Evolution Strategy for Deep Learning [5]
