@@ -1,5 +1,5 @@
 ---
-title: Multi-objective-Optimization
+title: Multi-objective Optimization
 commentable: true
 Edit: 2022-10-5
 mathjax: true
