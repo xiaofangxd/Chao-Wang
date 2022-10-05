@@ -1,6 +1,6 @@
 ---
 title: Multifactorial Evolutionary Algorithm (MFEA)
-commentable: flase
+commentable: false
 Edit: 2019-10-25
 mathjax: true
 mermaid: true
