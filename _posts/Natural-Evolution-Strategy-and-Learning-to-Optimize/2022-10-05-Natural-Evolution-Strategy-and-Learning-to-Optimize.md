@@ -5,7 +5,7 @@ Edit: 2022-10-5
 mathjax: true
 mermaid: true
 tags: summary
-categories: Natural-Evolution-Strategy, Learning-to-Optimize
+categories: Natural-Evolution-Strategy-and-Learning-to-Optimize
 description: This is the summary of natural evolution strategy and learning to optimize.
 ---
 
@@ -28,6 +28,7 @@ description: This is the summary of natural evolution strategy and learning to o
 | Riemannian Natural Gradient Methods | arkiv  | 2022 | _Hu et al._ | [[paper](https://arxiv.org/abs/2207.07287)] [[code](https://github.com/hiroyuki-kasai/RSOpt)] |  |
 
 ## Learn-to-Optimize
+
 | Paper Title                                                  | Venue | Year | Authors        | Materials                                                    | Comment                                                      |
 | ------------------------------------------------------------ | ----- | ---- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Explainable AI via Learning to Optimize | arkiv  | 2022 | _Heaton et al._ | [[paper](https://arxiv.org/abs/2204.14174)] [[code](https://github.com/typal-research/xai-l2o)] |  |
