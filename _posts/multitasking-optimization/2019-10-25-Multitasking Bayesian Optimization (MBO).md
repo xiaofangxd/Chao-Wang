@@ -1,6 +1,6 @@
 ---
 title: Multitasking Bayesian optimization(MBO)
-commentable: flase
+commentable: false
 Edit: 2019-10-25
 mathjax: true
 mermaid: true
