@@ -1,6 +1,6 @@
 ---
 title: Sample Post
-commentable: flase
+commentable: false
 Edit: 2018-11-14
 mathjax: true
 mermaid: true
