@@ -19,7 +19,7 @@ Ph.D. candidate
 
 [Xidian University, China](https://www.xidian.edu.cn/)
 
-My Tutor: [Jing Liu](https://faculty.xidian.edu.cn/LJ22/zh_CN/index.htm), [Licheng Jiao](https://scholar.google.com/citations?user=FZbrL2YAAAAJ&hl=zh-CN)
+My Tutor: [Kai Wu](https://scholar.google.com.hk/citations?user=4zGSPzsAAAAJ&hl=zh-CN), [Jing Liu](https://faculty.xidian.edu.cn/LJ22/zh_CN/index.htm), [Licheng Jiao](https://scholar.google.com/citations?user=FZbrL2YAAAAJ&hl=zh-CN)
 
 Email: xiaofengxd@126.com [[Google Scholar](https://scholar.google.com/citations?user=Nj-aZHoAAAAJ&hl=zh-CN)] [[Researchgate Profile](https://www.researchgate.net/profile/Chao-Wang-408?ev=hdr_xprf)] [[CSDN Profile](https://blog.csdn.net/qq_40434430?type=blog)] [[Github Profile](https://github.com/xiaofangxd)]
 
