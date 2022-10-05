@@ -64,8 +64,8 @@ Graph machine learning has been extensively studied in both academic and industr
 ### Influence maximization with Reinforcement Learning [4] [[Summary](https://github.com/xiaofangxd/Influence-Maximization-Reinforcement-Learning)]
 Influence Maximization (IM), which selects a set of k users (called seed set) from a social network to maximize the expected number of influenced users (called influence spread), is a key algorithmic problem in social influence analysis. Due to its immense application potential and enormous technical challenges, IM has been extensively studied in the past decade. We focus on the following key aspects: (1) proxy models, (2) a rigorous theoretical of IM algorithms with reinforcement learning.
 
-### Natural Evolution Strategy for Deep Learning [5] [[Summary](https://github.com/xiaofangxd/Natural-Evolution-Strategy)]
-Natural evolution strategies (NES) are a family of numerical optimization algorithms for black box problems. Similar in spirit to evolution strategies, they iteratively update the (continuous) parameters of a search distribution by following the natural gradient towards higher expected fitness.
+### Natural Evolution Strategy and Learning to Optimize [5,6] [[Summary](https://github.com/xiaofangxd/Natural-Evolution-Strategy-and-Learning-to-Optimize)]
+Natural evolution strategies (NES) are a family of numerical optimization algorithms for black box problems. Similar in spirit to evolution strategies, they iteratively update the (continuous) parameters of a search distribution by following the natural gradient towards higher expected fitness. Learning to optimize (L2O) is an emerging approach that leverages machine learning to develop optimization methods, aiming at reducing the laborious iterations of hand engineering. It automates the design of an optimization method based on its performance on a set of training problems.
 
 [1] Gupta A, Ong Y S, Feng L. Multifactorial evolution: toward evolutionary multitasking[J]. IEEE Transactions on Evolutionary Computation, 2015, 20(3): 343-357.
 
@@ -76,6 +76,8 @@ Natural evolution strategies (NES) are a family of numerical optimization algori
 [4] Li Y, Fan J, Wang Y, et al. Influence maximization on social graphs: A survey[J]. IEEE Transactions on Knowledge and Data Engineering, 2018, 30(10): 1852-1872.
 
 [5] Wierstra D, Schaul T, Glasmachers T, et al. Natural evolution strategies[J]. The Journal of Machine Learning Research, 2014, 15(1): 949-980.
+
+[6] Chen T, Chen X, Chen W, et al. Learning to optimize: A primer and a benchmark[J]. arXiv preprint arXiv:2103.12828, 2021.
 
 # This Site
 This blog mainly shares and records the problems encountered in my scientific research.
