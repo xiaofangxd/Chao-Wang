@@ -34,7 +34,7 @@ Kai Wu, **Chao Wang***, Junyuan Chen, Jing Liu. Network Collaborator: Knowledge 
 Automatic Multi-Task Graph Representation Learning, 2022, Submitted.
 
 ### Journal Papers
-**Chao Wang**, Jiaxuan Zhao, Lingling Li, Licheng Jiao*, Jing Liu, Kai Wu. A Multi-Transformation Evolutionary Framework for Influence Maximization in Social Networks[J]. arXiv preprint arXiv:2204.03297, 2022, _IEEE CIM_. [[paper](https://arxiv.org/abs/2204.03297)] [[code](https://github.com/xiaofangxd/MTEFIM)]
+**C. Wang**, J. Zhao, L. Li, L. Jiao*, J. Liu, K. Wu. A Multi-Transformation Evolutionary Framework for Influence Maximization in Social Networks[J]. arXiv preprint arXiv:2204.03297, 2022, _IEEE CIM_. [[paper](https://arxiv.org/abs/2204.03297)] [[code](https://github.com/xiaofangxd/MTEFIM)]
 
 **C. Wang**, K. Wu*, and J. Liu, "Evolutionary Multitasking AUC Optimization [Research Frontier]," in _IEEE Computational Intelligence Magazine_ (IF: 9.809, SCI II), vol. 17, no. 2, pp. 67-82, May 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/9756594)] [[code](https://github.com/xiaofangxd/EMTAUC)]
 
