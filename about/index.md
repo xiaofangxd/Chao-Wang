@@ -1,7 +1,7 @@
 ---
 title: About
 layout: info
-Edit: 2022-10-05
+Edit: 2022-10-31
 toc: false
 commentable: false
 protected: true
