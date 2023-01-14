@@ -1,7 +1,7 @@
 ---
 title: About
 layout: info
-Edit: 2022-11-2
+Edit: 2023-1-14
 toc: false
 commentable: false
 protected: true
@@ -31,7 +31,7 @@ Kai Wu, **Chao Wang***, Junyuan Chen, Jing Liu. Network Collaborator: Knowledge 
 
 **Chao Wang**, Licheng Jiao*, Jiaxuan Zhao, Lingling Li, Xu Liu, Fang Liu, Shuyuan Yang. Bi-level Multi-objective Evolutionary Learning, 2022, _IEEE TEVC_, Submitted. [[code](https://github.com/xiaofangxd/BLMOL)]
 
-Automatic Multi-Task Graph Representation Learning, 2022, Submitted.
+Automatic Multi-Task Learning on Graphs, 2023, Submitted.
 
 ### Journal Papers
 **C. Wang**, J. Zhao, L. Li, L. Jiao*, J. Liu, K. Wu. A Multi-Transformation Evolutionary Framework for Influence Maximization in Social Networks[J]. arXiv preprint arXiv:2204.03297, 2022, _IEEE CIM_. [[paper](https://arxiv.org/abs/2204.03297)] [[code](https://github.com/xiaofangxd/MTEFIM)]
