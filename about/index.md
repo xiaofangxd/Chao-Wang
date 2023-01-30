@@ -1,7 +1,7 @@
 ---
 title: About
 layout: info
-Edit: 2023-1-14
+Edit: 2023-1-30
 toc: false
 commentable: false
 protected: true
@@ -27,7 +27,7 @@ Research Topic: Multitasking Optimization and Learning, Evolutionary Computation
 
 # Publications and Preprint
 ### Preprint
-Kai Wu, **Chao Wang***, Junyuan Chen, Jing Liu. Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection from Dynamics[J]. arXiv preprint arXiv:2201.01134, 2022, _IEEE TETCI_, submitted. [[paper](https://arxiv.org/abs/2201.01134)] [[code](https://github.com/xiaofangxd/EMTNRCD)]
+Kai Wu, **Chao Wang***, Junyuan Chen, Jing Liu. Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection from Dynamics[J]. arXiv preprint arXiv:2201.01134, 2022, _IEEE TAI_, submitted. [[paper](https://arxiv.org/abs/2201.01134)] [[code](https://github.com/xiaofangxd/EMTNRCD)]
 
 **Chao Wang**, Licheng Jiao*, Jiaxuan Zhao, Lingling Li, Xu Liu, Fang Liu, Shuyuan Yang. Bi-level Multi-objective Evolutionary Learning, 2022, _IEEE TEVC_, Submitted. [[code](https://github.com/xiaofangxd/BLMOL)]
 
