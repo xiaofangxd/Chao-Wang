@@ -34,9 +34,9 @@ Kai Wu, **Chao Wang***, Junyuan Chen, Jing Liu. Network Collaborator: Knowledge 
 Automatic Multi-Task Learning on Graphs, 2023, Submitted.
 
 ### Journal Papers
-**C. Wang**, J. Zhao, L. Li, L. Jiao*, J. Liu, and K. Wu, "A Multi-Transformation Evolutionary Framework for Influence Maximization in Social Networks," in _IEEE Computational Intelligence Magazine_, vol. 18, no. 1, pp. 52-67, Feb. 2023. [[paper](https://ieeexplore.ieee.org/document/10026148)] [[code](https://github.com/xiaofangxd/MTEFIM)]
+**C. Wang**, J. Zhao, L. Li, L. Jiao*, J. Liu, and K. Wu, "A Multi-Transformation Evolutionary Framework for Influence Maximization in Social Networks," in _IEEE Computational Intelligence Magazine_ (IF: 9.809, SCI I), vol. 18, no. 1, pp. 52-67, Feb. 2023. [[paper](https://ieeexplore.ieee.org/document/10026148)] [[code](https://github.com/xiaofangxd/MTEFIM)]
 
-**C. Wang**, K. Wu*, and J. Liu, "Evolutionary Multitasking AUC Optimization [Research Frontier]," in _IEEE Computational Intelligence Magazine_ (IF: 9.809, SCI II), vol. 17, no. 2, pp. 67-82, May 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/9756594)] [[code](https://github.com/xiaofangxd/EMTAUC)]
+**C. Wang**, K. Wu*, and J. Liu, "Evolutionary Multitasking AUC Optimization [Research Frontier]," in _IEEE Computational Intelligence Magazine_ (IF: 9.809, SCI I), vol. 17, no. 2, pp. 67-82, May 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/9756594)] [[code](https://github.com/xiaofangxd/EMTAUC)]
 
 **C. Wang**, J. Liu*, K. Wu, and Z. Wu, "Solving Multitask Optimization Problems With Adaptive Knowledge Transfer via Anomaly Detection," in _IEEE Transactions on Evolutionary Computation_ (IF: 16.497, SCI I, CCF B), vol. 26, no. 2, pp. 304-318, April 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/9385398)] [[code](https://github.com/xiaofangxd/MTEA-AD)]
 
