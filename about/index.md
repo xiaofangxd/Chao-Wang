@@ -1,7 +1,7 @@
 ---
 title: About
 layout: info
-Edit: 2023-2-1
+Edit: 2023-2-5
 toc: false
 commentable: false
 protected: true
@@ -29,11 +29,11 @@ Research Topic: Multitasking Optimization and Learning, Evolutionary Computation
 ### Preprint
 Kai Wu, **Chao Wang***, Junyuan Chen, Jing Liu. Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection from Dynamics[J]. arXiv preprint arXiv:2201.01134, 2022, _IEEE TAI_, submitted. [[paper](https://arxiv.org/abs/2201.01134)] [[code](https://github.com/xiaofangxd/EMTNRCD)]
 
-**Chao Wang**, Licheng Jiao*, Jiaxuan Zhao, Lingling Li, Xu Liu, Fang Liu, Shuyuan Yang. Bi-level Multi-objective Evolutionary Learning, 2022, _IEEE TEVC_, Submitted. [[code](https://github.com/xiaofangxd/BLMOL)]
-
 Automatic Multi-Task Learning on Graphs, 2023, Submitted.
 
 ### Journal Papers
+**Chao Wang**, Licheng Jiao*, Jiaxuan Zhao, Lingling Li, Xu Liu, Fang Liu, Shuyuan Yang, "Bi-level Multi-objective Evolutionary Learning: A Case Study on Multi-task Graph Neural Topology Search," in _IEEE Transactions on Evolutionary Computation_ (IF: 16.497, SCI I, CCF B), accepted, 2022. [[code](https://github.com/xiaofangxd/BLMOL)]
+
 **C. Wang**, J. Zhao, L. Li, L. Jiao*, J. Liu, and K. Wu, "A Multi-Transformation Evolutionary Framework for Influence Maximization in Social Networks," in _IEEE Computational Intelligence Magazine_ (IF: 9.809, SCI I), vol. 18, no. 1, pp. 52-67, Feb. 2023. [[paper](https://ieeexplore.ieee.org/document/10026148)] [[code](https://github.com/xiaofangxd/MTEFIM)]
 
 **C. Wang**, K. Wu*, and J. Liu, "Evolutionary Multitasking AUC Optimization [Research Frontier]," in _IEEE Computational Intelligence Magazine_ (IF: 9.809, SCI I), vol. 17, no. 2, pp. 67-82, May 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/9756594)] [[code](https://github.com/xiaofangxd/EMTAUC)]
