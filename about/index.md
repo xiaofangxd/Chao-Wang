@@ -25,6 +25,8 @@ Email: xiaofengxd@126.com [[Google Scholar](https://scholar.google.com/citations
 
 Research Topic: Multitasking Optimization and Learning, Evolutionary Computation, and Complex Networks (Graphs).
 
+My Group: [EvoIGroup](https://evoigroup.netlify.app/)
+
 # Publications and Preprint
 ### Preprint
 Kai Wu, **Chao Wang***, Junyuan Chen, Jing Liu. Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection from Dynamics[J]. arXiv preprint arXiv:2201.01134, 2022, _IEEE TAI_, submitted. [[paper](https://arxiv.org/abs/2201.01134)] [[code](https://github.com/xiaofangxd/EMTNRCD)]
