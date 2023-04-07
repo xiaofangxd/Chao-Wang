@@ -1,7 +1,7 @@
 ---
 title: About
 layout: info
-Edit: 2023-02-11
+Edit: 2023-04-7
 toc: false
 commentable: false
 protected: true
@@ -34,7 +34,7 @@ Kai Wu, **Chao Wang***, Junyuan Chen, Jing Liu. Network Collaborator: Knowledge 
 Automatic Multi-Task Learning on Graphs, 2023, Submitted.
 
 ### Journal Papers
-**Chao Wang**, Licheng Jiao*, Jiaxuan Zhao, Lingling Li, Xu Liu, Fang Liu, Shuyuan Yang, "Bi-level Multi-objective Evolutionary Learning: A Case Study on Multi-task Graph Neural Topology Search," in _IEEE Transactions on Evolutionary Computation_ (IF: 16.497, SCI I, CCF B), accepted, 2022. [[paper](https://arxiv.org/abs/2302.02565)] [[code](https://github.com/xiaofangxd/BLMOL)]
+**Chao Wang**, Licheng Jiao*, Jiaxuan Zhao, Lingling Li, Xu Liu, Fang Liu, Shuyuan Yang, "Bi-level Multi-objective Evolutionary Learning: A Case Study on Multi-task Graph Neural Topology Search," in _IEEE Transactions on Evolutionary Computation_ (IF: 16.497, SCI I, CCF B), accepted, 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/10065594)] [[code](https://github.com/xiaofangxd/BLMOL)]
 
 **C. Wang**, J. Zhao, L. Li, L. Jiao*, J. Liu, and K. Wu, "A Multi-Transformation Evolutionary Framework for Influence Maximization in Social Networks," in _IEEE Computational Intelligence Magazine_ (IF: 9.809, SCI I), vol. 18, no. 1, pp. 52-67, Feb. 2023. [[paper](https://ieeexplore.ieee.org/document/10026148)] [[code](https://github.com/xiaofangxd/MTEFIM)]
 
