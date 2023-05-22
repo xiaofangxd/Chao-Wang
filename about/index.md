@@ -1,7 +1,7 @@
 ---
 title: About
 layout: info
-Edit: 2023-05-14
+Edit: 2023-05-22
 toc: false
 commentable: false
 protected: true
@@ -29,9 +29,9 @@ My Group: [EvoIGroup](https://evoigroup.netlify.app/)
 
 # Publications and Preprint
 ### Preprint
-Kai Wu, **Chao Wang***, Junyuan Chen, Jing Liu. Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection from Dynamics[J]. arXiv preprint arXiv:2201.01134, 2022, _IEEE TAI_, submitted. [[paper](https://arxiv.org/abs/2201.01134)] [[code](https://github.com/xiaofangxd/EMTNRCD)]
+Kai Wu, **Chao Wang***, Junyuan Chen, Jing Liu. Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection from Dynamics[J]. arXiv preprint arXiv:2201.01134, 2022, _IEEE TAI_, Under Scond Review. [[paper](https://arxiv.org/abs/2201.01134)] [[code](https://github.com/xiaofangxd/EMTNRCD)]
 
-Automatic Multi-Task Graph Learning as Bi-Level Multi-Objective Optimization, 2023, Submit  to _IEEE TNNLS_.
+Automatic Multi-Task Graph Learning as Bi-Level Multi-Objective Optimization, 2023, Submit  to _IEEE TPAMI_.
 
 Transferable Evolutionary Graph Neural Architecture Search, 2023, Submit to _IEEE TEVC_ Special Issue on "Evolutionary Neural Architecture Search".
 
