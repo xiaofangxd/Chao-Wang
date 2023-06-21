@@ -1,7 +1,7 @@
 ---
 title: About
 layout: info
-Edit: 2023-05-22
+Edit: 2023-06-21
 toc: false
 commentable: false
 protected: true
@@ -31,7 +31,7 @@ My Group: [EvoIGroup](https://evoigroup.netlify.app/)
 ### Preprint
 Kai Wu, **Chao Wang***, Junyuan Chen, Jing Liu. Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection from Dynamics[J]. arXiv preprint arXiv:2201.01134, 2022, _IEEE TAI_, Under Second Review. [[paper](https://arxiv.org/abs/2201.01134)] [[code](https://github.com/xiaofangxd/EMTNRCD)]
 
-Automatic Multi-Task Graph Learning as Bi-Level Multi-Objective Optimization, 2023, Submit  to _IEEE TPAMI_.
+Pareto Automatic Multi-Task Learning on Graphs, 2023, Submit  to _IEEE TPAMI_.
 
 Transferable Evolutionary Graph Neural Architecture Search, 2023, Submit to _IEEE TEVC_ Special Issue on "Evolutionary Neural Architecture Search".
 
@@ -54,7 +54,7 @@ C. Ying, J. Liu, K. Wu, and **C. Wang**, "A Multiobjective Evolutionary Approach
 
 
 ### Conference Papers
-K. Wu, J. Liu*, **C. Wang**., K. Yuan, "Pareto Optimization for Influence Maximization in Social Networks," In: , et al. _Evolutionary Multi-Criterion Optimization_. EMO 2021. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-72062-9_55)] [[code](https://github.com/SparseL/POIM)]
+K. Wu, J. Liu*, **C. Wang**., K. Yuan, "Pareto Optimization for Influence Maximization in Social Networks," in _Evolutionary Multi-Criterion Optimization_. EMO 2021. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-72062-9_55)] [[code](https://github.com/SparseL/POIM)]
 
 # Research Topic
 The main research directions are multitasking optimization and learning, natural evolution strategy, and complex networks (Graphs).
@@ -107,3 +107,5 @@ The posts are at different status.
 [IEEE CS](https://www.computer.org/) [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) [IEEE TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69) 
 
 [CCF](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
+
+[ArXiv-CS-Neural-and-Evolutionary-Computing](https://arxiv.org/list/cs.NE/recent).
