@@ -108,4 +108,4 @@ The posts are at different status.
 
 [CCF](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
 
-[ArXiv-CS-Neural-and-Evolutionary-Computing](https://arxiv.org/list/cs.NE/recent).
+[ArXiv-CS-Neural-and-Evolutionary-Computing](https://arxiv.org/list/cs.NE/recent)
