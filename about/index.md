@@ -108,4 +108,6 @@ The posts are at different status.
 
 [CCF](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
 
+[NMI](https://www.nature.com/natmachintell/) [NC](https://www.nature.com/ncomms/) [PNAS](https://www.pnas.org/latest)
+
 [ArXiv-CS-Neural-and-Evolutionary-Computing](https://arxiv.org/list/cs.NE/recent)
