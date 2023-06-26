@@ -36,6 +36,8 @@ Pareto Automatic Multi-Task Learning on Graphs, 2023, Submit  to _IEEE TPAMI_.
 Transferable Evolutionary Graph Neural Architecture Search, 2023, Submit to _IEEE TEVC_ Special Issue on "Evolutionary Neural Architecture Search".
 
 ### Journal Papers
+Hong Zhao*, Xuhui Ning, Xiaotao Liu, **Chao Wang**, J. Liu, “What Makes Evolutionary Multi-task Optimization Better: A Comprehensive Survey,” in _Applied Soft Computing_ (IF:8.263, SCI I), accepted, 2023. [[paper](https://www.sciencedirect.com/science/article/pii/S156849462300563X)]
+
 **Chao Wang**, Licheng Jiao*, Jiaxuan Zhao, Lingling Li, Xu Liu, Fang Liu, Shuyuan Yang, "Bi-level Multi-objective Evolutionary Learning: A Case Study on Multi-task Graph Neural Topology Search," in _IEEE Transactions on Evolutionary Computation_ (IF: 16.497, SCI I, CCF B), accepted, 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/10065594)] [[code](https://github.com/xiaofangxd/BLMOL)]
 
 **C. Wang**, J. Zhao, L. Li, L. Jiao*, J. Liu, and K. Wu, "A Multi-Transformation Evolutionary Framework for Influence Maximization in Social Networks," in _IEEE Computational Intelligence Magazine_ (IF: 9.809, SCI I), vol. 18, no. 1, pp. 52-67, Feb. 2023. [[paper](https://ieeexplore.ieee.org/document/10026148)] [[code](https://github.com/xiaofangxd/MTEFIM)]
