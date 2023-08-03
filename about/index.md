@@ -1,7 +1,7 @@
 ---
 title: About
 layout: info
-Edit: 2023-07-30
+Edit: 2023-08-03
 toc: false
 commentable: false
 protected: true
@@ -102,6 +102,7 @@ The posts are at different status.
 | Archived  | This post is outdated and I probably won't update it anymore. |
 
 # Quick Links
+[conferences for EC](https://ryojitanabe.github.io/ecconf/): FOGA,GECCO,PPSN,CEC
 [IEEE CIS](https://cis.ieee.org/publications) [IEEE CIM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10207) [IEEE TEC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235) [IEEE TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) [IEEE TFS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91) [IEEE TAI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688) [IEEE TETCI](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7433297) [IEEE TCYB](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) [IEEE TSMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021)
 
 [JMLR](https://www.jmlr.org/) [AIJ](https://www.journals.elsevier.com/artificial-intelligence) [ECJ](https://direct.mit.edu/evco) [ACM TELO](https://dl.acm.org/journal/telo) [SWEVO](https://www.sciencedirect.com/journal/swarm-and-evolutionary-computation)
