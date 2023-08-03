@@ -9,7 +9,7 @@ mathjax: true
 ---
 
 # Short Bio
-<img align="right" src="github1.JPG" width="13%"/>
+<img align="right" src="github2.JPG" width="13%"/>
 
 Chao Wang
 
