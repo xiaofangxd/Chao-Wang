@@ -1,7 +1,7 @@
 ---
 title: About
 layout: info
-Edit: 2023-08-05
+Edit: 2023-08-06
 toc: false
 commentable: false
 protected: true
@@ -33,7 +33,7 @@ Kai Wu, **Chao Wang***, Junyuan Chen, Jing Liu. Network Collaborator: Knowledge 
 
 Pareto Automatic Multi-Task Learning on Graphs, 2023, Submit  to _IEEE TPAMI_.
 
-Transferable Evolutionary Graph Neural Architecture Search, 2023, Submit to _IEEE TEVC_ Special Issue on "Evolutionary Neural Architecture Search".
+Transferable Evolutionary Graph Neural Architecture Search, 2023, Submit to _IEEE_.
 
 ### Journal Papers
 Hong Zhao*, Xuhui Ning, Xiaotao Liu, **Chao Wang**, J. Liu, “What Makes Evolutionary Multi-task Optimization Better: A Comprehensive Survey,” in _Applied Soft Computing_ (IF:8.263, JCR I), accepted, 2023. [[paper](https://www.sciencedirect.com/science/article/pii/S156849462300563X)]
