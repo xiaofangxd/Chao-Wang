@@ -56,7 +56,7 @@ C. Ying, J. Liu, K. Wu, **C. Wang**, "A Multiobjective Evolutionary Approach for
 
 
 ### Conference Papers
-K. Wu, J. Liu*, **C. Wang**., K. Yuan, "Pareto Optimization for Influence Maximization in Social Networks," in _Evolutionary Multi-Criterion Optimization_. EMO 2021. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-72062-9_55)] [[code](https://github.com/SparseL/POIM)]
+K. Wu, J. Liu*, **C. Wang**, K. Yuan, "Pareto Optimization for Influence Maximization in Social Networks," in _Evolutionary Multi-Criterion Optimization_. EMO 2021. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-72062-9_55)] [[code](https://github.com/SparseL/POIM)]
 
 # Research Topic
 The main research directions are multitasking optimization and learning, natural evolution strategy, and complex networks (Graphs).
