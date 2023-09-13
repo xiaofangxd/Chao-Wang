@@ -31,6 +31,8 @@ My Group: [EvoIGroup](https://evoigroup.netlify.app/)
 ### Preprint
 Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection from Dynamics[J]. arXiv preprint arXiv:2201.01134, 2023, Submit  to _IEEE_. [[paper](https://arxiv.org/abs/2201.01134)] [[code](https://github.com/xiaofangxd/EMTNRCD)]
 
+Nature-inspired Optimization: A Comprehensive Survey, Submit to _IEEE_..
+
 Pareto Automatic Multi-Task Learning on Graphs, 2023, Submit  to _IEEE TPAMI_.
 
 Transferable Evolutionary Graph Neural Architecture Search, 2023, Submit to _IEEE_.
