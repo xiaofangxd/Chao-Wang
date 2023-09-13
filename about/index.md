@@ -1,7 +1,7 @@
 ---
 title: About
 layout: info
-Edit: 2023-09-04
+Edit: 2023-09-13
 toc: false
 commentable: false
 protected: true
@@ -34,6 +34,8 @@ Network Collaborator: Knowledge Transfer Between Network Reconstruction and Comm
 Pareto Automatic Multi-Task Learning on Graphs, 2023, Submit  to _IEEE TPAMI_.
 
 Transferable Evolutionary Graph Neural Architecture Search, 2023, Submit to _IEEE_.
+
+Automatic Graph Topology-Aware Transformer, 2023, Submit to _IEEE_.
 
 ### Journal Papers
 H. Zhao*, X. Ning, X. Liu, **C. Wang**, J. Liu, “What Makes Evolutionary Multi-task Optimization Better: A Comprehensive Survey,” in _Applied Soft Computing_ (IF:8.263, JCR I), accepted, 2023. [[paper](https://www.sciencedirect.com/science/article/pii/S156849462300563X)]
