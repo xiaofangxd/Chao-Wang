@@ -1,7 +1,7 @@
 ---
 title: About
 layout: info
-Edit: 2023-09-13
+Edit: 2023-10-9
 toc: false
 commentable: false
 protected: true
@@ -29,15 +29,15 @@ My Group: [EvoIGroup](https://evoigroup.netlify.app/)
 
 # Publications and Preprint
 ### Preprint
-Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection from Dynamics[J]. arXiv preprint arXiv:2201.01134, 2023, Submit  to _IEEE_. [[paper](https://arxiv.org/abs/2201.01134)] [[code](https://github.com/xiaofangxd/EMTNRCD)]
+Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection from Dynamics[J]. arXiv preprint arXiv:2201.01134, 2023, Submit  to _IEEE TNSE_. [[paper](https://arxiv.org/abs/2201.01134)] [[code](https://github.com/xiaofangxd/EMTNRCD)]
 
-Nature-inspired Optimization: A Comprehensive Survey, Submit to _IEEE_..
+Nature-inspired Optimization: A Comprehensive Survey, Submit to _Proceedings of IEEE_.
 
 Pareto Automatic Multi-Task Learning on Graphs, 2023, Submit  to _IEEE TPAMI_.
 
-Transferable Evolutionary Graph Neural Architecture Search, 2023, Submit to _IEEE_.
+Transferable Evolutionary Graph Neural Architecture Search, 2023, Submit to _IEEE TKDE_.
 
-Automatic Graph Topology-Aware Transformer, 2023, Submit to _IEEE_.
+Automatic Graph Topology-Aware Transformer, 2023, Submit to _IEEE TNNLS_.
 
 ### Journal Papers
 H. Zhao*, X. Ning, X. Liu, **C. Wang**, J. Liu, “What Makes Evolutionary Multi-task Optimization Better: A Comprehensive Survey,” in _Applied Soft Computing_ (IF:8.263, JCR I), accepted, 2023. [[paper](https://www.sciencedirect.com/science/article/pii/S156849462300563X)]
