@@ -1,7 +1,7 @@
 ---
 title: About
 layout: info
-Edit: 2023-10-9
+Edit: 2023-11-15
 toc: false
 commentable: false
 protected: true
@@ -40,6 +40,9 @@ Transferable Evolutionary Graph Neural Architecture Search, 2023, Submit to _IEE
 Automatic Graph Topology-Aware Transformer, 2023, Submit to _IEEE TNNLS_.
 
 ### Journal Papers
+
+J. Zhao, L. Jiao*, **C. Wang**, X. Liu, F. Liu, L. Li, S. Yang, "GeoFormer: A Geometric Representation Transformer for Change Detection," in _IEEE Transactions on Geoscience and Remote Sensing_ (IF:8.2, JCR I, CCF B), accepted, 2023. [[paper](https://ieeexplore.ieee.org/document/10314551)]
+
 H. Zhao*, X. Ning, X. Liu, **C. Wang**, J. Liu, “What Makes Evolutionary Multi-task Optimization Better: A Comprehensive Survey,” in _Applied Soft Computing_ (IF:8.263, JCR I), accepted, 2023. [[paper](https://www.sciencedirect.com/science/article/pii/S156849462300563X)]
 
 **C. Wang**, L. Jiao*, J. Zhao, L. Li, X. Liu, F. Liu, S. Yang, "Bi-level Multi-objective Evolutionary Learning: A Case Study on Multi-task Graph Neural Topology Search," in _IEEE Transactions on Evolutionary Computation_ (IF: 16.497, JCR I, CCF B), accepted, 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/10065594)] [[code](https://github.com/xiaofangxd/BLMOL)]
