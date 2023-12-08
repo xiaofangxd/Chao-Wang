@@ -1,7 +1,7 @@
 ---
 title: About
 layout: info
-Edit: 2023-11-15
+Edit: 2023-12-08
 toc: false
 commentable: false
 protected: true
@@ -35,7 +35,7 @@ Nature-inspired Optimization: A Comprehensive Survey, Submit to _Proceedings of 
 
 Pareto Automatic Multi-Task Learning on Graphs, 2023, Submit  to _IEEE TPAMI_.
 
-Transferable Evolutionary Graph Neural Architecture Search, 2023, Submit to _IEEE TKDE_.
+Knowledge-assisted Evolutionary Graph Neural Architecture Search, 2023, Submit to _IEEE CIM_.
 
 Automatic Graph Topology-Aware Transformer, 2023, Submit to _IEEE TNNLS_.
 
