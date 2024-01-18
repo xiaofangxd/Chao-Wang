@@ -68,33 +68,35 @@ C. Ying, J. Liu, K. Wu, **C. Wang**, "A Multiobjective Evolutionary Approach for
 K. Wu, J. Liu*, **C. Wang**, K. Yuan, "Pareto Optimization for Influence Maximization in Social Networks," in _Evolutionary Multi-Criterion Optimization_. EMO 2021. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-72062-9_55)] [[code](https://github.com/SparseL/POIM)]
 
 # Research Topic
-The main research directions are multitasking optimization and learning, natural evolution strategy, and complex networks (Graphs).
-### Evolutionary Multitasking Optimization [1] [[Summary](https://github.com/xiaofangxd/Multitasking-Optimization)]
-Evolutionary Multitasking Optimization is a paradigm that focuses on solving multiple self-contained tasks at the same time. Inspired by the well-established concepts of transfer learning and multi-task learning in predictive analytics, the key motivation behind multitask optimization is that if optimization tasks are related to each other (in terms of their optimal solutions, or the general characteristics of their function landscapes), then the search progress on one can be transferred to substantially speedup the search on the other. Notably, the success of the paradigm is not necessarily limited to one-way knowledge transfers from simpler to more complex tasks. In fact, in an attempt to intentionally solve a harder task, several simpler ones may often be unintentionally solved.
+The main research directions are multitasking/transfer optimization and learning, natural evolution strategy, and complex networks (Graphs).
+### Evolutionary Multitasking Optimization and Transfer Optimization [1]-[2] [[Summary](https://github.com/xiaofangxd/Multitasking-Optimization)]
+Evolutionary Multitasking Optimization is a paradigm that focuses on solving multiple self-contained tasks at the same time. Inspired by the well-established concepts of transfer learning and multi-task learning in predictive analytics, the key motivation behind multitask optimization is that if optimization tasks are related to each other (in terms of their optimal solutions, or the general characteristics of their function landscapes), then the search progress on one can be transferred to substantially speedup the search on the other. Notably, the success of the paradigm is not necessarily limited to one-way knowledge transfers from simpler to more complex tasks. In fact, in an attempt to intentionally solve a harder task, several simpler ones may often be unintentionally solved. In addition, there has been growing interest in conducting research on evolutionary transfer optimization in recent years: a paradigm that integrates EA solvers with knowledge learning and transfer across related domains to achieve better optimization efficiency and performance.
 
-### Multi-task Learning as Multi-objective Optimization [2] [[Summary](https://github.com/xiaofangxd/Multi-objective-optimization-and-Multi-task-Learning)]
+### Multi-task Learning as Multi-objective Optimization [3] [[Summary](https://github.com/xiaofangxd/Multi-objective-optimization-and-Multi-task-Learning)]
 In multi-task learning, multiple tasks are solved jointly, sharing inductive bias between them. Multi-task learning is inherently a multi-objective problem because different tasks may conflict, necessitating a trade-off. We explicitly cast multi-task learning as multi-objective optimization, with the overall objective of finding Pareto optimal solution set.
 
-### Automatic Graph Representation Learning and Multi-task Learning [3] [[Summary](https://github.com/xiaofangxd/Graph-Neural-Network-and-Multi-Task-Learning)]
+### Automatic Graph Representation Learning and Multi-task Learning [4] [[Summary](https://github.com/xiaofangxd/Graph-Neural-Network-and-Multi-Task-Learning)]
 Graph machine learning has been extensively studied in both academic and industry. However, as the literature on graph learning booms with a vast number of emerging methods and techniques, it becomes increasingly difficult to manually design the optimal machine learning algorithm for different graph-related tasks. To tackle the challenge, automated graph machine learning, which aims at discovering the best hyper-parameter and neural architecture configuration for different graph tasks/data without manual design, is gaining an increasing number of attentions from the research community. We extensively discuss automated graph machine approaches, covering hyper-parameter optimization (HPO) and neural architecture search (NAS) for multi-task graph machine learning.
 
-### Influence Maximization with Reinforcement Learning [4] [[Summary](https://github.com/xiaofangxd/Influence-Maximization-Reinforcement-Learning)]
+### Influence Maximization with Reinforcement Learning [5] [[Summary](https://github.com/xiaofangxd/Influence-Maximization-Reinforcement-Learning)]
 Influence Maximization (IM), which selects a set of k users (called seed set) from a social network to maximize the expected number of influenced users (called influence spread), is a key algorithmic problem in social influence analysis. Due to its immense application potential and enormous technical challenges, IM has been extensively studied in the past decade. We focus on the following key aspects: (1) proxy models, (2) a rigorous theoretical of IM algorithms with reinforcement learning.
 
-### Natural Evolution Strategy and Learning to Optimize [5,6] [[Summary](https://github.com/xiaofangxd/Natural-Evolution-Strategy-and-Learning-to-Optimize)]
+### Natural Evolution Strategy and Learning to Optimize [6,7] [[Summary](https://github.com/xiaofangxd/Natural-Evolution-Strategy-and-Learning-to-Optimize)]
 Natural evolution strategies (NES) are a family of numerical optimization algorithms for black box problems. Similar in spirit to evolution strategies, they iteratively update the (continuous) parameters of a search distribution by following the natural gradient towards higher expected fitness. Learning to optimize (L2O) is an emerging approach that leverages machine learning to develop optimization methods, aiming at reducing the laborious iterations of hand engineering. It automates the design of an optimization method based on its performance on a set of training problems.
 
 [1] Gupta A, Ong Y S, Feng L. Multifactorial evolution: toward evolutionary multitasking[J]. IEEE Transactions on Evolutionary Computation, 2015, 20(3): 343-357.
 
-[2] Sener O, Koltun V. Multi-task learning as multi-objective optimization[J]. Advances in neural information processing systems, 2018, 31.
+[2] K. C. Tan, L. Feng and M. Jiang. Evolutionary Transfer Optimization - A New Frontier in Evolutionary Computation Research[J]. IEEE Computational Intelligence Magazine, 2021, 16(1): 22-33.
 
-[3] Wang X, Zhang Z, Zhu W. Automated Graph Machine Learning: Approaches, Libraries and Directions[J]. arXiv preprint arXiv:2201.01288, 2022.
+[3] Sener O, Koltun V. Multi-task learning as multi-objective optimization[J]. Advances in neural information processing systems, 2018, 31.
 
-[4] Li Y, Fan J, Wang Y, et al. Influence maximization on social graphs: A survey[J]. IEEE Transactions on Knowledge and Data Engineering, 2018, 30(10): 1852-1872.
+[4] Wang X, Zhang Z, Zhu W. Automated Graph Machine Learning: Approaches, Libraries and Directions[J]. arXiv preprint arXiv:2201.01288, 2022.
 
-[5] Wierstra D, Schaul T, Glasmachers T, et al. Natural evolution strategies[J]. The Journal of Machine Learning Research, 2014, 15(1): 949-980.
+[5] Li Y, Fan J, Wang Y, et al. Influence maximization on social graphs: A survey[J]. IEEE Transactions on Knowledge and Data Engineering, 2018, 30(10): 1852-1872.
 
-[6] Chen T, Chen X, Chen W, et al. Learning to optimize: A primer and a benchmark[J]. arXiv preprint arXiv:2103.12828, 2021.
+[6] Wierstra D, Schaul T, Glasmachers T, et al. Natural evolution strategies[J]. The Journal of Machine Learning Research, 2014, 15(1): 949-980.
+
+[7] Chen T, Chen X, Chen W, et al. Learning to optimize: A primer and a benchmark[J]. arXiv preprint arXiv:2103.12828, 2021.
 
 # This Site
 This blog mainly shares and records the problems encountered in my scientific research.
