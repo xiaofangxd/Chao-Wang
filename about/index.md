@@ -84,6 +84,10 @@ Influence Maximization (IM), which selects a set of k users (called seed set) fr
 ### Natural Evolution Strategy and Learning to Optimize [6,7] [[Summary](https://github.com/xiaofangxd/Natural-Evolution-Strategy-and-Learning-to-Optimize)]
 Natural evolution strategies (NES) are a family of numerical optimization algorithms for black box problems. Similar in spirit to evolution strategies, they iteratively update the (continuous) parameters of a search distribution by following the natural gradient towards higher expected fitness. Learning to optimize (L2O) is an emerging approach that leverages machine learning to develop optimization methods, aiming at reducing the laborious iterations of hand engineering. It automates the design of an optimization method based on its performance on a set of training problems.
 
+### Evolutionary Algorithms and Large Language Models [8] [[Summary](https://github.com/xiaofangxd/LLM_EA)]
+Study the coupling of Evolutionary Algorithms and Large Language Models.
+
+
 [1] Gupta A, Ong Y S, Feng L. Multifactorial evolution: toward evolutionary multitasking[J]. IEEE Transactions on Evolutionary Computation, 2015, 20(3): 343-357.
 
 [2] K. C. Tan, L. Feng and M. Jiang. Evolutionary Transfer Optimization - A New Frontier in Evolutionary Computation Research[J]. IEEE Computational Intelligence Magazine, 2021, 16(1): 22-33.
@@ -97,6 +101,8 @@ Natural evolution strategies (NES) are a family of numerical optimization algori
 [6] Wierstra D, Schaul T, Glasmachers T, et al. Natural evolution strategies[J]. The Journal of Machine Learning Research, 2014, 15(1): 949-980.
 
 [7] Chen T, Chen X, Chen W, et al. Learning to optimize: A primer and a benchmark[J]. arXiv preprint arXiv:2103.12828, 2021.
+
+[8] Meyerson, E, Nelson, M J, Bradley, H, Moradi, A, Hoover, A K, Lehman, J. Language model crossover: Variation through few-shot prompting[J]. arXiv preprint arXiv:2302.12170, 2023.
 
 # This Site
 This blog mainly shares and records the problems encountered in my scientific research.
