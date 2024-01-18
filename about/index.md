@@ -1,7 +1,7 @@
 ---
 title: About
 layout: info
-Edit: 2023-12-08
+Edit: 2024-1-18
 toc: false
 commentable: false
 protected: true
@@ -38,6 +38,8 @@ Pareto Automatic Multi-Task Learning on Graphs, 2023, Submit  to _IEEE TPAMI_.
 Knowledge-assisted Evolutionary Graph Neural Architecture Search, 2023, Submit to _IEEE CIM_.
 
 Automatic Graph Topology-Aware Transformer, 2023, Submit to _IEEE TNNLS_.
+
+A Match Made in Consistency Heaven: When Large Language Models Meet Evolutionary Algorithms, 2024, Submit to a Journal.
 
 ### Journal Papers
 
