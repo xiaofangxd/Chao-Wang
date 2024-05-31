@@ -1,7 +1,7 @@
 ---
 title: About
 layout: info
-Edit: 2024-5-30
+Edit: 2024-5-31
 toc: false
 commentable: false
 protected: true
@@ -37,7 +37,7 @@ Pareto Automatic Multi-Task Learning on Graphs, 2023, Submit  to _IEEE TPAMI_.
 
 Knowledge-assisted Evolutionary Graph Neural Architecture Search, 2023, Submit to _IEEE CIM_.
 
-Automatic Graph Topology-Aware Transformer, 2023, Submit to _IEEE TNNLS (Under Second Review)_.
+Automatic Graph Topology-Aware Transformer, 2023, Submit to _IEEE TNNLS (Under Second Review)_. [[paper](https://arxiv.org/abs/2405.19779)] [[code](https://github.com/xiaofangxd/EGTAS)]
 
 When Large Language Models Meet Evolutionary Algorithms, 2024, Submit to a Journal. [[paper](https://arxiv.org/abs/2401.10510)]
 
