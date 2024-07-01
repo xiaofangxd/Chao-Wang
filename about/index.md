@@ -1,7 +1,7 @@
 ---
 title: About
 layout: info
-Edit: 2024-5-31
+Edit: 2024-07-01
 toc: false
 commentable: false
 protected: true
@@ -35,7 +35,7 @@ Nature-inspired Optimization: A Comprehensive Survey, Submit to _Research_.
 
 Pareto Automatic Multi-Task Learning on Graphs, 2023, Submit  to _IEEE TPAMI_.
 
-Knowledge-assisted Evolutionary Graph Neural Architecture Search, 2023, Submit to _IEEE CIM_.
+Knowledge-aware Evolutionary Graph Neural Architecture Search, 2024, Submit to _Elsevier_.
 
 Automatic Graph Topology-Aware Transformer, 2023, Submit to _IEEE TNNLS (Under Second Review)_. [[paper](https://arxiv.org/abs/2405.19779)] [[code](https://github.com/xiaofangxd/EGTAS)]
 
