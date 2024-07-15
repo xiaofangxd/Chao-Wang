@@ -1,7 +1,7 @@
 ---
 title: About
 layout: info
-Edit: 2024-07-02
+Edit: 2024-07-15
 toc: false
 commentable: false
 protected: true
@@ -31,8 +31,6 @@ My Group: [EvoIGroup](https://evoigroup.netlify.app/)
 ### Preprint
 Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection from Dynamics[J]. arXiv preprint arXiv:2201.01134, 2023, Submit  to a Journal. [[paper](https://arxiv.org/abs/2201.01134)] [[code](https://github.com/xiaofangxd/EMTNRCD)]
 
-Nature-inspired Optimization: A Comprehensive Survey, Submit to _Research_.
-
 Pareto Automatic Multi-Task Learning on Graphs, 2023, Submit  to _IEEE TPAMI_.
 
 Knowledge-aware Evolutionary Graph Neural Architecture Search, 2024, Submit to _Elsevier_.
@@ -42,6 +40,8 @@ Automatic Graph Topology-Aware Transformer, 2023, Submit to _IEEE TNNLS (Under S
 When Large Language Models Meet Evolutionary Algorithms, 2024, Submit to a Journal. [[paper](https://arxiv.org/abs/2401.10510)]
 
 ### Journal Papers
+
+L. Jiao*, J. Zhao, **C. Wang**, X. Liu, F. Liu, L. Li, R. Shang, Y. Li, W. Ma, S. Yang, "Nature-inspired Intelligent Computing: A Comprehensive Survey", in _Research_, accept, 2024.
 
 J. Zhao, L. Jiao*, **C. Wang**, X. Liu, F. Liu, L. Li, M. Ma, S. Yang, "Knowledge Guided Evolutionary Transformer for Remote Sensing Scene Classification," in _IEEE Transactions on Circuits and Systems for Video Technology_ (IF:8.4, JCR I, CCF B), accept 2024. [[paper](https://ieeexplore.ieee.org/document/10542522)]
 
