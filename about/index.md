@@ -41,7 +41,7 @@ When Large Language Models Meet Evolutionary Algorithms, 2024, Submit to a Journ
 
 ### Journal Papers
 
-L. Jiao*, J. Zhao, **C. Wang**, X. Liu, F. Liu, L. Li, R. Shang, Y. Li, W. Ma, S. Yang, "Nature-inspired Intelligent Computing: A Comprehensive Survey", in _Research_, accept, 2024.
+L. Jiao*, J. Zhao, **C. Wang**, X. Liu, F. Liu, L. Li, R. Shang, Y. Li, W. Ma, S. Yang, "Nature-inspired Intelligent Computing: A Comprehensive Survey", in _Research_ (IF: 8.5, JCR I), accept, 2024.
 
 J. Zhao, L. Jiao*, **C. Wang**, X. Liu, F. Liu, L. Li, M. Ma, S. Yang, "Knowledge Guided Evolutionary Transformer for Remote Sensing Scene Classification," in _IEEE Transactions on Circuits and Systems for Video Technology_ (IF:8.4, JCR I, CCF B), accept 2024. [[paper](https://ieeexplore.ieee.org/document/10542522)]
 
