@@ -1,7 +1,7 @@
 ---
 title: About
 layout: info
-Edit: 2024-07-15
+Edit: 2024-08-03
 toc: false
 commentable: false
 protected: true
@@ -29,15 +29,15 @@ My Group: [EvoIGroup](https://evoigroup.netlify.app/)
 
 # Publications and Preprint
 ### Preprint
-Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection from Dynamics[J]. arXiv preprint arXiv:2201.01134, 2023, Submit  to a Journal. [[paper](https://arxiv.org/abs/2201.01134)] [[code](https://github.com/xiaofangxd/EMTNRCD)]
+Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection from Dynamics[J]. arXiv preprint arXiv:2201.01134, 2023, Submit  to a Journal (Under Second Review). [[paper](https://arxiv.org/abs/2201.01134)] [[code](https://github.com/xiaofangxd/EMTNRCD)]
 
 Pareto Automatic Multi-Task Learning on Graphs, 2023, Submit  to _IEEE TPAMI_.
 
 Knowledge-aware Evolutionary Graph Neural Architecture Search, 2024, Submit to _Elsevier_.
 
-Automatic Graph Topology-Aware Transformer, 2023, Submit to _IEEE TNNLS (Under Second Review)_. [[paper](https://arxiv.org/abs/2405.19779)] [[code](https://github.com/xiaofangxd/EGTAS)]
+Automatic Graph Topology-Aware Transformer, 2023, Submit to _IEEE TNNLS (Under Third Review)_. [[paper](https://arxiv.org/abs/2405.19779)] [[code](https://github.com/xiaofangxd/EGTAS)]
 
-When Large Language Models Meet Evolutionary Algorithms, 2024, Submit to a Journal. [[paper](https://arxiv.org/abs/2401.10510)]
+When Large Language Models Meet Evolutionary Algorithms, 2024, Submit to a Journal (Under Second Review). [[paper](https://arxiv.org/abs/2401.10510)]
 
 ### Journal Papers
 
