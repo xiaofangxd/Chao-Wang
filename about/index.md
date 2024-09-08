@@ -39,7 +39,7 @@ When Large Language Models Meet Evolutionary Algorithms, 2024, Submit to a Journ
 
 ### Journal Papers
 
-**C. Wang**, J. Zhao, L. Li*, L. Jiao, F. Liu, R. Shang, "Automatic Graph Topology-Aware Transformer", in _IEEE Transactions on Neural Networks and Learning Systems_ (IF: 10.2, JCR I, CCF B), accept 2024. [[paper](https://arxiv.org/abs/2405.19779)] [[code](https://github.com/xiaofangxd/EGTAS)]
+**C. Wang**, J. Zhao, L. Li*, L. Jiao, F. Liu, S. Yang, "Automatic Graph Topology-Aware Transformer", in _IEEE Transactions on Neural Networks and Learning Systems_ (IF: 10.2, JCR I, CCF B), accept 2024. [[paper](https://arxiv.org/abs/2405.19779)] [[code](https://github.com/xiaofangxd/EGTAS)]
 
 L. Jiao*, J. Zhao, **C. Wang**, X. Liu, F. Liu, L. Li, R. Shang, Y. Li, W. Ma, S. Yang, "Nature-inspired Intelligent Computing: A Comprehensive Survey", in _Research_ (IF: 8.5, JCR I), accept 2024.
 
