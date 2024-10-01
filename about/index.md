@@ -1,7 +1,7 @@
 ---
 title: About
 layout: info
-Edit: 2024-08-06
+Edit: 2024-10-01
 toc: false
 commentable: false
 protected: true
@@ -39,9 +39,9 @@ When Large Language Models Meet Evolutionary Algorithms, 2024, Submit to a Journ
 
 ### Journal Papers
 
-**C. Wang**, J. Zhao, L. Li*, L. Jiao, F. Liu, S. Yang, "Automatic Graph Topology-Aware Transformer", in _IEEE Transactions on Neural Networks and Learning Systems_ (IF: 10.2, JCR I, CCF B), accept 2024. [[paper](https://arxiv.org/abs/2405.19779)] [[code](https://github.com/xiaofangxd/EGTAS)]
+**C. Wang**, J. Zhao, L. Li*, L. Jiao, F. Liu, S. Yang, "Automatic Graph Topology-Aware Transformer", in _IEEE Transactions on Neural Networks and Learning Systems_ (IF: 10.2, JCR I, CCF B), accept 2024. [[paper](https://ieeexplore.ieee.org/document/10681642)] [[code](https://github.com/xiaofangxd/EGTAS)]
 
-L. Jiao*, J. Zhao, **C. Wang**, X. Liu, F. Liu, L. Li, R. Shang, Y. Li, W. Ma, S. Yang, "Nature-inspired Intelligent Computing: A Comprehensive Survey", in _Research_ (IF: 8.5, JCR I), accept 2024.
+L. Jiao*, J. Zhao, **C. Wang**, X. Liu, F. Liu, L. Li, R. Shang, Y. Li, W. Ma, S. Yang, "Nature-inspired Intelligent Computing: A Comprehensive Survey", in _Research_ (IF: 8.5, JCR I), accept 2024. [[paper](https://spj.science.org/doi/10.34133/research.0442)]
 
 J. Zhao, L. Jiao*, **C. Wang**, X. Liu, F. Liu, L. Li, M. Ma, S. Yang, "Knowledge Guided Evolutionary Transformer for Remote Sensing Scene Classification," in _IEEE Transactions on Circuits and Systems for Video Technology_ (IF:8.4, JCR I, CCF B), accept 2024. [[paper](https://ieeexplore.ieee.org/document/10542522)]
 
