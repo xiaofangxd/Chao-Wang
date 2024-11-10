@@ -33,9 +33,9 @@ Network Collaborator: Knowledge Transfer Between Network Reconstruction and Comm
 
 Pareto Automatic Multi-Task Learning on Graphs, 2023, Submit  to _IEEE TPAMI_.
 
-Knowledge-aware Evolutionary Graph Neural Architecture Search, 2024, Submit to _Elsevier_.
+Knowledge-aware Evolutionary Graph Neural Architecture Search, 2024, Submit to _Elsevier_ (Under Second Review).
 
-When Large Language Models Meet Evolutionary Algorithms, 2024, Submit to a Journal (Under Second Review). [[paper](https://arxiv.org/abs/2401.10510)]
+When Large Language Models Meet Evolutionary Algorithms, 2024, Submit to a Journal. [[paper](https://arxiv.org/abs/2401.10510)]
 
 ### Journal Papers
 
