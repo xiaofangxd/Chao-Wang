@@ -29,51 +29,39 @@ My Group: [EvoIGroup](https://evoigroup.netlify.app/)
 
 # Publications and Preprint
 ### Preprint
-Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection from Dynamics[J]. arXiv preprint arXiv:2201.01134, 2023, Submit  to a Journal (Under Second Review). [[paper](https://arxiv.org/abs/2201.01134)] [[code](https://github.com/xiaofangxd/EMTNRCD)]
 
-Pareto Automatic Multi-Task Learning on Graphs, 2023, Submit  to _IEEE TPAMI_.
-
-Knowledge-aware Evolutionary Graph Neural Architecture Search, 2024, Submit to _Elsevier_ (Under Second Review).
-
-When Large Language Models Meet Evolutionary Algorithms, 2024, Submit to a Journal. [[paper](https://arxiv.org/abs/2401.10510)]
+<ol style="list-style-type: decimal; padding-left: 2em;">
+  <li>Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection from Dynamics[J]. arXiv preprint arXiv:2201.01134, 2023, Submit  to a Journal (Under Second Review). [[paper](https://arxiv.org/abs/2201.01134)] [[code](https://github.com/xiaofangxd/EMTNRCD)]</li>
+  <li>Pareto Automatic Multi-Task Learning on Graphs, 2023, Submit  to _IEEE_.</li>
+  <li>Knowledge-aware Evolutionary Graph Neural Architecture Search, 2024, Submit to _Elsevier_ (Under Second Review).
+</li>
+  <li>When Large Language Models Meet Evolutionary Algorithms, 2024, Submit to a Journal. [[paper](https://arxiv.org/abs/2401.10510)]</li>
+</ol>
 
 ### Journal Papers
 
 <ol style="list-style-type: decimal; padding-left: 2em;">
-  <li>论文标题一</li>
-  <li>论文标题二</li>
-  <li>论文标题三</li>
+  <li>**C. Wang**, J. Zhao, L. Li*, L. Jiao, F. Liu, S. Yang, "Automatic Graph Topology-Aware Transformer", in _IEEE Transactions on Neural Networks and Learning Systems_ (IF: 10.2, JCR I, CCF B), accept 2024. [[paper](https://ieeexplore.ieee.org/document/10681642)] [[code](https://github.com/xiaofangxd/EGTAS)]</li>
+  <li>L. Jiao*, J. Zhao, **C. Wang**, X. Liu, F. Liu, L. Li, R. Shang, Y. Li, W. Ma, S. Yang, "Nature-inspired Intelligent Computing: A Comprehensive Survey", in _Research_ (IF: 8.5, JCR I), accept 2024. [[paper](https://spj.science.org/doi/10.34133/research.0442)]</li>
+  <li>J. Zhao, L. Jiao*, **C. Wang**, X. Liu, F. Liu, L. Li, M. Ma, S. Yang, "Knowledge Guided Evolutionary Transformer for Remote Sensing Scene Classification," in _IEEE Transactions on Circuits and Systems for Video Technology_ (IF:8.4, JCR I, CCF B), accept 2024. [[paper](https://ieeexplore.ieee.org/document/10542522)]</li>
+  <li>J. Zhao, L. Jiao*, **C. Wang**, X. Liu, F. Liu, L. Li, S. Yang, "GeoFormer: A Geometric Representation Transformer for Change Detection," in _IEEE Transactions on Geoscience and Remote Sensing_ (IF:8.2, JCR I, CCF B), vol. 61, pp. 1-17, 2023. [[paper](https://ieeexplore.ieee.org/document/10314551)]</li>
+  <li>H. Zhao*, X. Ning, X. Liu, **C. Wang**, J. Liu, “What Makes Evolutionary Multi-task Optimization Better: A Comprehensive Survey,” in _Applied Soft Computing_ (IF:8.263, JCR I), vol. 145, 2023, 110545. [[paper](https://www.sciencedirect.com/science/article/pii/S156849462300563X)]</li>
+  <li>**C. Wang**, L. Jiao*, J. Zhao, L. Li, X. Liu, F. Liu, S. Yang, "Bi-level Multi-objective Evolutionary Learning: A Case Study on Multi-task Graph Neural Topology Search," in _IEEE Transactions on Evolutionary Computation_ (IF: 16.497, JCR I, CCF B), vol. 28, no. 1, pp. 208-222, 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10065594)] [[code](https://github.com/xiaofangxd/BLMOL)]</li>
+  <li>**C. Wang**, J. Zhao, L. Li, L. Jiao*, J. Liu, K. Wu, "A Multi-Transformation Evolutionary Framework for Influence Maximization in Social Networks," in _IEEE Computational Intelligence Magazine_ (IF: 9.809, JCR I), vol. 18, no. 1, pp. 52-67, Feb. 2023. [[paper](https://ieeexplore.ieee.org/document/10026148)] [[code](https://github.com/xiaofangxd/MTEFIM)]</li>
+  <li>**C. Wang**, K. Wu*, J. Liu, "Evolutionary Multitasking AUC Optimization [Research Frontier]," in _IEEE Computational Intelligence Magazine_ (IF: 9.809, JCR I), vol. 17, no. 2, pp. 67-82, May 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/9756594)] [[code](https://github.com/xiaofangxd/EMTAUC)]</li>
+  <li>**C. Wang**, J. Liu*, K. Wu, Z. Wu, "Solving Multitask Optimization Problems With Adaptive Knowledge Transfer via Anomaly Detection," in _IEEE Transactions on Evolutionary Computation_ (IF: 16.497, JCR I, CCF B), vol. 26, no. 2, pp. 304-318, April 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/9385398)] [[code](https://github.com/xiaofangxd/MTEA-AD)]</li>
+  <li>K. Wu, **C. Wang***, J. Liu, "Evolutionary Multitasking Multilayer Network Reconstruction," in _IEEE Transactions on Cybernetics_ (IF: 19.118, JCR I, CCF B), vol. 52, no. 12, pp. 12854-12868, 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/9489377)] [[code](https://github.com/xiaofangxd/EM2MNR)]</li>
+  <li>**C. Wang**, J. Liu*, K. Wu, C. Ying, "Learning Large-scale Fuzzy Cognitive Maps Using an Evolutionary Many-task Algorithm," _Applied Soft Computing_ (IF: 8.263, JCR I), vol. 108, 2021, 107441. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1568494621003641)] [[code](https://github.com/xiaofangxd/IBMTEA-FCM)]</li>
+  <li>K. Wu, **C. Wang**, J. Liu, "Multilayer Nonlinear Dynamical Network Reconstruction from Streaming Data," _SCIENTIA SINICA Technologica_, vol. 52, no. 6, pp. 971-982, 2022. or 吴凯, **王超**, 刘静*, 流数据驱动的非线性动力学网络重构, 中国科学: 技术科学, vol. 52, no. 6, pp. 971-982, 2022. [[paper](https://www.sciengine.com/SST/doi/10.1360/SST-2020-0491)] [[code](https://github.com/SparseL/OMNR)]</li>
+  <li>C. Ying, J. Liu, K. Wu, **C. Wang**, "A Multiobjective Evolutionary Approach for Solving Large-Scale Network Reconstruction Problems via Logistic Principal Component Analysis," in _IEEE Transactions on Cybernetics_ (IF: 19.118, JCR I, CCF B), vol. 53, no. 4, pp. 2137-2150, 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/9537739)] [[code](https://github.com/xiaofangxd/SLEMO-NR)]</li>
 </ol>
 
-**C. Wang**, J. Zhao, L. Li*, L. Jiao, F. Liu, S. Yang, "Automatic Graph Topology-Aware Transformer", in _IEEE Transactions on Neural Networks and Learning Systems_ (IF: 10.2, JCR I, CCF B), accept 2024. [[paper](https://ieeexplore.ieee.org/document/10681642)] [[code](https://github.com/xiaofangxd/EGTAS)]
-
-L. Jiao*, J. Zhao, **C. Wang**, X. Liu, F. Liu, L. Li, R. Shang, Y. Li, W. Ma, S. Yang, "Nature-inspired Intelligent Computing: A Comprehensive Survey", in _Research_ (IF: 8.5, JCR I), accept 2024. [[paper](https://spj.science.org/doi/10.34133/research.0442)]
-
-J. Zhao, L. Jiao*, **C. Wang**, X. Liu, F. Liu, L. Li, M. Ma, S. Yang, "Knowledge Guided Evolutionary Transformer for Remote Sensing Scene Classification," in _IEEE Transactions on Circuits and Systems for Video Technology_ (IF:8.4, JCR I, CCF B), accept 2024. [[paper](https://ieeexplore.ieee.org/document/10542522)]
-
-J. Zhao, L. Jiao*, **C. Wang**, X. Liu, F. Liu, L. Li, S. Yang, "GeoFormer: A Geometric Representation Transformer for Change Detection," in _IEEE Transactions on Geoscience and Remote Sensing_ (IF:8.2, JCR I, CCF B), vol. 61, pp. 1-17, 2023. [[paper](https://ieeexplore.ieee.org/document/10314551)]
-
-H. Zhao*, X. Ning, X. Liu, **C. Wang**, J. Liu, “What Makes Evolutionary Multi-task Optimization Better: A Comprehensive Survey,” in _Applied Soft Computing_ (IF:8.263, JCR I), vol. 145, 2023, 110545. [[paper](https://www.sciencedirect.com/science/article/pii/S156849462300563X)]
-
-**C. Wang**, L. Jiao*, J. Zhao, L. Li, X. Liu, F. Liu, S. Yang, "Bi-level Multi-objective Evolutionary Learning: A Case Study on Multi-task Graph Neural Topology Search," in _IEEE Transactions on Evolutionary Computation_ (IF: 16.497, JCR I, CCF B), vol. 28, no. 1, pp. 208-222, 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10065594)] [[code](https://github.com/xiaofangxd/BLMOL)]
-
-**C. Wang**, J. Zhao, L. Li, L. Jiao*, J. Liu, K. Wu, "A Multi-Transformation Evolutionary Framework for Influence Maximization in Social Networks," in _IEEE Computational Intelligence Magazine_ (IF: 9.809, JCR I), vol. 18, no. 1, pp. 52-67, Feb. 2023. [[paper](https://ieeexplore.ieee.org/document/10026148)] [[code](https://github.com/xiaofangxd/MTEFIM)]
-
-**C. Wang**, K. Wu*, J. Liu, "Evolutionary Multitasking AUC Optimization [Research Frontier]," in _IEEE Computational Intelligence Magazine_ (IF: 9.809, JCR I), vol. 17, no. 2, pp. 67-82, May 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/9756594)] [[code](https://github.com/xiaofangxd/EMTAUC)]
-
-**C. Wang**, J. Liu*, K. Wu, Z. Wu, "Solving Multitask Optimization Problems With Adaptive Knowledge Transfer via Anomaly Detection," in _IEEE Transactions on Evolutionary Computation_ (IF: 16.497, JCR I, CCF B), vol. 26, no. 2, pp. 304-318, April 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/9385398)] [[code](https://github.com/xiaofangxd/MTEA-AD)]
-
-K. Wu, **C. Wang***, J. Liu, "Evolutionary Multitasking Multilayer Network Reconstruction," in _IEEE Transactions on Cybernetics_ (IF: 19.118, JCR I, CCF B), vol. 52, no. 12, pp. 12854-12868, 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/9489377)] [[code](https://github.com/xiaofangxd/EM2MNR)]
-
-**C. Wang**, J. Liu*, K. Wu, C. Ying, "Learning Large-scale Fuzzy Cognitive Maps Using an Evolutionary Many-task Algorithm," _Applied Soft Computing_ (IF: 8.263, JCR I), vol. 108, 2021, 107441. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1568494621003641)] [[code](https://github.com/xiaofangxd/IBMTEA-FCM)]
-
-K. Wu, **C. Wang**, J. Liu, "Multilayer Nonlinear Dynamical Network Reconstruction from Streaming Data," _SCIENTIA SINICA Technologica_, vol. 52, no. 6, pp. 971-982, 2022. or 吴凯, **王超**, 刘静*, 流数据驱动的非线性动力学网络重构, 中国科学: 技术科学, vol. 52, no. 6, pp. 971-982, 2022. [[paper](https://www.sciengine.com/SST/doi/10.1360/SST-2020-0491)] [[code](https://github.com/SparseL/OMNR)]
-
-C. Ying, J. Liu, K. Wu, **C. Wang**, "A Multiobjective Evolutionary Approach for Solving Large-Scale Network Reconstruction Problems via Logistic Principal Component Analysis," in _IEEE Transactions on Cybernetics_ (IF: 19.118, JCR I, CCF B), vol. 53, no. 4, pp. 2137-2150, 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/9537739)] [[code](https://github.com/xiaofangxd/SLEMO-NR)]
-
-
 ### Conference Papers
-K. Wu, J. Liu*, **C. Wang**, K. Yuan, "Pareto Optimization for Influence Maximization in Social Networks," in _Evolutionary Multi-Criterion Optimization_. EMO 2021. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-72062-9_55)] [[code](https://github.com/SparseL/POIM)]
+
+<ol style="list-style-type: decimal; padding-left: 2em;">
+  <li>K. Wu, J. Liu*, **C. Wang**, K. Yuan, "Pareto Optimization for Influence Maximization in Social Networks," in _Evolutionary Multi-Criterion Optimization_. EMO 2021. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-72062-9_55)] [[code](https://github.com/SparseL/POIM)]</li>
+</ol>
+
 
 # Research Topic
 The main research directions are multitasking/transfer optimization and learning, natural evolution strategy, and complex networks (Graphs).
