@@ -30,13 +30,15 @@ My Group: [EvoIGroup](https://evoigroup.netlify.app/)
 # Publications and Preprint
 ### Preprint
 
-<ol style="list-style-type: decimal; padding-left: 2em;">
-  <li>Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection from Dynamics[J]. arXiv preprint arXiv:2201.01134, 2023, Submit  to a Journal (Under Second Review).</li> [[paper](https://arxiv.org/abs/2201.01134)] [[code](https://github.com/xiaofangxd/EMTNRCD)]
-  <li>Pareto Automatic Multi-Task Learning on Graphs, 2023, Submit  to _IEEE_.</li>
-  <li>Knowledge-aware Evolutionary Graph Neural Architecture Search, 2024, Submit to _Elsevier_ (Under Second Review).
-</li>
-  <li>When Large Language Models Meet Evolutionary Algorithms, 2024, Submit to a Journal. [[paper](https://arxiv.org/abs/2401.10510)]</li>
-</ol>
+
+Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection from Dynamics[J]. arXiv preprint arXiv:2201.01134, 2023, Submit  to a Journal (Under Second Review).[[paper](https://arxiv.org/abs/2201.01134)] [[code](https://github.com/xiaofangxd/EMTNRCD)]
+
+Pareto Automatic Multi-Task Learning on Graphs, 2023, Submit  to _IEEE_.
+
+Knowledge-aware Evolutionary Graph Neural Architecture Search, 2024, Submit to _Elsevier_ (Under Second Review).
+
+When Large Language Models Meet Evolutionary Algorithms, 2024, Submit to a Journal. [[paper](https://arxiv.org/abs/2401.10510)]
+
 
 ### Journal Papers
 
