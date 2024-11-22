@@ -1,7 +1,7 @@
 ---
 title: About
 layout: info
-Edit: 2024-10-01
+Edit: 2024-11-22
 toc: false
 commentable: false
 protected: true
@@ -38,6 +38,12 @@ Knowledge-aware Evolutionary Graph Neural Architecture Search, 2024, Submit to _
 When Large Language Models Meet Evolutionary Algorithms, 2024, Submit to a Journal. [[paper](https://arxiv.org/abs/2401.10510)]
 
 ### Journal Papers
+
+<ol style="list-style-type: decimal; padding-left: 2em;">
+  <li>论文标题一</li>
+  <li>论文标题二</li>
+  <li>论文标题三</li>
+</ol>
 
 **C. Wang**, J. Zhao, L. Li*, L. Jiao, F. Liu, S. Yang, "Automatic Graph Topology-Aware Transformer", in _IEEE Transactions on Neural Networks and Learning Systems_ (IF: 10.2, JCR I, CCF B), accept 2024. [[paper](https://ieeexplore.ieee.org/document/10681642)] [[code](https://github.com/xiaofangxd/EGTAS)]
 
