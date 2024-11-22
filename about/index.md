@@ -31,7 +31,7 @@ My Group: [EvoIGroup](https://evoigroup.netlify.app/)
 ### Preprint
 
 <ol style="list-style-type: decimal; padding-left: 2em;">
-  <li>Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection from Dynamics[J]. arXiv preprint arXiv:2201.01134, 2023, Submit  to a Journal (Under Second Review). [[paper](https://arxiv.org/abs/2201.01134)] [[code](https://github.com/xiaofangxd/EMTNRCD)]</li>
+  <li>Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection from Dynamics[J]. arXiv preprint arXiv:2201.01134, 2023, Submit  to a Journal (Under Second Review).</li> [[paper](https://arxiv.org/abs/2201.01134)] [[code](https://github.com/xiaofangxd/EMTNRCD)]
   <li>Pareto Automatic Multi-Task Learning on Graphs, 2023, Submit  to _IEEE_.</li>
   <li>Knowledge-aware Evolutionary Graph Neural Architecture Search, 2024, Submit to _Elsevier_ (Under Second Review).
 </li>
