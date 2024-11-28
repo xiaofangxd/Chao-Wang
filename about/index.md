@@ -1,7 +1,7 @@
 ---
 title: About
 layout: info
-Edit: 2024-11-26
+Edit: 2024-11-28
 toc: false
 commentable: false
 protected: true
@@ -40,7 +40,7 @@ When Large Language Models Meet Evolutionary Algorithms, 2024, Submit to a Journ
 
 ### Journal Papers
 
-**C. Wang**, J. Zhao, L. Li*, L. Jiao, F. Liu, X. Liu, S. Yang, "Knowledge-aware Evolutionary Graph Neural Architecture Search", in _Knowledge-Based Systems_ (IF: 7.2, JCR I, CCF C), accept 2024. [[code](https://github.com/xiaofangxd/KEGNAS)]
+**C. Wang**, J. Zhao, L. Li*, L. Jiao, F. Liu, X. Liu, S. Yang, "Knowledge-aware Evolutionary Graph Neural Architecture Search", in _Knowledge-Based Systems_ (IF: 7.2, JCR I, CCF C), accept 2024. [[paper](https://arxiv.org/abs/2411.17339)][[code](https://github.com/xiaofangxd/KEGNAS)]
 
 **C. Wang**, J. Zhao, L. Li*, L. Jiao, F. Liu, S. Yang, "Automatic Graph Topology-Aware Transformer", in _IEEE Transactions on Neural Networks and Learning Systems_ (IF: 10.2, JCR I, CCF B), accept 2024. [[paper](https://ieeexplore.ieee.org/document/10681642)] [[code](https://github.com/xiaofangxd/EGTAS)]
 
