@@ -1,7 +1,7 @@
 ---
 title: About
 layout: info
-Edit: 2024-11-28
+Edit: 2025-1-4
 toc: false
 commentable: false
 protected: true
@@ -30,12 +30,13 @@ My Group: [EvoIGroup](https://evoigroup.netlify.app/)
 # Publications and Preprint
 ### Preprint
 
+Learning Evolution via Optimization Knowledge Adaptation, 2025, Submit to a Journal.
 
-Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection from Dynamics[J]. arXiv preprint arXiv:2201.01134, 2023, Submit  to a Journal (Under Second Review).[[paper](https://arxiv.org/abs/2201.01134)] [[code](https://github.com/xiaofangxd/EMTNRCD)]
+When Large Language Models Meet Evolutionary Algorithms, 2024, Submit to a Journal (Under Second Review). [[paper](https://arxiv.org/abs/2401.10510)]
 
-Pareto Automatic Multi-Task Learning on Graphs, 2023, Submit  to _IEEE_.
+Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection from Dynamics[J]. arXiv preprint arXiv:2201.01134, 2023, Submit  to a Journal (Under Third Review).[[paper](https://arxiv.org/abs/2201.01134)] [[code](https://github.com/xiaofangxd/EMTNRCD)]
 
-When Large Language Models Meet Evolutionary Algorithms, 2024, Submit to a Journal. [[paper](https://arxiv.org/abs/2401.10510)]
+Pareto Automatic Multi-Task Learning on Graphs, 2023, Submit  to _IEEE_ (Under Second Review).
 
 
 ### Journal Papers
