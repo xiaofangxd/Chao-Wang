@@ -1,7 +1,7 @@
 ---
 title: About
 layout: info
-Edit: 2025-1-4
+Edit: 2025-1-7
 toc: false
 commentable: false
 protected: true
@@ -30,7 +30,7 @@ My Group: [EvoIGroup](https://evoigroup.netlify.app/)
 # Publications and Preprint
 ### Preprint
 
-Learning Evolution via Optimization Knowledge Adaptation, 2025, Submit to a Journal.
+Learning Evolution via Optimization Knowledge Adaptation, 2025, Submit to a Journal. [[paper](https://arxiv.org/abs/2501.02200v1)]
 
 When Large Language Models Meet Evolutionary Algorithms, 2024, Submit to a Journal (Under Second Review). [[paper](https://arxiv.org/abs/2401.10510)]
 
