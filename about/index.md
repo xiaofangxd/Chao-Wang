@@ -23,7 +23,7 @@ My Tutor: [Licheng Jiao](https://scholar.google.com/citations?user=FZbrL2YAAAAJ&
 
 Email: xiaofengxd@126.com [[Google Scholar](https://scholar.google.com/citations?user=Nj-aZHoAAAAJ&hl=zh-CN)] [[Researchgate Profile](https://www.researchgate.net/profile/Chao-Wang-408?ev=hdr_xprf)] [[CSDN Profile](https://blog.csdn.net/qq_40434430?type=blog)] [[Github Profile](https://github.com/xiaofangxd)] [[Aminer](https://www.aminer.cn/profile/649e35e41d157a8656d0095c)]
 
-Research Topic: Knowledge Driven Evolutionary Computation, Learning Evolution, and Complex Networks (Graphs).
+Research Topic: Knowledge-Driven Evolutionary Computation, Learning Evolution, and Complex Networks (Graphs).
 
 # Publications and Preprint
 ### Preprint
