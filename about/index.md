@@ -1,7 +1,7 @@
 ---
 title: About
 layout: info
-Edit: 2025-1-14
+Edit: 2025-3-5
 toc: false
 commentable: false
 protected: true
@@ -30,14 +30,14 @@ Research Topic: Knowledge-Driven Evolutionary Computation, Learning Evolution, a
 
 Learning Evolution via Optimization Knowledge Adaptation, 2025, Submit to a Journal. [[paper](https://arxiv.org/abs/2501.02200v1)]
 
-When Large Language Models Meet Evolutionary Algorithms, 2024, Submit to a Journal (Under Second Review). [[paper](https://arxiv.org/abs/2401.10510)]
-
 Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection from Dynamics[J]. arXiv preprint arXiv:2201.01134, 2023, Submit  to a Journal (Under Third Review).[[paper](https://arxiv.org/abs/2201.01134)] [[code](https://github.com/xiaofangxd/EMTNRCD)]
 
 Pareto Automatic Multi-Task Learning on Graphs, 2023, Submit  to _IEEE_ (Under Second Review).
 
 
 ### Journal Papers
+
+**C. Wang**, J. Zhao, L. Jiao*, L. Li, F. Liu, S. Yang, "When large language models meet evolutionary algorithms: Potential enhancements and challenges", in _Research_ (IF: 8.5, JCR I), accept 2025. [[paper](https://arxiv.org/abs/2401.10510)]
 
 **C. Wang**, J. Zhao, L. Li*, L. Jiao, F. Liu, X. Liu, S. Yang, "Knowledge-aware Evolutionary Graph Neural Architecture Search", in _Knowledge-Based Systems_ (IF: 7.2, JCR I, CCF C), accept 2024. [[paper](https://arxiv.org/abs/2411.17339)][[code](https://github.com/xiaofangxd/KEGNAS)]
 
