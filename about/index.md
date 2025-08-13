@@ -34,7 +34,7 @@ Pareto Automatic Multi-Task Learning on Graphs, 2023, Submit  to _IEEE_ (Under S
 
 
 ### Journal Papers
-T. Ma, **C. Wang**, K. Wu, J. Chen, J. Liu. "Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection", in _Neurocomputing_(IF:6.5，JCR I，CAAI B), accept, 2025.[[paper](https://arxiv.org/abs/2201.01134)] [[code](https://github.com/xiaofangxd/EMTNRCD)]
+T. Ma, **C. Wang**, K. Wu, J. Chen, J. Liu. "Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection", in _Neurocomputing_ (IF:6.5，JCR I，CAAI B), accept, 2025.[[paper](https://arxiv.org/abs/2201.01134)] [[code](https://github.com/xiaofangxd/EMTNRCD)]
 
 J. Zhao, L. Jiao*, L. Li, M. Ma, X. Liu, **C. Wang**, F. Liu, W. Ma, S. Yang. "S3Diffuser: Frequency selected state space guided diffusion model for multimodal fusion classification", in _Information Fusion_ (IF:15.5，JCR I，CAAI A), accept, 2025.
 
@@ -138,5 +138,6 @@ The posts are at different status.
 [NMI](https://www.nature.com/natmachintell/) [NC](https://www.nature.com/ncomms/) [PNAS](https://www.pnas.org/latest) [Nature](https://www.nature.com/) [Science](https://www.science.org/)
 
 [ArXiv-CS-Neural-and-Evolutionary-Computing](https://arxiv.org/list/cs.NE/recent)
+
 
 
