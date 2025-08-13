@@ -30,13 +30,13 @@ Research Topic: Knowledge-Driven Meta Evolutionary Computation, Learning Evoluti
 
 Learning Evolution via Optimization Knowledge Adaptation, 2025, Submit to a Journal (Under Second Review). [[paper](https://arxiv.org/abs/2501.02200v1)]
 
-Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection from Dynamics[J]. arXiv preprint arXiv:2201.01134, 2023, Submit  to a Journal (Under Four Review).[[paper](https://arxiv.org/abs/2201.01134)] [[code](https://github.com/xiaofangxd/EMTNRCD)]
-
 Pareto Automatic Multi-Task Learning on Graphs, 2023, Submit  to _IEEE_ (Under Second Review).
 
 
 ### Journal Papers
-J. Zhao, L. Jiao*, L. Li, M. Ma, X. Liu, **C. Wang**, F. Liu, W. Ma, S. Yang. S3Diffuser: Frequency selected state space guided diffusion model for multimodal fusion classification, in _Information Fusion_ (IF:15.5，JCR I，CAAI A), accept, 2025.
+T. Ma, **C. Wang**, K. Wu, J. Chen, J. Liu. "Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection", in _Neurocomputing_(IF:6.5，JCR I，CAAI C), accept, 2025.[[paper](https://arxiv.org/abs/2201.01134)] [[code](https://github.com/xiaofangxd/EMTNRCD)]
+
+J. Zhao, L. Jiao*, L. Li, M. Ma, X. Liu, **C. Wang**, F. Liu, W. Ma, S. Yang. "S3Diffuser: Frequency selected state space guided diffusion model for multimodal fusion classification", in _Information Fusion_ (IF:15.5，JCR I，CAAI A), accept, 2025.
 
 **C. Wang**, J. Zhao, L. Jiao*, L. Li, F. Liu, S. Yang, "When large language models meet evolutionary algorithms: Potential enhancements and challenges", in _Research_ (IF: 8.5, JCR I), accept 2025. [[paper](https://arxiv.org/abs/2401.10510)]
 
@@ -138,3 +138,4 @@ The posts are at different status.
 [NMI](https://www.nature.com/natmachintell/) [NC](https://www.nature.com/ncomms/) [PNAS](https://www.pnas.org/latest) [Nature](https://www.nature.com/) [Science](https://www.science.org/)
 
 [ArXiv-CS-Neural-and-Evolutionary-Computing](https://arxiv.org/list/cs.NE/recent)
+
