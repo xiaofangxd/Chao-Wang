@@ -88,22 +88,22 @@ Postdoc, Associate Researcher
 ## Research Topics
 
 ### 1. Evolutionary Multitasking / Transfer Optimization  
-Adaptive knowledge transfer via anomaly detection, community structure, and multi-transformation strategies; co-optimization of network reconstruction and community detection via multitasking.
+Adaptive knowledge transfer via anomaly detection, multitasking multilayer network reconstruction, multiform optimization, and prior knowledge transfer.
 
-→ [MTEA-AD](https://github.com/xiaofangxd/MTEA-AD) | [EM2MNR](https://github.com/xiaofangxd/EM2MNR) | [EMTNRCD](https://github.com/xiaofangxd/EMTNRCD)
+→ [MTEA-AD](https://github.com/xiaofangxd/MTEA-AD) | [EM2MNR](https://github.com/xiaofangxd/EM2MNR) | [MTEFIM](https://github.com/xiaofangxd/MTEFIM) | [EMTNRCD](https://github.com/xiaofangxd/EMTNRCD) | [[OKAEM](https://arxiv.org/abs/2501.02200v1)]
 
 ### 2. Meta Black-box Optimization  
-Unified frameworks for high-dimensional, multimodal, and constrained black-box problems; bilevel multi-objective evolutionary learning; Pareto-based automatic multitask learning.
+Adaptive Meta Black-box Optimization and bilevel multi-objective evolutionary learning.
 
-→ [BLMOL](https://github.com/xiaofangxd/BLMOL) | [MTEFIM](https://github.com/xiaofangxd/MTEFIM)
+→ [[OKAEM](https://arxiv.org/abs/2501.02200v1)] | [BLMOL](https://github.com/xiaofangxd/BLMOL) 
 
 ### 3. LLM-assisted Evolutionary Computation  
-Investigating LLMs as evolutionary operators (e.g., prompting-as-crossover), knowledge sources, and interpreters; LLM-guided multitask knowledge adaptation.
+Investigating LLMs as algorithm design.
 
 → [Survey](https://arxiv.org/abs/2401.10510) | [Code](https://github.com/xiaofangxd/LLM_EA)
 
 ### 4. Automated Graph Machine Learning  
-Evolutionary graph neural architecture search (KEGNAS); topology-aware graph transformers (EGTAS); automation of multitask graph representation learning.
+Evolutionary graph neural architecture search and topology-aware graph transformers.
 
 → [KEGNAS](https://github.com/xiaofangxd/KEGNAS) | [EGTAS](https://github.com/xiaofangxd/EGTAS)
 
@@ -147,3 +147,4 @@ Evolutionary graph neural architecture search (KEGNAS); topology-aware graph tra
 - [CCF Rankings](https://www.ccf.org.cn/Academic_Evaluation/By_category/)  
 - [Nature](https://www.nature.com/) | [Science](https://www.science.org/)  
 - [arXiv cs.NE (Neural and Evolutionary Computing)](https://arxiv.org/list/cs.NE/recent)
+
