@@ -71,29 +71,20 @@ Postdoc, Associate Researcher
 ## Research Topics
 
 ### 1. Evolutionary Multitasking / Transfer Optimization  
-Adaptive knowledge transfer via anomaly detection, multitasking multilayer network reconstruction, multiform optimization, and prior knowledge transfer.
+Adaptive knowledge transfer via anomaly detection, multitasking multilayer network reconstruction, multiform optimization, prior knowledge transfer
 → [MTEA-AD](https://github.com/xiaofangxd/MTEA-AD), [EM2MNR](https://github.com/xiaofangxd/EM2MNR), [MTEFIM](https://github.com/xiaofangxd/MTEFIM), [EMTNRCD](https://github.com/xiaofangxd/EMTNRCD), [OKAEM](https://arxiv.org/abs/2501.02200v1)
 
 ### 2. Meta Black-box Optimization  
-Adaptive meta black-box optimization and bilevel multi-objective evolutionary learning
+Adaptive meta black-box optimization, bilevel multi-objective evolutionary learning
 → [OKAEM](https://arxiv.org/abs/2501.02200v1), [BLMOL](https://github.com/xiaofangxd/BLMOL) 
 
 ### 3. LLM-assisted Evolutionary Computation  
 LLMs as evolutionary operators (e.g., prompting-as-crossover) or meta-heuristic designers
-→ [Survey](https://arxiv.org/abs/2401.10510), [Code](https://github.com/xiaofangxd/LLM_EA)
+→ [Survey](https://arxiv.org/abs/2401.10510), [PaperCollection](https://github.com/xiaofangxd/LLM_EA)
 
 ### 4. Automated Graph Machine Learning  
-Evolutionary graph neural architecture search and topology-aware graph transformers.
+Evolutionary graph neural architecture search, topology-aware graph transformers
 → [KEGNAS](https://github.com/xiaofangxd/KEGNAS), [EGTAS](https://github.com/xiaofangxd/EGTAS)
-
----
-
-## Contact & Profiles
-
-📧 Email: xiaofengxd@126.com  
-🔗 [Google Scholar](https://scholar.google.com/citations?user=Nj-aZHoAAAAJ) | [ResearchGate](https://www.researchgate.net/profile/Chao-Wang-408) | [GitHub](https://github.com/xiaofangxd) | [CSDN](https://blog.csdn.net/qq_40434430) | [Aminer](https://www.aminer.cn/profile/649e35e41d157a8656d0095c)
-
----
 
 ## Quick Links
 
@@ -126,6 +117,7 @@ Evolutionary graph neural architecture search and topology-aware graph transform
 - [CCF Rankings](https://www.ccf.org.cn/Academic_Evaluation/By_category/)  
 - [Nature](https://www.nature.com/), [Science](https://www.science.org/)  
 - [arXiv cs.NE (Neural and Evolutionary Computing)](https://arxiv.org/list/cs.NE/recent)
+
 
 
 
