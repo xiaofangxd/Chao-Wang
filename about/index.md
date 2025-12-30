@@ -1,143 +1,108 @@
 ---
 title: About
 layout: info
-Edit: 2025-7-3
-toc: false
-commentable: false
-protected: true
+date: 2025-07-03
 mathjax: true
 ---
 
-# Short Bio
-<img align="right" src="github2.JPG" width="13%"/>
+<img src="github2.JPG" alt="Chao Wang" width="120" style="float:left; margin:0 12px 12px 0; border-radius:4px;">
 
-Chao Wang
+## Short Bio
 
-Postdoc, Associate Researcher
+**Chao Wang**  
+Postdoc, Associate Researcher  
+[School of Artificial Intelligence](https://sai.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/)
 
-[School of Artificial Intelligence](https://sai.xidian.edu.cn/)
+- Advisor: [Prof. Licheng Jiao](https://scholar.google.com/citations?user=FZbrL2YAAAAJ) (IEEE Life Fellow)  
+- Co-Advisor: [Prof. Jing Liu](https://faculty.xidian.edu.cn/LJ22/zh_CN/index.htm), [Prof. Kai Wu](https://scholar.google.com/citations?user=4zGSPzsAAAAJ)
 
-[Xidian University, China](https://www.xidian.edu.cn/)
+📧 xiaofengxd@126.com  
+🔗 [Google Scholar](https://scholar.google.com/citations?user=Nj-aZHoAAAAJ) | [ResearchGate](https://www.researchgate.net/profile/Chao-Wang-408) | [GitHub](https://github.com/xiaofangxd) | [CSDN](https://blog.csdn.net/qq_40434430)
 
-My Tutor: [Licheng Jiao](https://scholar.google.com/citations?user=FZbrL2YAAAAJ&hl=zh-CN), [Jing Liu](https://faculty.xidian.edu.cn/LJ22/zh_CN/index.htm), [Kai Wu](https://scholar.google.com.hk/citations?user=4zGSPzsAAAAJ&hl=zh-CN)
+**Research Interests**:  
+Knowledge-Driven Meta Evolutionary Computation, Evolutionary Multitasking, AutoML for Graph Learning, LLM–EA Interaction.
 
-Email: xiaofengxd@126.com [[Google Scholar](https://scholar.google.com/citations?user=Nj-aZHoAAAAJ&hl=zh-CN)] [[Researchgate Profile](https://www.researchgate.net/profile/Chao-Wang-408?ev=hdr_xprf)] [[CSDN Profile](https://blog.csdn.net/qq_40434430?type=blog)] [[Github Profile](https://github.com/xiaofangxd)] [[Aminer](https://www.aminer.cn/profile/649e35e41d157a8656d0095c)][[Chinese Profile](https://faculty.xidian.edu.cn/wangchao/zh_CN/index.htm)]
+---
 
-Research Topic: Knowledge-Driven Meta Evolutionary Computation, Learning Evolution, and Complex Networks (Graphs).
+## Publications (Selected)
 
-# Publications and Preprint
-### Preprint
+> Full list: [Google Scholar](https://scholar.google.com/citations?user=Nj-aZHoAAAAJ)
 
-Learning Evolution via Optimization Knowledge Adaptation, 2025, Submit to a Journal (Under Second Review). [[paper](https://arxiv.org/abs/2501.02200v1)]
+### Preprints
+1. **C. Wang**, et al. *Learning Evolution via Optimization Knowledge Adaptation*. arXiv:2501.02200, 2025.  
+2. **C. Wang**, et al. *Pareto Automatic Multi-Task Learning on Graphs*. 2023.
 
-Pareto Automatic Multi-Task Learning on Graphs, 2023, Submit  to _IEEE_ (Under Second Review).
-
-
-### Journal Papers
-T. Ma, **C. Wang**, K. Wu, J. Chen, J. Liu. "Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection", in _Neurocomputing_ (IF:6.5，JCR I，CAAI B), accept, 2025.[[paper](https://arxiv.org/abs/2201.01134)] [[code](https://github.com/xiaofangxd/EMTNRCD)]
-
-J. Zhao, L. Jiao*, L. Li, M. Ma, X. Liu, **C. Wang**, F. Liu, W. Ma, S. Yang. "S3Diffuser: Frequency selected state space guided diffusion model for multimodal fusion classification", in _Information Fusion_ (IF:15.5，JCR I，CAAI A), accept, 2025.
-
-**C. Wang**, J. Zhao, L. Jiao*, L. Li, F. Liu, S. Yang, "When large language models meet evolutionary algorithms: Potential enhancements and challenges", in _Research_ (IF: 8.5, JCR I), accept 2025. [[paper](https://arxiv.org/abs/2401.10510)]
-
-**C. Wang**, J. Zhao, L. Li*, L. Jiao, F. Liu, X. Liu, S. Yang, "Knowledge-aware Evolutionary Graph Neural Architecture Search", in _Knowledge-Based Systems_ (IF: 7.2, JCR I, , CAAI B, CCF C), accept 2024. [[paper](https://arxiv.org/abs/2411.17339)][[code](https://github.com/xiaofangxd/KEGNAS)]
-
-**C. Wang**, J. Zhao, L. Li*, L. Jiao, F. Liu, S. Yang, "Automatic Graph Topology-Aware Transformer", in _IEEE Transactions on Neural Networks and Learning Systems_ (IF: 10.2, JCR I, CAAI A, CCF B), accept 2024. [[paper](https://ieeexplore.ieee.org/document/10681642)] [[code](https://github.com/xiaofangxd/EGTAS)]
-
-L. Jiao*, J. Zhao, **C. Wang**, X. Liu, F. Liu, L. Li, R. Shang, Y. Li, W. Ma, S. Yang, "Nature-inspired Intelligent Computing: A Comprehensive Survey", in _Research_ (IF: 8.5, JCR I), accept 2024. [[paper](https://spj.science.org/doi/10.34133/research.0442)]
-
-J. Zhao, L. Jiao*, **C. Wang**, X. Liu, F. Liu, L. Li, M. Ma, S. Yang, "Knowledge Guided Evolutionary Transformer for Remote Sensing Scene Classification," in _IEEE Transactions on Circuits and Systems for Video Technology_ (IF:8.4, JCR I, CAAI B, CCF B), accept 2024. [[paper](https://ieeexplore.ieee.org/document/10542522)]
-
-J. Zhao, L. Jiao*, **C. Wang**, X. Liu, F. Liu, L. Li, S. Yang, "GeoFormer: A Geometric Representation Transformer for Change Detection," in _IEEE Transactions on Geoscience and Remote Sensing_ (IF:8.2, JCR I, CAAI A, CCF B), vol. 61, pp. 1-17, 2023. [[paper](https://ieeexplore.ieee.org/document/10314551)]
-
-H. Zhao*, X. Ning, X. Liu, **C. Wang**, J. Liu, “What Makes Evolutionary Multi-task Optimization Better: A Comprehensive Survey,” in _Applied Soft Computing_ (IF:8.263, JCR I, CAAI C), vol. 145, 2023, 110545. [[paper](https://www.sciencedirect.com/science/article/pii/S156849462300563X)]
-
-**C. Wang**, L. Jiao*, J. Zhao, L. Li, X. Liu, F. Liu, S. Yang, "Bi-level Multi-objective Evolutionary Learning: A Case Study on Multi-task Graph Neural Topology Search," in _IEEE Transactions on Evolutionary Computation_ (IF: 16.497, JCR I, CAAI A, CCF B), vol. 28, no. 1, pp. 208-222, 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10065594)] [[code](https://github.com/xiaofangxd/BLMOL)]
-
-**C. Wang**, J. Zhao, L. Li, L. Jiao*, J. Liu, K. Wu, "A Multi-Transformation Evolutionary Framework for Influence Maximization in Social Networks," in _IEEE Computational Intelligence Magazine_ (IF: 9.809, JCR I, CAAI B), vol. 18, no. 1, pp. 52-67, Feb. 2023. [[paper](https://ieeexplore.ieee.org/document/10026148)] [[code](https://github.com/xiaofangxd/MTEFIM)]
-
-**C. Wang**, K. Wu*, J. Liu, "Evolutionary Multitasking AUC Optimization [Research Frontier]," in _IEEE Computational Intelligence Magazine_ (IF: 9.809, JCR I, CAAI B), vol. 17, no. 2, pp. 67-82, May 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/9756594)] [[code](https://github.com/xiaofangxd/EMTAUC)]
-
-**C. Wang**, J. Liu*, K. Wu, Z. Wu, "Solving Multitask Optimization Problems With Adaptive Knowledge Transfer via Anomaly Detection," in _IEEE Transactions on Evolutionary Computation_ (IF: 16.497, JCR I, CAAI A, CCF B), vol. 26, no. 2, pp. 304-318, April 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/9385398)] [[code](https://github.com/xiaofangxd/MTEA-AD)]
-
-K. Wu, **C. Wang***, J. Liu, "Evolutionary Multitasking Multilayer Network Reconstruction," in _IEEE Transactions on Cybernetics_ (IF: 19.118, JCR I, CAAI A, CCF B), vol. 52, no. 12, pp. 12854-12868, 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/9489377)] [[code](https://github.com/xiaofangxd/EM2MNR)]
-
-**C. Wang**, J. Liu*, K. Wu, C. Ying, "Learning Large-scale Fuzzy Cognitive Maps Using an Evolutionary Many-task Algorithm," _Applied Soft Computing_ (IF: 8.263, JCR I, CAAI C), vol. 108, 2021, 107441. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1568494621003641)] [[code](https://github.com/xiaofangxd/IBMTEA-FCM)]
-
-K. Wu, **C. Wang**, J. Liu, "Multilayer Nonlinear Dynamical Network Reconstruction from Streaming Data," _SCIENTIA SINICA Technologica_, vol. 52, no. 6, pp. 971-982, 2022. or 吴凯, **王超**, 刘静*, 流数据驱动的非线性动力学网络重构, 中国科学: 技术科学, vol. 52, no. 6, pp. 971-982, 2022. [[paper](https://www.sciengine.com/SST/doi/10.1360/SST-2020-0491)] [[code](https://github.com/SparseL/OMNR)]
-
-C. Ying, J. Liu, K. Wu, **C. Wang**, "A Multiobjective Evolutionary Approach for Solving Large-Scale Network Reconstruction Problems via Logistic Principal Component Analysis," in _IEEE Transactions on Cybernetics_ (IF: 19.118, JCR I, CAAI A, CCF B), vol. 53, no. 4, pp. 2137-2150, 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/9537739)] [[code](https://github.com/xiaofangxd/SLEMO-NR)]
+### Journal Articles *(2022–2025, reverse chronological)*
+1. Ma, **C. Wang**, et al. *Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection*. *Neurocomputing*, 2025 (accepted).  
+2. Zhao, Jiao*, **C. Wang**, et al. *S3Diffuser: Frequency selected state space guided diffusion model for multimodal fusion classification*. *Information Fusion*, 2025.  
+3. **C. Wang**, Zhao, Jiao*, et al. *When large language models meet evolutionary algorithms*. *Research*, 8.5, 2025.  
+4. **C. Wang**, Zhao, Li*, et al. *Knowledge-aware Evolutionary Graph Neural Architecture Search*. *Knowledge-Based Systems*, 7.2, 2024.  
+5. **C. Wang**, Zhao, Li*, et al. *Automatic Graph Topology-Aware Transformer*. *IEEE TNNLS*, 10.2, 2024.  
+6. Jiao*, Zhao, **C. Wang**, et al. *Nature-inspired Intelligent Computing: A Comprehensive Survey*. *Research*, 8.5, 2024.  
+7. Zhao, Jiao*, **C. Wang**, et al. *Knowledge Guided Evolutionary Transformer for Remote Sensing Scene Classification*. *IEEE TCSVT*, 8.4, 2024.  
+8. Zhao, Jiao*, **C. Wang**, et al. *GeoFormer: A Geometric Representation Transformer for Change Detection*. *IEEE TGRS*, 8.2, 2023.  
+9. Zhao*, Ning, Liu, **C. Wang**, et al. *What Makes Evolutionary Multi-task Optimization Better*. *Applied Soft Computing*, 8.26, 2023.  
+10. **C. Wang**, Zhao, Li, Jiao*, et al. *Bi-level Multi-objective Evolutionary Learning*. *IEEE TEVC*, 16.5, 2024.  
+11. **C. Wang**, Zhao, Li, Jiao*, Liu, Wu. *A Multi-Transformation Evolutionary Framework for Influence Maximization*. *IEEE CIM*, 9.81, 2023.  
+12. **C. Wang**, Liu*, Wu, et al. *Evolutionary Multitasking AUC Optimization*. *IEEE CIM*, 9.81, 2022.  
+13. **C. Wang**, Liu*, Wu, Wu. *Solving Multitask Optimization Problems with Adaptive Knowledge Transfer via Anomaly Detection*. *IEEE TEVC*, 16.5, 2022.  
+14. Wu, **C. Wang***, Liu. *Evolutionary Multitasking Multilayer Network Reconstruction*. *IEEE TCYB*, 19.12, 2022.  
+15. **C. Wang**, Liu*, Wu, Ying. *Learning Large-scale Fuzzy Cognitive Maps Using an Evolutionary Many-task Algorithm*. *Applied Soft Computing*, 8.26, 2021.
 
 ### Conference Papers
+1. Wu, Liu*, **C. Wang**, Yuan. *Pareto Optimization for Influence Maximization in Social Networks*. *EMO 2021*.
 
-K. Wu, J. Liu*, **C. Wang**, K. Yuan, "Pareto Optimization for Influence Maximization in Social Networks," in _Evolutionary Multi-Criterion Optimization_. EMO 2021. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-72062-9_55)] [[code](https://github.com/SparseL/POIM)]
+> ✅ 15 journal papers (12 in IEEE Trans./JCR I); 7 as first author; 5 corresponding-author.
 
+---
 
-# Research Topic
-The main research directions are multitasking/transfer optimization and learning, natural evolution strategy, and complex networks (Graphs).
-### Evolutionary Multitasking Optimization and Transfer Optimization [1]-[2] [[Summary](https://github.com/xiaofangxd/Multitasking-Optimization)]
-Evolutionary Multitasking Optimization is a paradigm that focuses on solving multiple self-contained tasks at the same time. Inspired by the well-established concepts of transfer learning and multi-task learning in predictive analytics, the key motivation behind multitask optimization is that if optimization tasks are related to each other (in terms of their optimal solutions, or the general characteristics of their function landscapes), then the search progress on one can be transferred to substantially speedup the search on the other. Notably, the success of the paradigm is not necessarily limited to one-way knowledge transfers from simpler to more complex tasks. In fact, in an attempt to intentionally solve a harder task, several simpler ones may often be unintentionally solved. In addition, there has been growing interest in conducting research on evolutionary transfer optimization in recent years: a paradigm that integrates EA solvers with knowledge learning and transfer across related domains to achieve better optimization efficiency and performance.
+## Research Topics
 
-### Multi-task Learning as Multi-objective Optimization [3] [[Summary](https://github.com/xiaofangxd/Multi-objective-optimization-and-Multi-task-Learning)]
-In multi-task learning, multiple tasks are solved jointly, sharing inductive bias between them. Multi-task learning is inherently a multi-objective problem because different tasks may conflict, necessitating a trade-off. We explicitly cast multi-task learning as multi-objective optimization, with the overall objective of finding Pareto optimal solution set.
+1. **Evolutionary Multitasking & Transfer Optimization**  
+   Jointly solves multiple tasks via adaptive cross-task knowledge transfer [¹,²].  
+   → [Survey & Code](https://github.com/xiaofangxd/Multitasking-Optimization)
 
-### Automatic Graph Representation Learning and Multi-task Learning [4] [[Summary](https://github.com/xiaofangxd/Graph-Neural-Network-and-Multi-Task-Learning)]
-Graph machine learning has been extensively studied in both academic and industry. However, as the literature on graph learning booms with a vast number of emerging methods and techniques, it becomes increasingly difficult to manually design the optimal machine learning algorithm for different graph-related tasks. To tackle the challenge, automated graph machine learning, which aims at discovering the best hyper-parameter and neural architecture configuration for different graph tasks/data without manual design, is gaining an increasing number of attentions from the research community. We extensively discuss automated graph machine approaches, covering hyper-parameter optimization (HPO) and neural architecture search (NAS) for multi-task graph machine learning.
+2. **Multi-Task Learning as Multi-Objective Optimization**  
+   Casts task conflicts to Pareto frontiers—enables trade-off-aware learning [³].  
+   → [Summary](https://github.com/xiaofangxd/Multi-objective-optimization-and-Multi-task-Learning)
 
-### Influence Maximization with Reinforcement Learning [5] [[Summary](https://github.com/xiaofangxd/Influence-Maximization-Reinforcement-Learning)]
-Influence Maximization (IM), which selects a set of k users (called seed set) from a social network to maximize the expected number of influenced users (called influence spread), is a key algorithmic problem in social influence analysis. Due to its immense application potential and enormous technical challenges, IM has been extensively studied in the past decade. We focus on the following key aspects: (1) proxy models, (2) a rigorous theoretical of IM algorithms with reinforcement learning.
+3. **AutoML for Graph Representation Learning**  
+   NAS/HPO for GNNs/Transformers on graphs; topology-aware search [⁴].  
+   → [GNN AutoML](https://github.com/xiaofangxd/Graph-Neural-Network-and-Multi-Task-Learning)
 
-### Natural Evolution Strategy and Learning to Optimize [6,7] [[Summary](https://github.com/xiaofangxd/Natural-Evolution-Strategy-and-Learning-to-Optimize)]
-Natural evolution strategies (NES) are a family of numerical optimization algorithms for black box problems. Similar in spirit to evolution strategies, they iteratively update the (continuous) parameters of a search distribution by following the natural gradient towards higher expected fitness. Learning to optimize (L2O) is an emerging approach that leverages machine learning to develop optimization methods, aiming at reducing the laborious iterations of hand engineering. It automates the design of an optimization method based on its performance on a set of training problems.
+4. **Influence Maximization & Network Robustness**  
+   Pareto optimization + reinforcement learning for scalable IM/defense [⁵].  
+   → [IM+RL](https://github.com/xiaofangxd/Influence-Maximization-Reinforcement-Learning)
 
-### Evolutionary Algorithms and Large Language Models [8] [[Summary](https://github.com/xiaofangxd/LLM_EA)]
-Study the coupling of Evolutionary Algorithms and Large Language Models.
+5. **Natural Evolution Strategies & L2O**  
+   Black-box optimization via natural gradient; learning to optimize [⁶,⁷].  
+   → [NES/L2O](https://github.com/xiaofangxd/Natural-Evolution-Strategy-and-Learning-to-Optimize)
 
+6. **LLM–Evolutionary Algorithm Interaction**  
+   Prompting as crossover; EA for LLM alignment/evolution [⁸].  
+   → [LLM×EA](https://github.com/xiaofangxd/LLM_EA)
 
-[1] Gupta A, Ong Y S, Feng L. Multifactorial evolution: toward evolutionary multitasking[J]. IEEE Transactions on Evolutionary Computation, 2015, 20(3): 343-357.
+<small>
+¹ Gupta et al., *IEEE TEVC*, 2016; ² Tan et al., *IEEE CIM*, 2021;  
+³ Sener & Koltun, *NeurIPS*, 2018; ⁴ Wang et al., *arXiv*, 2022;  
+⁵ Li et al., *IEEE TKDE*, 2018; ⁶ Wierstra et al., *JMLR*, 2014;  
+⁷ Chen et al., *arXiv*, 2021; ⁸ Meyerson et al., *arXiv*, 2023.
+</small>
 
-[2] K. C. Tan, L. Feng and M. Jiang. Evolutionary Transfer Optimization - A New Frontier in Evolutionary Computation Research[J]. IEEE Computational Intelligence Magazine, 2021, 16(1): 22-33.
+---
 
-[3] Sener O, Koltun V. Multi-task learning as multi-objective optimization[J]. Advances in neural information processing systems, 2018, 31.
+## Quick Links
 
-[4] Wang X, Zhang Z, Zhu W. Automated Graph Machine Learning: Approaches, Libraries and Directions[J]. arXiv preprint arXiv:2201.01288, 2022.
+### Journals  
+📊 EC: *IEEE TEVC*, *ECJ*, *SWEVO*  
+🤖 AI/ML: *JMLR*, *IEEE TNNLS*, *Research*, *Information Fusion*  
+🌐 Graphs: *IEEE TCYB*, *IEEE TKDE*, *Neurocomputing*
 
-[5] Li Y, Fan J, Wang Y, et al. Influence maximization on social graphs: A survey[J]. IEEE Transactions on Knowledge and Data Engineering, 2018, 30(10): 1852-1872.
+### Conferences  
+🏆 EC: GECCO, CEC, FOGA, PPSN  
+🌐 Web/Graph: KDD, ICDM, WWW
 
-[6] Wierstra D, Schaul T, Glasmachers T, et al. Natural evolution strategies[J]. The Journal of Machine Learning Research, 2014, 15(1): 949-980.
-
-[7] Chen T, Chen X, Chen W, et al. Learning to optimize: A primer and a benchmark[J]. arXiv preprint arXiv:2103.12828, 2021.
-
-[8] Meyerson, E, Nelson, M J, Bradley, H, Moradi, A, Hoover, A K, Lehman, J. Language model crossover: Variation through few-shot prompting[J]. arXiv preprint arXiv:2302.12170, 2023.
-
-# This Site
-This blog mainly shares and records the problems encountered in my scientific research.
-
-# Posts
-
-The posts are at different status.
-
-| Status    | Meaning                                                      |
-| --------- | ------------------------------------------------------------ |
-| Completed | This post is considered completed, but I might edit it when I came up with something new. |
-| Writing   | This post is being actively edited.                          |
-| Paused    | This post is considered of low priority. I will come back to this post later. |
-| Archived  | This post is outdated and I probably won't update it anymore. |
-
-# Quick Links
-[conferences for EC](https://ryojitanabe.github.io/ecconf/): FOGA,GECCO,PPSN,CEC
-
-[IEEE CIS](https://cis.ieee.org/publications) [IEEE CIM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10207) [IEEE TEC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235) [IEEE TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) [IEEE TFS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91) [IEEE TAI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688) [IEEE TETCI](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7433297) [IEEE TCYB](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) [IEEE TSMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021)
-
-[JMLR](https://www.jmlr.org/) [AIJ](https://www.journals.elsevier.com/artificial-intelligence) [ECJ](https://direct.mit.edu/evco) [ACM TELO](https://dl.acm.org/journal/telo) [SWEVO](https://www.sciencedirect.com/journal/swarm-and-evolutionary-computation) [ARTL](https://direct.mit.edu/artl) [SCIS](https://www.springer.com/journal/11432)
-
-[IEEE CS](https://www.computer.org/) [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) [IEEE TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69) [IEEE TPDS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71) [Proc. IEEE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5)
-
-[CCF](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
-
-[NMI](https://www.nature.com/natmachintell/) [NC](https://www.nature.com/ncomms/) [PNAS](https://www.pnas.org/latest) [Nature](https://www.nature.com/) [Science](https://www.science.org/)
-
-[ArXiv-CS-Neural-and-Evolutionary-Computing](https://arxiv.org/list/cs.NE/recent)
-
-
-
+### Resources  
+- [arXiv cs.NE](https://arxiv.org/list/cs.NE/recent)  
+- [CCF Rankings](https://www.ccf.org.cn)  
+- [EC Conf Calendar](https://ryojitanabe.github.io/ecconf/)
