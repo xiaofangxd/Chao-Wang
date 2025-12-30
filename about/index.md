@@ -90,15 +90,15 @@ Postdoc, Associate Researcher
 ### 1. Evolutionary Multitasking / Transfer Optimization  
 Adaptive knowledge transfer via anomaly detection, multitasking multilayer network reconstruction, multiform optimization, and prior knowledge transfer.
 
-→ [MTEA-AD](https://github.com/xiaofangxd/MTEA-AD) | [EM2MNR](https://github.com/xiaofangxd/EM2MNR) | [MTEFIM](https://github.com/xiaofangxd/MTEFIM) | [EMTNRCD](https://github.com/xiaofangxd/EMTNRCD) | [[OKAEM](https://arxiv.org/abs/2501.02200v1)]
+→ [MTEA-AD](https://github.com/xiaofangxd/MTEA-AD) | [EM2MNR](https://github.com/xiaofangxd/EM2MNR) | [MTEFIM](https://github.com/xiaofangxd/MTEFIM) | [EMTNRCD](https://github.com/xiaofangxd/EMTNRCD) | [OKAEM](https://arxiv.org/abs/2501.02200v1)
 
 ### 2. Meta Black-box Optimization  
-Adaptive Meta Black-box Optimization and bilevel multi-objective evolutionary learning.
+Adaptive meta black-box optimization and bilevel multi-objective evolutionary learning.
 
-→ [[OKAEM](https://arxiv.org/abs/2501.02200v1)] | [BLMOL](https://github.com/xiaofangxd/BLMOL) 
+→ [OKAEM](https://arxiv.org/abs/2501.02200v1) | [BLMOL](https://github.com/xiaofangxd/BLMOL) 
 
 ### 3. LLM-assisted Evolutionary Computation  
-Investigating LLMs as algorithm design.
+LLMs as evolutionary operators (e.g., prompting-as-crossover) or meta-heuristic designers.
 
 → [Survey](https://arxiv.org/abs/2401.10510) | [Code](https://github.com/xiaofangxd/LLM_EA)
 
@@ -147,4 +147,5 @@ Evolutionary graph neural architecture search and topology-aware graph transform
 - [CCF Rankings](https://www.ccf.org.cn/Academic_Evaluation/By_category/)  
 - [Nature](https://www.nature.com/) | [Science](https://www.science.org/)  
 - [arXiv cs.NE (Neural and Evolutionary Computing)](https://arxiv.org/list/cs.NE/recent)
+
 
