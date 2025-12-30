@@ -1,7 +1,7 @@
 ---
 title: About
 layout: info
-date: 2025-07-03
+date: 2025-12-30
 mathjax: true
 ---
 
@@ -147,5 +147,6 @@ Evolutionary graph neural architecture search and topology-aware graph transform
 - [CCF Rankings](https://www.ccf.org.cn/Academic_Evaluation/By_category/)  
 - [Nature](https://www.nature.com/) | [Science](https://www.science.org/)  
 - [arXiv cs.NE (Neural and Evolutionary Computing)](https://arxiv.org/list/cs.NE/recent)
+
 
 
