@@ -26,7 +26,7 @@ Postdoc, Associate Researcher
 ## Publications
 
 ### First-author Papers (\*)
-1. **C. Wang\***, J. Zhao, L. Jiao, et al. *When large language models meet evolutionary algorithms: Potential enhancements and challenges*. **Research** *(IF: 8.5, JCR I)*, 2025.  
+1. **C. Wang\***, J. Zhao, L. Jiao, et al. *When large language models meet evolutionary algorithms: Potential enhancements and challenges*. **Research** *(IF: 10.9, JCR I)*, 2025.  
    [[paper](https://arxiv.org/abs/2401.10510)]
 
 2. **C. Wang\***, J. Zhao, L. Li, et al. *Knowledge-aware Evolutionary Graph Neural Architecture Search*. **Knowledge-Based Systems** *(IF: 7.2, JCR I, CAAI B, CCF C)*, 2024.  
@@ -35,10 +35,10 @@ Postdoc, Associate Researcher
 3. **C. Wang\***, J. Zhao, L. Li, et al. *Automatic Graph Topology-Aware Transformer*. **IEEE TNNLS** *(IF: 10.2, JCR I, CAAI A, CCF B)*, 2024.  
    [[paper](https://ieeexplore.ieee.org/document/10681642)] [[code](https://github.com/xiaofangxd/EGTAS)]
 
-4. **C. Wang\***, J. Zhao, L. Li, et al. *Bi-level Multi-objective Evolutionary Learning: A Case Study on Multi-task Graph Neural Topology Search*. **IEEE TEVC** *(IF: 16.497, JCR I, CAAI A, CCF B)*, 28(1):208–222, 2024.  
+4. **C. Wang\***, J. Zhao, L. Li, et al. *Bi-level Multi-objective Evolutionary Learning: A Case Study on Multi-task Graph Neural Topology Search*. **IEEE TEVC** *(IF: 11.7, JCR I, CAAI A, CCF B)*, 28(1):208–222, 2024.  
    [[paper](https://ieeexplore.ieee.org/abstract/document/10065594)] [[code](https://github.com/xiaofangxd/BLMOL)]
 
-5. **C. Wang\***, J. Zhao, L. Li, et al. *A Multi-Transformation Evolutionary Framework for Influence Maximization in Social Networks*. **IEEE CIM** *(IF: 9.809, JCR I, CAAI B)*, 18(1):52–67, 2023.  
+5. **C. Wang\***, J. Zhao, L. Li, et al. *A Multi-Transformation Evolutionary Framework for Influence Maximization in Social Networks*. **IEEE CIM** *(IF: 9, JCR I, CAAI B)*, 18(1):52–67, 2023.  
    [[paper](https://ieeexplore.ieee.org/document/10026148)] [[code](https://github.com/xiaofangxd/MTEFIM)]
 
 6. **C. Wang\***, J. Liu, K. Wu, et al. *Evolutionary Multitasking AUC Optimization*. **IEEE CIM** *(IF: 9.809, JCR I, CAAI B)*, 17(2):67–82, 2022.  
@@ -47,7 +47,7 @@ Postdoc, Associate Researcher
 7. **C. Wang\***, J. Liu, K. Wu, et al. *Solving Multitask Optimization Problems with Adaptive Knowledge Transfer via Anomaly Detection*. **IEEE TEVC** *(IF: 16.497, JCR I, CAAI A, CCF B)*, 26(2):304–318, 2022.  
    [[paper](https://ieeexplore.ieee.org/abstract/document/9385398)] [[code](https://github.com/xiaofangxd/MTEA-AD)]
 
-8. **C. Wang\***, J. Liu, K. Wu, et al. *Learning Large-scale Fuzzy Cognitive Maps Using an Evolutionary Many-task Algorithm*. **Applied Soft Computing** *(IF: 8.26, JCR I, CAAI C)*, 108:107441, 2021.  
+8. **C. Wang\***, J. Liu, K. Wu, et al. *Learning Large-scale Fuzzy Cognitive Maps Using an Evolutionary Many-task Algorithm*. **Applied Soft Computing** *(IF: 8.263, JCR I, CAAI C)*, 108:107441, 2021.  
    [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1568494621003641)] [[code](https://github.com/xiaofangxd/IBMTEA-FCM)]
 
 9. **C. Wang\***, J. Zhao, L. Jiao, et al. *Learning Evolution via Optimization Knowledge Adaptation*. arXiv:2501.02200, 2025 (preprint).  
@@ -134,6 +134,7 @@ Evolutionary graph neural architecture search, topology-aware graph transformers
 - [CCF Rankings](https://www.ccf.org.cn/Academic_Evaluation/By_category/)  
 - [Nature](https://www.nature.com/), [Science](https://www.science.org/)  
 - [arXiv cs.NE (Neural and Evolutionary Computing)](https://arxiv.org/list/cs.NE/recent)
+
 
 
 
