@@ -7,7 +7,7 @@ mathjax: true
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-<img src="biye.JPG" alt="Chao Wang" width="120" style="float:left; margin:0 12px 12px 0; border-radius:4px;">
+<img src="biye.jpg" alt="Chao Wang" width="120" style="float:left; margin:0 12px 12px 0; border-radius:4px;">
 
 **Chao Wang**  
 Postdoc, Associate Researcher  
@@ -134,6 +134,7 @@ Evolutionary graph neural architecture search, topology-aware graph transformers
 - [CCF Rankings](https://www.ccf.org.cn/Academic_Evaluation/By_category/)  
 - [Nature](https://www.nature.com/), [Science](https://www.science.org/)  
 - [arXiv cs.NE (Neural and Evolutionary Computing)](https://arxiv.org/list/cs.NE/recent)
+
 
 
 
