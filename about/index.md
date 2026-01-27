@@ -55,6 +55,8 @@ Postdoc, Associate Researcher
 
 10. **C. Wang\***, J. Zhao, L. Li, et al. *Pareto Automatic Multi-Task Learning on Graphs*. 2023 (preprint).
 
+11. **C. Wang\***, L. Jiao, et al. *Task-free Adaptive Meta Black-box Optimization*. **ICLR** *(CAAI A)*, 2026. [[paper](https://openreview.net/forum?id=AufVSUgMUo)][[code](https://github.com/xiaofangxd/ABOM)]
+
 ### Corresponding-author Papers (†)
 1. Wu, **C. Wang†**, J. Liu. *Evolutionary Multitasking Multilayer Network Reconstruction*. **IEEE TCYB** *(IF: 19.118, JCR I, CAAI A, CCF B)*, 52(12):12854–12868, 2022.  
    [[paper](https://ieeexplore.ieee.org/abstract/document/9489377)] [[code](https://github.com/xiaofangxd/EM2MNR)]
@@ -134,6 +136,7 @@ Evolutionary graph neural architecture search, topology-aware graph transformers
 - [CCF Rankings](https://www.ccf.org.cn/Academic_Evaluation/By_category/)  
 - [Nature](https://www.nature.com/), [Science](https://www.science.org/)  
 - [arXiv cs.NE (Neural and Evolutionary Computing)](https://arxiv.org/list/cs.NE/recent)
+
 
 
 
