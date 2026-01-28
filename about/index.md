@@ -9,7 +9,7 @@ mathjax: true
 
 <table style="width:100%; border:0px; border-spacing:0px; border-collapse:collapse;">
   <tr style="border:0px;">
-    <td style="width:140px; vertical-align:top; border:0px; padding-right:20px;">
+    <td style="width:100px; vertical-align:top; border:0px; padding-right:20px;">
       <img src="biye.jpg" alt="Chao Wang" style="width:50%; max-width:140px; border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     </td>
     <td style="vertical-align:top; border:0px;">
@@ -99,7 +99,7 @@ My research focuses on the intersection of evolutionary computation and machine 
 
 **Journals** [IEEE CIS](https://cis.ieee.org/publications) • [IEEE CIM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10207) • [IEEE TEVC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235) • [IEEE TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) • [IEEE TCYB](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) • [IEEE TSMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021) • [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) • [IEEE TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69) • [JMLR](https://www.jmlr.org/) • [AIJ](https://www.journals.elsevier.com/artificial-intelligence) • [ECJ](https://direct.mit.edu/evco) • [ACM TELO](https://dl.acm.org/journal/telo) • [SWEVO](https://www.sciencedirect.com/journal/swarm-and-evolutionary-computation) • [ARTL](https://direct.mit.edu/artl) • [SCIS](https://www.springer.com/journal/11432) • [NMI](https://www.nature.com/natmachintell/) • [NC](https://www.nature.com/ncomms/) • [PNAS](https://www.pnas.org/latest)
 
-**Conferences** [FOGA, GECCO, PPSN, CEC](https://ryojitanabe.github.io/ecconf/)
+**Conferences** [ICLR](https://iclr.cc/) • [NeurIPS](https://neurips.cc/) • [ICML](https://icml.cc/) • [AAAI](https://aaai.org/) • [IJCAI](https://www.ijcai.org/) • [FOGA, GECCO, PPSN, CEC](https://ryojitanabe.github.io/ecconf/)
 
 **Publishers & Resources** [IEEE CS](https://www.computer.org/) • [IEEE Xplore (Proc. IEEE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5) • [CCF Rankings](https://www.ccf.org.cn/Academic_Evaluation/By_category/) • [Nature](https://www.nature.com/) • [Science](https://www.science.org/) • [arXiv cs.NE](https://arxiv.org/list/cs.NE/recent)
 
