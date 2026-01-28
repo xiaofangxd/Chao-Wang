@@ -36,6 +36,7 @@ mathjax: true
   <a href="https://github.com/xiaofangxd">GitHub</a> &nbsp;|&nbsp;
   <a href="https://blog.csdn.net/qq_40434430">CSDN</a> &nbsp;|&nbsp;
   <a href="https://www.aminer.cn/profile/649e35e41d157a8656d0095c">Aminer</a>
+  <a href="https://faculty.xidian.edu.cn/wangchao/zh_CN/index.htm">Chinese Homepage</a>
 </p>
 
 ---
@@ -43,10 +44,10 @@ mathjax: true
 ## 🔬 Research Interests
 
 My research focuses on the intersection of evolutionary computation and machine learning:
-* **Evolutionary Multitasking / Transfer Optimization**
+* **Evolutionary Knowledge Transfer**
 * **Meta Black-box Optimization**
 * **LLM-assisted Evolutionary Computation**
-* **Automated Graph Machine Learning**
+* **Automated Machine Learning**
 
 ---
 
@@ -89,3 +90,4 @@ My research focuses on the intersection of evolutionary computation and machine 
 **Journals** [IEEE TEVC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235) • [IEEE TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) • [IEEE TCYB](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) • [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) • [IEEE CIM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10207) • [Nature](https://www.nature.com/) • [Science](https://www.science.org/)
 
 **Conferences** [ICLR](https://iclr.cc/) • [NeurIPS](https://neurips.cc/) • [ICML](https://icml.cc/) • [GECCO](https://gecco-2024.sigevo.org/) • [CEC](https://wcci2024.org/)
+
