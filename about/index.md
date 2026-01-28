@@ -10,7 +10,7 @@ mathjax: true
 <table style="width:100%; border:0px; border-spacing:0px; border-collapse:collapse;">
   <tr style="border:0px;">
     <td style="width:100px; vertical-align:top; border:0px; padding-right:20px;">
-      <img src="biye.jpg" alt="Chao Wang" style="width:50%; max-width:140px; border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <img src="biye.jpg" alt="Chao Wang" style="width:100%; max-width:140px; border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     </td>
     <td style="vertical-align:top; border:0px;">
       <h2 style="margin-top:0;">Chao Wang (王超)</h2>
@@ -103,6 +103,7 @@ My research focuses on the intersection of evolutionary computation and machine 
 **Conferences** [ICLR](https://iclr.cc/) • [NeurIPS](https://neurips.cc/) • [ICML](https://icml.cc/) • [AAAI](https://aaai.org/) • [IJCAI](https://www.ijcai.org/) • [FOGA, GECCO, PPSN, CEC](https://ryojitanabe.github.io/ecconf/)
 
 **Publishers & Resources** [IEEE CS](https://www.computer.org/) • [IEEE Xplore (Proc. IEEE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5) • [CCF Rankings](https://www.ccf.org.cn/Academic_Evaluation/By_category/) • [Nature](https://www.nature.com/) • [Science](https://www.science.org/) • [arXiv cs.NE](https://arxiv.org/list/cs.NE/recent)
+
 
 
 
