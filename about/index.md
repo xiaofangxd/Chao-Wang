@@ -89,7 +89,7 @@ My research focuses on the intersection of evolutionary computation and machine 
 | Topic | Description | Links |
 | :--- | :--- | :--- |
 | **Transfer Optimization** | Adaptive knowledge transfer, multitasking network reconstruction. | [MTEA-AD](https://github.com/xiaofangxd/MTEA-AD) / [EM2MNR](https://github.com/xiaofangxd/EM2MNR) |
-| **Meta BBO** | Adaptive meta black-box optimization. | [OKAEM](https://arxiv.org/abs/2501.02200) / [BLMOL](https://github.com/xiaofangxd/BLMOL) |
+| **Meta BBO** | Adaptive meta black-box optimization. | [ABOM](https://openreview.net/forum?id=AufVSUgMUo) / [OKAEM](https://arxiv.org/abs/2501.02200) / [BLMOL](https://github.com/xiaofangxd/BLMOL) |
 | **LLM-assisted EA** | LLMs as evolutionary operators and heuristic designers. | [Survey](https://arxiv.org/abs/2401.10510) / [Repo](https://github.com/xiaofangxd/LLM_EA) |
 | **Auto Graph ML** | Evolutionary graph NAS, topology-aware transformers. | [KEGNAS](https://github.com/xiaofangxd/KEGNAS) / [EGTAS](https://github.com/xiaofangxd/EGTAS) |
 
@@ -100,6 +100,7 @@ My research focuses on the intersection of evolutionary computation and machine 
 **Journals** [IEEE TEVC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235) • [IEEE TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) • [IEEE TCYB](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) • [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) • [IEEE CIM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10207) • [Nature](https://www.nature.com/) • [Science](https://www.science.org/)
 
 **Conferences** [ICLR](https://iclr.cc/) • [NeurIPS](https://neurips.cc/) • [ICML](https://icml.cc/) • [GECCO](https://gecco-2024.sigevo.org/) • [CEC](https://wcci2024.org/)
+
 
 
 
