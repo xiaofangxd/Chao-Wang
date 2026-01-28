@@ -80,7 +80,7 @@ My research focuses on the intersection of evolutionary computation and machine 
 1. J. Zhao, L. Jiao\*, **C. Wang**, et al. *GeoFormer: A Geometric Representation Transformer for Change Detection*. **IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)**, 61:1–17, 2023. (IF: 8.2, JCR I, CAAI A) [[Paper](https://ieeexplore.ieee.org/document/10314551)]
 1. H. Zhao\*, X. Ning, X. Liu, **C. Wang**, J. Liu. *What Makes Evolutionary Multi-task Optimization Better*. **Applied Soft Computing**, 145:110545, 2023. (IF: 8.26, JCR I) [[Paper](https://www.sciencedirect.com/science/article/pii/S156849462300563X)]
 1. C. Ying, J. Liu, K. Wu, **C. Wang**. *A Multiobjective Evolutionary Approach for Solving Large-Scale Network Reconstruction Problems*. **IEEE Transactions on Cybernetics (IEEE TCYB)**, 53(4):2137–2150, 2023. (IF: 19.1, JCR I, CAAI A) [[Paper](https://ieeexplore.ieee.org/abstract/document/9537739)] [[Code](https://github.com/xiaofangxd/SLEMO-NR)]
-1. 吴凯, **王超\***, 刘静*. 流数据驱动的多层非线性动力学网络重构 [J]. 中国科学: 技术科学, 2022, 52(6): 971-982. [[code](https://github.com/SparseL/OMNR)]
+1. 吴凯, **王超**, 刘静*. 流数据驱动的多层非线性动力学网络重构 [J]. 中国科学: 技术科学, 2022, 52(6): 971-982. [[code](https://github.com/SparseL/OMNR)]
 1. K. Wu, J. Liu\*, **C. Wang**, Yuan. *Pareto Optimization for Influence Maximization in Social Networks*. **Evolutionary Multi-Criterion Optimization (EMO)**, 2021. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-72062-9_55)] [[Code](https://github.com/SparseL/POIM)]
    
 ---
@@ -103,6 +103,7 @@ My research focuses on the intersection of evolutionary computation and machine 
 **Conferences** [ICLR](https://iclr.cc/) • [NeurIPS](https://neurips.cc/) • [ICML](https://icml.cc/) • [AAAI](https://aaai.org/) • [IJCAI](https://www.ijcai.org/) • [FOGA, GECCO, PPSN, CEC](https://ryojitanabe.github.io/ecconf/)
 
 **Publishers & Resources** [IEEE CS](https://www.computer.org/) • [IEEE Xplore (Proc. IEEE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5) • [CCF Rankings](https://www.ccf.org.cn/Academic_Evaluation/By_category/) • [Nature](https://www.nature.com/) • [Science](https://www.science.org/) • [arXiv cs.NE](https://arxiv.org/list/cs.NE/recent)
+
 
 
 
