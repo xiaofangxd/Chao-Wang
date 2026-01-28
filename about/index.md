@@ -72,6 +72,16 @@ My research focuses on the intersection of evolutionary computation and machine 
 1. Ma, **C. Wang†**, K. Wu, et al. *Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection*. **Neurocomputing**, 2025 (accepted). (IF: 6.5, JCR I) [[Paper](https://arxiv.org/abs/2201.01134)] [[Code](https://github.com/xiaofangxd/EMTNRCD)]
 1. Wu, **C. Wang†**, J. Liu. *Evolutionary Multitasking Multilayer Network Reconstruction*. **IEEE Transactions on Cybernetics (IEEE TCYB)**, 52(12):12854–12868, 2022. (IF: 19.1, JCR I, CAAI A) [[Paper](https://ieeexplore.ieee.org/abstract/document/9489377)] [[Code](https://github.com/xiaofangxd/EM2MNR)]
 
+### Collaborative Papers
+
+1. Zhao, Jiao\*, **C. Wang**, et al. *S3Diffuser: Frequency selected state space guided diffusion model for multimodal fusion classification*. **Information Fusion**, 2025. (IF: 15.5, JCR I, CAAI A)
+1. Jiao\*, Zhao, **C. Wang**, et al. *Nature-inspired Intelligent Computing: A Comprehensive Survey*. **Research** (Science Partner Journal), 2024. (IF: 8.5, JCR I) [[Paper](https://spj.science.org/doi/10.34133/research.0442)]
+1. Zhao, Jiao\*, **C. Wang**, et al. *Knowledge Guided Evolutionary Transformer for Remote Sensing Scene Classification*. **IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)**, 2024. (IF: 8.4, JCR I, CAAI B) [[Paper](https://ieeexplore.ieee.org/document/10542522)]
+1. Zhao, Jiao\*, **C. Wang**, et al. *GeoFormer: A Geometric Representation Transformer for Change Detection*. **IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)**, 61:1–17, 2023. (IF: 8.2, JCR I, CAAI A) [[Paper](https://ieeexplore.ieee.org/document/10314551)]
+1. Zhao\*, Ning, Liu, **C. Wang**, Liu. *What Makes Evolutionary Multi-task Optimization Better*. **Applied Soft Computing**, 145:110545, 2023. (IF: 8.26, JCR I) [[Paper](https://www.sciencedirect.com/science/article/pii/S156849462300563X)]
+1. Ying, Liu, Wu, **C. Wang**. *A Multiobjective Evolutionary Approach for Solving Large-Scale Network Reconstruction Problems*. **IEEE Transactions on Cybernetics (IEEE TCYB)**, 53(4):2137–2150, 2023. (IF: 19.1, JCR I, CAAI A) [[Paper](https://ieeexplore.ieee.org/abstract/document/9537739)] [[Code](https://github.com/xiaofangxd/SLEMO-NR)]
+1. Wu, Liu\*, **C. Wang**, Yuan. *Pareto Optimization for Influence Maximization in Social Networks*. **Evolutionary Multi-Criterion Optimization (EMO)**, 2021. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-72062-9_55)] [[Code](https://github.com/SparseL/POIM)]
+   
 ---
 
 ## 🧩 Selected Projects
@@ -90,5 +100,6 @@ My research focuses on the intersection of evolutionary computation and machine 
 **Journals** [IEEE TEVC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235) • [IEEE TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) • [IEEE TCYB](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) • [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) • [IEEE CIM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10207) • [Nature](https://www.nature.com/) • [Science](https://www.science.org/)
 
 **Conferences** [ICLR](https://iclr.cc/) • [NeurIPS](https://neurips.cc/) • [ICML](https://icml.cc/) • [GECCO](https://gecco-2024.sigevo.org/) • [CEC](https://wcci2024.org/)
+
 
 
