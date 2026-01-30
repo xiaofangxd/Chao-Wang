@@ -44,7 +44,7 @@ mathjax: true
 ## 🔬 Research Interests
 
 My research focuses on the intersection of evolutionary computation and machine learning:
-* **Evolutionary Knowledge Transfer**
+* **Evolutionary Transfer Optimization**
 * **Meta Black-box Optimization**
 * **LLM-assisted Evolutionary Computation**
 * **Automated Machine Learning**
@@ -89,7 +89,7 @@ My research focuses on the intersection of evolutionary computation and machine 
 
 | Topic | Description | Links |
 | :--- | :--- | :--- |
-| **Transfer Optimization** | Adaptive knowledge transfer, multitasking network reconstruction. | [MTEA-AD](https://github.com/xiaofangxd/MTEA-AD) / [EM2MNR](https://github.com/xiaofangxd/EM2MNR) |
+| **Evolutionary Transfer Optimization** | Adaptive knowledge transfer, multitasking network reconstruction. | [MTEA-AD](https://github.com/xiaofangxd/MTEA-AD) / [EM2MNR](https://github.com/xiaofangxd/EM2MNR) |
 | **Meta BBO** | Adaptive meta black-box optimization. | [ABOM](https://openreview.net/forum?id=AufVSUgMUo) / [OKAEM](https://arxiv.org/abs/2501.02200) / [BLMOL](https://github.com/xiaofangxd/BLMOL) |
 | **LLM-assisted EA** | LLMs as evolutionary operators and heuristic designers. | [Survey](https://arxiv.org/abs/2401.10510) / [Repo](https://github.com/xiaofangxd/LLM_EA) |
 | **Auto Graph ML** | Evolutionary graph NAS, topology-aware transformers. | [KEGNAS](https://github.com/xiaofangxd/KEGNAS) / [EGTAS](https://github.com/xiaofangxd/EGTAS) |
@@ -103,6 +103,7 @@ My research focuses on the intersection of evolutionary computation and machine 
 **Conferences** [ICLR](https://iclr.cc/) • [NeurIPS](https://neurips.cc/) • [ICML](https://icml.cc/) • [AAAI](https://aaai.org/) • [IJCAI](https://www.ijcai.org/) • [FOGA, GECCO, PPSN, CEC](https://ryojitanabe.github.io/ecconf/)
 
 **Publishers & Resources** [IEEE CS](https://www.computer.org/) • [IEEE Xplore (Proc. IEEE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5) • [CCF Rankings](https://www.ccf.org.cn/Academic_Evaluation/By_category/) • [Nature](https://www.nature.com/) • [Science](https://www.science.org/) • [arXiv cs.NE](https://arxiv.org/list/cs.NE/recent)
+
 
 
 
