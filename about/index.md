@@ -19,7 +19,7 @@ mathjax: true
         <a href="https://sai.xidian.edu.cn/">School of Artificial Intelligence</a>, <a href="https://www.xidian.edu.cn/">Xidian University</a>
       </p>
       <p>
-        <b>Advisors:</b> <a href="https://scholar.google.com/citations?user=FZbrL2YAAAAJ">Prof. Licheng Jiao</a> (IEEE Fellow)<br>
+        <b>Advisors:</b> <a href="https://scholar.google.com/citations?user=FZbrL2YAAAAJ">Prof. Licheng Jiao</a> (IEEE Life Fellow)<br>
         <b>Co-Advisors:</b> <a href="https://faculty.xidian.edu.cn/LJ22/zh_CN/index.htm">Prof. Jing Liu</a>, <a href="https://scholar.google.com/citations?user=4zGSPzsAAAAJ">Prof. Kai Wu</a>
       </p>
       <p>
@@ -103,6 +103,7 @@ My research focuses on the intersection of evolutionary computation and machine 
 **Conferences** [ICLR](https://iclr.cc/) • [NeurIPS](https://neurips.cc/) • [ICML](https://icml.cc/) • [AAAI](https://aaai.org/) • [IJCAI](https://www.ijcai.org/) • [FOGA, GECCO, PPSN, CEC](https://ryojitanabe.github.io/ecconf/)
 
 **Publishers & Resources** [IEEE CS](https://www.computer.org/) • [IEEE Xplore (Proc. IEEE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5) • [CCF Rankings](https://www.ccf.org.cn/Academic_Evaluation/By_category/) • [Nature](https://www.nature.com/) • [Science](https://www.science.org/) • [arXiv cs.NE](https://arxiv.org/list/cs.NE/recent)
+
 
 
 
