@@ -1,7 +1,7 @@
 ---
 title: About
 layout: info
-date: 2026-1-30
+date: 2026-3-6
 mathjax: true
 ---
 
@@ -56,9 +56,9 @@ My research focuses on the intersection of evolutionary computation and machine 
 ### First-author Papers (\*)
 
 1. **C. Wang\***, L. Jiao, L. Li, et al. *Task-free Adaptive Meta Black-box Optimization*. **International Conference on Learning Representations (ICLR)**, 2026. **(CAAI A)** [[Paper](https://openreview.net/forum?id=AufVSUgMUo)] [[Code](https://github.com/xiaofangxd/ABOM)]
-1. **C. Wang\***, J. Zhao, L. Jiao, et al. *When large language models meet evolutionary algorithms: Potential enhancements and challenges*. **Research** (Science Partner Journal), 2025. **(IF: 10.9, JCR I)** [[Paper](https://arxiv.org/abs/2401.10510)]
-1. **C. Wang\***, J. Zhao, L. Li, et al. *Knowledge-aware Evolutionary Graph Neural Architecture Search*. **Knowledge-Based Systems**, 2024. **(IF: 7.2, JCR I, CAAI B)** [[Paper](https://arxiv.org/abs/2411.17339)] [[Code](https://github.com/xiaofangxd/KEGNAS)]
-1. **C. Wang\***, J. Zhao, L. Li, et al. *Automatic Graph Topology-Aware Transformer*. **IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)**, 2024. **(IF: 10.2, JCR I, CAAI A)** [[Paper](https://ieeexplore.ieee.org/document/10681642)] [[Code](https://github.com/xiaofangxd/EGTAS)]
+1. **C. Wang\***, J. Zhao, L. Jiao, et al. *When large language models meet evolutionary algorithms: Potential enhancements and challenges*. **Research** (Science Partner Journal), 8: 0646, 2025. **(IF: 10.9, JCR I)** [[Paper](https://spj.science.org/doi/10.34133/research.0646)]
+1. **C. Wang\***, J. Zhao, L. Li, et al. *Knowledge-aware Evolutionary Graph Neural Architecture Search*. **Knowledge-Based Systems**, 309: 112810, 2025. **(IF: 7.2, JCR I, CAAI B)** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124014448)] [[Code](https://github.com/xiaofangxd/KEGNAS)]
+1. **C. Wang\***, J. Zhao, L. Li, et al. *Automatic Graph Topology-Aware Transformer*. **IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)**, 36(5):8470-8484, 2024. **(IF: 10.2, JCR I, CAAI A)** [[Paper](https://ieeexplore.ieee.org/document/10681642)] [[Code](https://github.com/xiaofangxd/EGTAS)]
 1. **C. Wang\***, J. Zhao, L. Li, et al. *Bi-level Multi-objective Evolutionary Learning: A Case Study on Multi-task Graph Neural Topology Search*. **IEEE Transactions on Evolutionary Computation (IEEE TEVC)**, 28(1):208–222, 2024. **(IF: 11.7, JCR I, CAAI A)** [[Paper](https://ieeexplore.ieee.org/abstract/document/10065594)] [[Code](https://github.com/xiaofangxd/BLMOL)]
 1. **C. Wang\***, J. Zhao, L. Li, et al. *A Multi-Transformation Evolutionary Framework for Influence Maximization in Social Networks*. **IEEE Computational Intelligence Magazine (IEEE CIM)**, 18(1):52–67, 2023. **(IF: 9, JCR I, CAAI B)** [[Paper](https://ieeexplore.ieee.org/document/10026148)] [[Code](https://github.com/xiaofangxd/MTEFIM)]
 1. **C. Wang\***, J. Liu, K. Wu, et al. *Evolutionary Multitasking AUC Optimization*. **IEEE Computational Intelligence Magazine (IEEE CIM)**, 17(2):67–82, 2022. **(IF: 9.8, JCR I, CAAI B)** [[Paper](https://ieeexplore.ieee.org/abstract/document/9756594)] [[Code](https://github.com/xiaofangxd/EMTAUC)]
@@ -69,20 +69,20 @@ My research focuses on the intersection of evolutionary computation and machine 
 
 ### Corresponding-author Papers (†)
 
-1. T. Ma, **C. Wang†**, K. Wu, et al. *Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection*. **Neurocomputing**, 2025 (accepted). **(IF: 6.5, JCR I)** [[Paper](https://arxiv.org/abs/2201.01134)] [[Code](https://github.com/xiaofangxd/EMTNRCD)]
+1. T. Ma, **C. Wang†**, K. Wu, et al. *Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection*. **Neurocomputing**, 654: 131263, 2025. **(IF: 6.5, JCR I)** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225019356)] [[Code](https://github.com/xiaofangxd/EMTNRCD)]
 1. K. Wu, **C. Wang†**, J. Liu. *Evolutionary Multitasking Multilayer Network Reconstruction*. **IEEE Transactions on Cybernetics (IEEE TCYB)**, 52(12):12854–12868, 2022. **(IF: 19.1, JCR I, CAAI A)** [[Paper](https://ieeexplore.ieee.org/abstract/document/9489377)] [[Code](https://github.com/xiaofangxd/EM2MNR)]
 
 ### Collaborative Papers
-1. G. Wang, X. Zhang\*, J. Lai, et al. *Expanding Then Fusing: Weakly-supervised Remote Sensing Semantic Segmentation via Progressive Multi-modal Fusion*, **Pattern Recognition**, 2026. (IF:7.6, JCR I, CAAI B)
-1. J. Zhao, L. Li\*, L. Jiao, et al. *Modality-Prior Aware Progressive Diffusion Pansharpening*, **IEEE Transactions on Geoscience and Remote Sensing**, accept, 2026.**(IF:8.6, JCR I, CAAI A)**
-1. J. Zhao, L. Jiao\*, **C. Wang**, et al. *S3Diffuser: Frequency selected state space guided diffusion model for multimodal fusion classification*. **Information Fusion**, 125: 103447, 2026. **(IF: 15.5, JCR I, CAAI A)**
-1. L. Jiao\*, J. Zhao, **C. Wang**, et al. *Nature-inspired Intelligent Computing: A Comprehensive Survey*. **Research** (Science Partner Journal), 2024. **(IF: 8.5, JCR I)** [[Paper](https://spj.science.org/doi/10.34133/research.0442)]
-1. J. Zhao, L. Jiao\*, **C. Wang**, et al. *Knowledge Guided Evolutionary Transformer for Remote Sensing Scene Classification*. **IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)**, 2024. **(IF: 8.4, JCR I, CAAI B)** [[Paper](https://ieeexplore.ieee.org/document/10542522)]
+1. G. Wang, X. Zhang\*, J. Lai, et al. *Expanding Then Fusing: Weakly-supervised Remote Sensing Semantic Segmentation via Progressive Multi-modal Fusion*, **Pattern Recognition**, 177: 113392, 2026. (IF:7.6, JCR I, CAAI B) [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326003572)]
+1. J. Zhao, L. Li\*, L. Jiao, et al. *Modality-Prior Aware Progressive Diffusion Pansharpening*, **IEEE Transactions on Geoscience and Remote Sensing**, 64(4404215): 1-15, 2026.**(IF:8.6, JCR I, CAAI A)** [[Paper](https://ieeexplore.ieee.org/document/11391541)]
+1. J. Zhao, L. Jiao\*, **C. Wang**, et al. *S3Diffuser: Frequency selected state space guided diffusion model for multimodal fusion classification*. **Information Fusion**, 125: 103447, 2026. **(IF: 15.5, JCR I, CAAI A)** [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253525005202)]
+1. L. Jiao\*, J. Zhao, **C. Wang**, et al. *Nature-inspired Intelligent Computing: A Comprehensive Survey*. **Research** (Science Partner Journal), 7: 0442, 2024. **(IF: 8.5, JCR I)** [[Paper](https://spj.science.org/doi/10.34133/research.0442)]
+1. J. Zhao, L. Jiao\*, **C. Wang**, et al. *Knowledge Guided Evolutionary Transformer for Remote Sensing Scene Classification*. **IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)**, 34(10): 10368-10384, 2024. **(IF: 8.4, JCR I, CAAI B)** [[Paper](https://ieeexplore.ieee.org/document/10542522)]
 1. J. Zhao, L. Jiao\*, **C. Wang**, et al. *GeoFormer: A Geometric Representation Transformer for Change Detection*. **IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)**, 61:1–17, 2023. **(IF: 8.2, JCR I, CAAI A)** [[Paper](https://ieeexplore.ieee.org/document/10314551)]
 1. H. Zhao\*, X. Ning, X. Liu, **C. Wang**, J. Liu. *What Makes Evolutionary Multi-task Optimization Better*. **Applied Soft Computing**, 145:110545, 2023. **(IF: 8.26, JCR I)** [[Paper](https://www.sciencedirect.com/science/article/pii/S156849462300563X)]
 1. C. Ying, J. Liu, K. Wu, **C. Wang**. *A Multiobjective Evolutionary Approach for Solving Large-Scale Network Reconstruction Problems*. **IEEE Transactions on Cybernetics (IEEE TCYB)**, 53(4):2137–2150, 2023. **(IF: 19.1, JCR I, CAAI A)** [[Paper](https://ieeexplore.ieee.org/abstract/document/9537739)] [[Code](https://github.com/xiaofangxd/SLEMO-NR)]
 1. 吴凯, **王超**, 刘静*. 流数据驱动的多层非线性动力学网络重构 [J]. 中国科学: 技术科学, 2022, 52(6): 971-982. [[code](https://github.com/SparseL/OMNR)]
-1. K. Wu, J. Liu\*, **C. Wang**, Yuan. *Pareto Optimization for Influence Maximization in Social Networks*. **Evolutionary Multi-Criterion Optimization (EMO)**, 2021. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-72062-9_55)] [[Code](https://github.com/SparseL/POIM)]
+1. K. Wu, J. Liu\*, **C. Wang**, Yuan. *Pareto Optimization for Influence Maximization in Social Networks*. **Evolutionary Multi-Criterion Optimization: 11th International Conference**, EMO 2021, Shenzhen, China, March 28–31, 2021, Proceedings 11. Springer International Publishing, 2021: 697-707. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-72062-9_55)] [[Code](https://github.com/SparseL/POIM)]
    
 ---
 
@@ -104,6 +104,7 @@ My research focuses on the intersection of evolutionary computation and machine 
 **Conferences** [ICLR](https://iclr.cc/) • [NeurIPS](https://neurips.cc/) • [ICML](https://icml.cc/) • [FOGA](https://dl.acm.org/conference/foga) • [AAAI](https://aaai.org/) • [IJCAI](https://www.ijcai.org/) • [PPSN](https://link.springer.com/conference/ppsn) • [GECCO](https://dl.acm.org/conference/gecco) • [EC conference acceptance rate](https://ryojitanabe.github.io/ecconf/)
 
 **Publishers & Resources** [IEEE CS](https://www.computer.org/) • [IEEE Xplore (Proc. IEEE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5) • [CCF Rankings](https://www.ccf.org.cn/Academic_Evaluation/By_category/) • [Nature](https://www.nature.com/) • [Science](https://www.science.org/) • [arXiv cs.NE](https://arxiv.org/list/cs.NE/recent)
+
 
 
 
