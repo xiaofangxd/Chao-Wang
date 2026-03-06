@@ -76,7 +76,6 @@ My research focuses on the intersection of evolutionary computation and machine 
 1. G. Wang, X. Zhang\*, J. Lai, et al. *Expanding Then Fusing: Weakly-supervised Remote Sensing Semantic Segmentation via Progressive Multi-modal Fusion*, **Pattern Recognition**, 2026. (IF:7.6, JCR I, CAAI B)
 1. J. Zhao, L. Li\*, L. Jiao, et al. *Modality-Prior Aware Progressive Diffusion Pansharpening*, **IEEE Transactions on Geoscience and Remote Sensing**, accept, 2026.**(IF:8.6, JCR I, CAAI A)**
 1. J. Zhao, L. Jiao\*, **C. Wang**, et al. *S3Diffuser: Frequency selected state space guided diffusion model for multimodal fusion classification*. **Information Fusion**, 125: 103447, 2026. **(IF: 15.5, JCR I, CAAI A)**
-1. J. Zhao, L. Jiao\*, **C. Wang**, et al. *S3Diffuser: Frequency selected state space guided diffusion model for multimodal fusion classification*. **Information Fusion**, 125: 103447, 2026. **(IF: 15.5, JCR I, CAAI A)**
 1. L. Jiao\*, J. Zhao, **C. Wang**, et al. *Nature-inspired Intelligent Computing: A Comprehensive Survey*. **Research** (Science Partner Journal), 2024. **(IF: 8.5, JCR I)** [[Paper](https://spj.science.org/doi/10.34133/research.0442)]
 1. J. Zhao, L. Jiao\*, **C. Wang**, et al. *Knowledge Guided Evolutionary Transformer for Remote Sensing Scene Classification*. **IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)**, 2024. **(IF: 8.4, JCR I, CAAI B)** [[Paper](https://ieeexplore.ieee.org/document/10542522)]
 1. J. Zhao, L. Jiao\*, **C. Wang**, et al. *GeoFormer: A Geometric Representation Transformer for Change Detection*. **IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)**, 61:1–17, 2023. **(IF: 8.2, JCR I, CAAI A)** [[Paper](https://ieeexplore.ieee.org/document/10314551)]
@@ -105,6 +104,7 @@ My research focuses on the intersection of evolutionary computation and machine 
 **Conferences** [ICLR](https://iclr.cc/) • [NeurIPS](https://neurips.cc/) • [ICML](https://icml.cc/) • [FOGA](https://dl.acm.org/conference/foga) • [AAAI](https://aaai.org/) • [IJCAI](https://www.ijcai.org/) • [PPSN](https://link.springer.com/conference/ppsn) • [GECCO](https://dl.acm.org/conference/gecco) • [EC conference acceptance rate](https://ryojitanabe.github.io/ecconf/)
 
 **Publishers & Resources** [IEEE CS](https://www.computer.org/) • [IEEE Xplore (Proc. IEEE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5) • [CCF Rankings](https://www.ccf.org.cn/Academic_Evaluation/By_category/) • [Nature](https://www.nature.com/) • [Science](https://www.science.org/) • [arXiv cs.NE](https://arxiv.org/list/cs.NE/recent)
+
 
 
 
