@@ -64,7 +64,7 @@ My research focuses on the intersection of evolutionary computation and machine 
 1. **C. Wang\***, J. Liu, K. Wu, et al. *Evolutionary Multitasking AUC Optimization*. **IEEE Computational Intelligence Magazine (IEEE CIM)**, 17(2):67–82, 2022. **(IF: 9.8, JCR I, CAAI B)** [[Paper](https://ieeexplore.ieee.org/abstract/document/9756594)] [[Code](https://github.com/xiaofangxd/EMTAUC)]
 1. **C. Wang\***, J. Liu, K. Wu, et al. *Solving Multitask Optimization Problems with Adaptive Knowledge Transfer via Anomaly Detection*. **IEEE Transactions on Evolutionary Computation (IEEE TEVC)**, 26(2):304–318, 2022. **(IF: 16.5, JCR I, CAAI A)** [[Paper](https://ieeexplore.ieee.org/abstract/document/9385398)] [[Code](https://github.com/xiaofangxd/MTEA-AD)]
 1. **C. Wang\***, J. Liu, K. Wu, et al. *Learning Large-scale Fuzzy Cognitive Maps Using an Evolutionary Many-task Algorithm*. **Applied Soft Computing**, 108:107441, 2021. **(IF: 8.3, JCR I)** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1568494621003641)] [[Code](https://github.com/xiaofangxd/IBMTEA-FCM)]
-1. **C. Wang\***, L. Jiao, L. Li et al. *Learning Evolution via Optimization Knowledge Adaptation*. arXiv preprint, 2025. [[Paper](https://arxiv.org/abs/2501.02200)]
+1. **C. Wang\***, L. Li, L. Jiao et al. *Learning Evolution via Optimization Knowledge Adaptation*. arXiv preprint, 2025. [[Paper](https://arxiv.org/abs/2501.02200)]
 1. **C. Wang\***, J. Zhao, L. Li, et al. *Pareto Automatic Multi-Task Learning on Graphs*. 2023 (preprint).
 
 ### Corresponding-author Papers (†)
