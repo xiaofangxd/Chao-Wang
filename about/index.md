@@ -55,7 +55,7 @@ My research focuses on the intersection of evolutionary computation and machine 
 
 ### First-author Papers (\*)
 
-1. **C. Wang\***, L. Li, L. Jiao, et al. *Learning Evolution via Optimization Knowledge Adaptation*. **IEEE Transactions on Pattern Analysis and Machine Intelligence**, 2026. **(IF: 18.6, JCR I)** [[Paper](https://arxiv.org/abs/2501.02200)] [[Code](https://gitee.com/Anonymity_Paper/code-of-okaem)]
+1. **C. Wang\***, L. Li, L. Jiao, et al. *Learning Evolution via Optimization Knowledge Adaptation*. **IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)**, 2026. **(IF: 18.6, JCR I)** [[Paper](https://arxiv.org/abs/2501.02200)] [[Code](https://gitee.com/Anonymity_Paper/code-of-okaem)]
 1. **C. Wang\***, L. Jiao, L. Li, et al. *Task-free Adaptive Meta Black-box Optimization*. **International Conference on Learning Representations (ICLR)**, 2026. **(Core Ranking A\*)** [[Paper](https://openreview.net/forum?id=AufVSUgMUo)] [[Code](https://github.com/xiaofangxd/ABOM)]
 1. **C. Wang\***, J. Zhao, L. Jiao, et al. *When large language models meet evolutionary algorithms: Potential enhancements and challenges*. **Research** (Science Partner Journal), 8: 0646, 2025. **(IF: 10.9, JCR I)** [[Paper](https://spj.science.org/doi/10.34133/research.0646)]
 1. **C. Wang\***, J. Zhao, L. Li, et al. *Knowledge-aware Evolutionary Graph Neural Architecture Search*. **Knowledge-Based Systems**, 309: 112810, 2025. **(IF: 7.2, JCR I)** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124014448)] [[Code](https://github.com/xiaofangxd/KEGNAS)]
