@@ -1,7 +1,7 @@
 ---
 title: About
 layout: info
-date: 2026-4-21
+date: 2026-4-24
 mathjax: true
 ---
 
@@ -53,9 +53,9 @@ My research focuses on the intersection of evolutionary computation and machine 
 
 ## 📝 Publications
 
-### First-author Papers (\*)
+### First-author Papers (\*) and Corresponding-author Papers (†)
 
-1. **C. Wang\***, L. Li, L. Jiao, et al. *Learning Evolution via Optimization Knowledge Adaptation*. **IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)**, 2026. **(IF: 18.6, JCR I)** [[Paper](https://arxiv.org/abs/2501.02200)] [[Code](https://gitee.com/Anonymity_Paper/code-of-okaem)]
+1. **C. Wang\***, L. Li, L. Jiao, et al. *Learning Evolution via Optimization Knowledge Adaptation*. **IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)**, 2026. **(IF: 18.6, JCR I)** [[Paper](https://ieeexplore.ieee.org/document/11493956)] [[Code](https://gitee.com/Anonymity_Paper/code-of-okaem)]
 1. **C. Wang\***, L. Jiao, L. Li, et al. *Task-free Adaptive Meta Black-box Optimization*. **International Conference on Learning Representations (ICLR)**, 2026. **(Core Ranking A\*)** [[Paper](https://openreview.net/forum?id=AufVSUgMUo)] [[Code](https://github.com/xiaofangxd/ABOM)]
 1. **C. Wang\***, J. Zhao, L. Jiao, et al. *When large language models meet evolutionary algorithms: Potential enhancements and challenges*. **Research** (Science Partner Journal), 8: 0646, 2025. **(IF: 10.9, JCR I)** [[Paper](https://spj.science.org/doi/10.34133/research.0646)]
 1. **C. Wang\***, J. Zhao, L. Li, et al. *Knowledge-aware Evolutionary Graph Neural Architecture Search*. **Knowledge-Based Systems**, 309: 112810, 2025. **(IF: 7.2, JCR I)** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124014448)] [[Code](https://github.com/xiaofangxd/KEGNAS)]
@@ -66,9 +66,6 @@ My research focuses on the intersection of evolutionary computation and machine 
 1. **C. Wang\***, J. Liu, K. Wu, et al. *Solving Multitask Optimization Problems with Adaptive Knowledge Transfer via Anomaly Detection*. **IEEE Transactions on Evolutionary Computation (IEEE TEVC)**, 26(2):304–318, 2022. **(IF: 16.5, JCR I)** [[Paper](https://ieeexplore.ieee.org/abstract/document/9385398)] [[Code](https://github.com/xiaofangxd/MTEA-AD)]
 1. **C. Wang\***, J. Liu, K. Wu, et al. *Learning Large-scale Fuzzy Cognitive Maps Using an Evolutionary Many-task Algorithm*. **Applied Soft Computing**, 108:107441, 2021. **(IF: 8.3, JCR I)** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1568494621003641)] [[Code](https://github.com/xiaofangxd/IBMTEA-FCM)]
 1. **C. Wang\***, J. Zhao, L. Li, et al. *Pareto Automatic Multi-Task Learning on Graphs*. 2023 (preprint).
-
-### Corresponding-author Papers (†)
-
 1. T. Ma, **C. Wang†**, K. Wu, et al. *Network Collaborator: Knowledge Transfer Between Network Reconstruction and Community Detection*. **Neurocomputing**, 654: 131263, 2025. **(IF: 6.5, JCR I)** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225019356)] [[Code](https://github.com/xiaofangxd/EMTNRCD)]
 1. K. Wu, **C. Wang†**, J. Liu. *Evolutionary Multitasking Multilayer Network Reconstruction*. **IEEE Transactions on Cybernetics (IEEE TCYB)**, 52(12):12854–12868, 2022. **(IF: 19.1, JCR I)** [[Paper](https://ieeexplore.ieee.org/abstract/document/9489377)] [[Code](https://github.com/xiaofangxd/EM2MNR)]
 
