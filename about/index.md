@@ -44,10 +44,10 @@ mathjax: true
 ## 🔬 Research Interests
 
 My research focuses on the intersection of evolutionary computation and machine learning:
-* **Evolutionary Transfer Optimization**
-* **Meta Black-box Optimization**
-* **LLM-assisted Evolutionary Computation**
-* **Automated Machine Learning**
+* **Knowledge-driven Meta Black-box Optimization**
+* **Automated Machine Learning and Model Lightweighting**
+* **Evolutionary Intelligence for Science**
+
 
 ---
 
@@ -55,10 +55,10 @@ My research focuses on the intersection of evolutionary computation and machine 
 
 ### First-author Papers (\*) and Corresponding-author Papers (†)
 
-1. **C. Wang\***, et al. *Model Merging to Evolution: Parameter Space Exploration for Expert Models*. **Parallel Problem Solving From Nature (PPSN)**, accepted, 2026. **(Core Ranking A)** 
+1. **C. Wang\***, et al. *Model Merging to Evolution: Parameter Space Exploration for Expert Models*. **Parallel Problem Solving From Nature (PPSN)**, accepted, 2026. [[code] (https://github.com/xiaofangxd/MERGEvolve)] **(Core Ranking A)** 
 1. **C. Wang\***, L. Li, L. Jiao, et al. *Learning Evolution via Optimization Knowledge Adaptation*. **IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)**, 2026. **(IF: 18.6, JCR I)** [[Paper](https://ieeexplore.ieee.org/document/11493956)] [[Code](https://gitee.com/Anonymity_Paper/code-of-okaem)]
 1. **C. Wang\***, L. Jiao, L. Li, et al. *Task-free Adaptive Meta Black-box Optimization*. **International Conference on Learning Representations (ICLR)**, 2026. **(Core Ranking A\*)** [[Paper](https://openreview.net/forum?id=AufVSUgMUo)] [[Code](https://github.com/xiaofangxd/ABOM)]
-1. **C. Wang\***, J. Zhao, L. Jiao, et al. *When large language models meet evolutionary algorithms: Potential enhancements and challenges*. **Research** (Science Partner Journal), 8: 0646, 2025. **(IF: 10.9, JCR I)** [[Paper](https://spj.science.org/doi/10.34133/research.0646)]
+1. **C. Wang\***, J. Zhao, L. Jiao, et al. *When Large Language Models Meet Evolutionary Algorithms: Potential Enhancements and Challenges*. **Research** (Science Partner Journal), 8: 0646, 2025. **(IF: 10.9, JCR I)** [[Paper](https://spj.science.org/doi/10.34133/research.0646)]
 1. **C. Wang\***, J. Zhao, L. Li, et al. *Knowledge-aware Evolutionary Graph Neural Architecture Search*. **Knowledge-Based Systems**, 309: 112810, 2025. **(IF: 7.2, JCR I)** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124014448)] [[Code](https://github.com/xiaofangxd/KEGNAS)]
 1. **C. Wang\***, J. Zhao, L. Li, et al. *Automatic Graph Topology-Aware Transformer*. **IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)**, 36(5):8470-8484, 2024. **(IF: 10.2, JCR I)** [[Paper](https://ieeexplore.ieee.org/document/10681642)] [[Code](https://github.com/xiaofangxd/EGTAS)]
 1. **C. Wang\***, J. Zhao, L. Li, et al. *Bi-level Multi-objective Evolutionary Learning: A Case Study on Multi-task Graph Neural Topology Search*. **IEEE Transactions on Evolutionary Computation (IEEE TEVC)**, 28(1):208–222, 2024. **(IF: 11.7, JCR I)** [[Paper](https://ieeexplore.ieee.org/abstract/document/10065594)] [[Code](https://github.com/xiaofangxd/BLMOL)]
@@ -73,7 +73,7 @@ My research focuses on the intersection of evolutionary computation and machine 
 ### Collaborative Papers
 1. G. Wang, X. Zhang\*, J. Lai, et al. *Expanding Then Fusing: Weakly-supervised Remote Sensing Semantic Segmentation via Progressive Multi-modal Fusion*, **Pattern Recognition**, 177: 113392, 2026. (IF:7.6, JCR I) [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326003572)]
 1. J. Zhao, L. Li\*, L. Jiao, et al. *Modality-Prior Aware Progressive Diffusion Pansharpening*, **IEEE Transactions on Geoscience and Remote Sensing**, 64(4404215): 1-15, 2026.**(IF:8.6, JCR I)** [[Paper](https://ieeexplore.ieee.org/document/11391541)]
-1. J. Zhao, L. Jiao\*, **C. Wang**, et al. *S3Diffuser: Frequency selected state space guided diffusion model for multimodal fusion classification*. **Information Fusion**, 125: 103447, 2026. **(IF: 15.5, JCR I)** [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253525005202)]
+1. J. Zhao, L. Jiao\*, **C. Wang**, et al. *S3Diffuser: Frequency Selected State Space Guided Diffusion Model for Multimodal Fusion Classification*. **Information Fusion**, 125: 103447, 2026. **(IF: 15.5, JCR I)** [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253525005202)]
 1. L. Jiao\*, J. Zhao, **C. Wang**, et al. *Nature-inspired Intelligent Computing: A Comprehensive Survey*. **Research** (Science Partner Journal), 7: 0442, 2024. **(IF: 8.5, JCR I)** [[Paper](https://spj.science.org/doi/10.34133/research.0442)]
 1. J. Zhao, L. Jiao\*, **C. Wang**, et al. *Knowledge Guided Evolutionary Transformer for Remote Sensing Scene Classification*. **IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)**, 34(10): 10368-10384, 2024. **(IF: 8.4, JCR I)** [[Paper](https://ieeexplore.ieee.org/document/10542522)]
 1. J. Zhao, L. Jiao\*, **C. Wang**, et al. *GeoFormer: A Geometric Representation Transformer for Change Detection*. **IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)**, 61:1–17, 2023. **(IF: 8.2, JCR I)** [[Paper](https://ieeexplore.ieee.org/document/10314551)]
@@ -88,10 +88,9 @@ My research focuses on the intersection of evolutionary computation and machine 
 
 | Topic | Description | Links |
 | :--- | :--- | :--- |
-| **Evolutionary Transfer Optimization** | Adaptive knowledge transfer, multitasking network reconstruction. | [MTEA-AD](https://github.com/xiaofangxd/MTEA-AD) / [EM2MNR](https://github.com/xiaofangxd/EM2MNR) |
-| **Meta Black-box Optimization** | Adaptive meta black-box optimization. | [ABOM](https://openreview.net/forum?id=AufVSUgMUo) / [OKAEM](https://arxiv.org/abs/2501.02200) / [BLMOL](https://github.com/xiaofangxd/BLMOL) |
-| **LLM-assisted Evolutionary Computation** | LLMs as evolutionary operators and heuristic designers. | [Survey](https://arxiv.org/abs/2401.10510) / [Repo](https://github.com/xiaofangxd/LLM_EA) |
-| **Automated Machine Learning** | Evolutionary graph NAS, topology-aware transformers. | [KEGNAS](https://github.com/xiaofangxd/KEGNAS) / [EGTAS](https://github.com/xiaofangxd/EGTAS) |
+| **Knowledge-driven Meta Black-box Optimization** | Adaptive knowledge transfer, Adaptive meta black-box optimization. | [MTEA-AD](https://github.com/xiaofangxd/MTEA-AD) / [ABOM](https://openreview.net/forum?id=AufVSUgMUo) / [OKAEM](https://arxiv.org/abs/2501.02200) |
+| **Automated Machine Learning** | Evolutionary graph NAS, Topology-aware transformers, Model merging. | [BLMOL](https://github.com/xiaofangxd/BLMOL) / [KEGNAS](https://github.com/xiaofangxd/KEGNAS) / [EGTAS](https://github.com/xiaofangxd/EGTAS) / [MERGEvolve](https://github.com/xiaofangxd/MERGEvolve) |
+| **Evolutionary Intelligence for Science** | LLMs as evolutionary operators and heuristic designers. | [Survey](https://arxiv.org/abs/2401.10510) / [Repo](https://github.com/xiaofangxd/LLM_EA) |
 
 ---
 
