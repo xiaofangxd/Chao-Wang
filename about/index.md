@@ -1,7 +1,7 @@
 ---
 title: About
 layout: info
-date: 2026-4-24
+date: 2026-5-28
 mathjax: true
 ---
 
@@ -55,6 +55,7 @@ My research focuses on the intersection of evolutionary computation and machine 
 
 ### First-author Papers (\*) and Corresponding-author Papers (†)
 
+1. **C. Wang\***, et al. *Model Merging to Evolution: Parameter Space Exploration for Expert Models*. **Parallel Problem Solving From Nature (PPSN)**, accepted, 2026. **(Core Ranking A)** 
 1. **C. Wang\***, L. Li, L. Jiao, et al. *Learning Evolution via Optimization Knowledge Adaptation*. **IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)**, 2026. **(IF: 18.6, JCR I)** [[Paper](https://ieeexplore.ieee.org/document/11493956)] [[Code](https://gitee.com/Anonymity_Paper/code-of-okaem)]
 1. **C. Wang\***, L. Jiao, L. Li, et al. *Task-free Adaptive Meta Black-box Optimization*. **International Conference on Learning Representations (ICLR)**, 2026. **(Core Ranking A\*)** [[Paper](https://openreview.net/forum?id=AufVSUgMUo)] [[Code](https://github.com/xiaofangxd/ABOM)]
 1. **C. Wang\***, J. Zhao, L. Jiao, et al. *When large language models meet evolutionary algorithms: Potential enhancements and challenges*. **Research** (Science Partner Journal), 8: 0646, 2025. **(IF: 10.9, JCR I)** [[Paper](https://spj.science.org/doi/10.34133/research.0646)]
