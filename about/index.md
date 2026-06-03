@@ -1,7 +1,7 @@
 ---
 title: About
 layout: info
-date: 2026-5-28
+date: 2026-6-3
 mathjax: true
 ---
 
@@ -45,7 +45,7 @@ mathjax: true
 
 My research focuses on the intersection of evolutionary computation and machine learning:
 * **Knowledge-driven Meta Black-box Optimization**
-* **Automated Machine Learning and Model Lightweighting**
+* **Open-ended Neuroevolution**
 * **Evolutionary Intelligence for Science**
 
 
@@ -89,7 +89,7 @@ My research focuses on the intersection of evolutionary computation and machine 
 | Topic | Description | Links |
 | :--- | :--- | :--- |
 | **Knowledge-driven Meta Black-box Optimization** | Adaptive knowledge transfer, Adaptive meta black-box optimization. | [MTEA-AD](https://github.com/xiaofangxd/MTEA-AD) / [ABOM](https://openreview.net/forum?id=AufVSUgMUo) / [OKAEM](https://arxiv.org/abs/2501.02200) |
-| **Automated Machine Learning and Model Lightweighting** | Evolutionary graph NAS, Topology-aware transformers, Model merging. | [BLMOL](https://github.com/xiaofangxd/BLMOL) / [KEGNAS](https://github.com/xiaofangxd/KEGNAS) / [EGTAS](https://github.com/xiaofangxd/EGTAS) / [MERGEvolve](https://github.com/xiaofangxd/MERGEvolve) |
+| **Open-ended Neuroevolution** | Neural architecture search, Model merging. | [BLMOL](https://github.com/xiaofangxd/BLMOL) / [KEGNAS](https://github.com/xiaofangxd/KEGNAS) / [EGTAS](https://github.com/xiaofangxd/EGTAS) / [MERGEvolve](https://github.com/xiaofangxd/MERGEvolve) |
 | **Evolutionary Intelligence for Science** | LLMs as evolutionary operators and heuristic designers. | [Survey](https://arxiv.org/abs/2401.10510) / [Repo](https://github.com/xiaofangxd/LLM_EA) |
 
 ---
