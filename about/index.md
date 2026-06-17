@@ -54,8 +54,8 @@ My research focuses on the intersection of evolutionary computation and machine 
 ## 📝 Publications
 
 ### First-author Papers (\*) and Corresponding-author Papers (†)
-1.*EVOM: Agentic Meta-Evolution of Actor-Critic Architectures for Reinforcement Learning*. **First International Workshop on Learning-assisted Algorithm Design (IJCAI-LEAD)**, accepted, 2026. [[Code](https://github.com/xiaofangxd/EVOM)] **(Core Ranking A\* Workshop)** 
-1.*Model Merging to Evolution: Parameter Space Exploration for Expert Models*. **Parallel Problem Solving From Nature (PPSN)**, accepted, 2026. [[Code](https://github.com/xiaofangxd/MERGEvolve)] **(Core Ranking A)** 
+1. *EVOM: Agentic Meta-Evolution of Actor-Critic Architectures for Reinforcement Learning*. **First International Workshop on Learning-assisted Algorithm Design (IJCAI-LEAD)**, accepted, 2026. [[Code](https://github.com/xiaofangxd/EVOM)] **(Core Ranking A\* Workshop)** 
+1. *Model Merging to Evolution: Parameter Space Exploration for Expert Models*. **Parallel Problem Solving From Nature (PPSN)**, accepted, 2026. [[Code](https://github.com/xiaofangxd/MERGEvolve)] **(Core Ranking A)** 
 1. **C. Wang\***, L. Li, L. Jiao, et al. *Learning Evolution via Optimization Knowledge Adaptation*. **IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)**, 2026. **(IF: 18.6, JCR I)** [[Paper](https://ieeexplore.ieee.org/document/11493956)] [[Code](https://gitee.com/Anonymity_Paper/code-of-okaem)]
 1. **C. Wang\***, L. Jiao, L. Li, et al. *Task-free Adaptive Meta Black-box Optimization*. **International Conference on Learning Representations (ICLR)**, 2026. **(Core Ranking A\*)** [[Paper](https://openreview.net/forum?id=AufVSUgMUo)] [[Code](https://github.com/xiaofangxd/ABOM)]
 1. **C. Wang\***, J. Zhao, L. Jiao, et al. *When Large Language Models Meet Evolutionary Algorithms: Potential Enhancements and Challenges*. **Research** (Science Partner Journal), 8: 0646, 2025. **(IF: 10.9, JCR I)** [[Paper](https://spj.science.org/doi/10.34133/research.0646)]
