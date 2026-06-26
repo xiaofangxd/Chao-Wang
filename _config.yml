@@ -1,16 +1,16 @@
 # Site settings
-title: EA is not just a optimization solver
-description: Blog of Chao Wang
-baseurl: "" 
+title: Chao Wang
+description: Academic homepage of Chao Wang
+baseurl: "/Chao-Wang"
 #change the baseurl to "" if you are using it as your user GitHub Pages
-url: "https://xiaofangxd.github.io/Chao-Wang/"  
+url: "https://xiaofangxd.github.io"
 
 
 # GitHub User settings
 username: Chao Wang
 github_username: Xiaofangxd
-user_description: My current research interests include evolutionary computation, machine learning, and complex networks
-user_title: Ph.D
+user_description: Evolutionary computation, machine learning, and automated algorithm design
+user_title: Assistant Research Fellow
 email: xiaofengxd@126.com
 
 # Blog Author settings

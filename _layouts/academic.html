@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+    <meta name="description" content="{{ page.description | default: site.description }}">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/academic.css">
+  </head>
+  <body class="academic-page">
+    <header class="site-header">
+      <nav class="site-nav" aria-label="Main navigation">
+        <a class="site-title" href="{{ site.baseurl }}/">Chao Wang</a>
+        <div class="site-links">
+          <a href="{{ site.baseurl }}/#about">About</a>
+          <a href="{{ site.baseurl }}/#news">News</a>
+          <a href="{{ site.baseurl }}/#research">Research</a>
+          <a href="{{ site.baseurl }}/#publications">Publications</a>
+          <a href="{{ site.baseurl }}/#students">Students</a>
+          <a href="{{ site.baseurl }}/#projects">Projects</a>
+          <a href="{{ site.baseurl }}/#service">Service</a>
+        </div>
+      </nav>
+    </header>
+
+    <main class="academic-shell">
+      {{ content }}
+    </main>
+  </body>
+</html>

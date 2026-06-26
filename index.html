@@ -1,30 +1,7 @@
 ---
-layout: home
+title: Chao Wang
+layout: academic
+description: Academic homepage of Chao Wang, Xidian University.
 ---
-<div class="user-details">
-<h2> Me and this website </h2>
-<p style="text-align: justify;"> Chao Wang received the B.S. degree in intelligent science and technology in 2019 from Xidian University, Xi’an, China, where he is currently studying for his doctorate at Xidian University, Xidian University, China. His current research interests include multitasking optimization and learning, evolutionary computation, and complex networks (Graphs). He built this website to share the interesting theories during the postgraduate and doctoral study period. </p>
-	<div class="analytics"  style="border: solid lightgrey; border-radius: 5px;">
-	<h3> Visit </h3>
-	<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=93QowJpDzYdfixVZiq6Ms-aiUS9k7X700bVEvw72jA4&cl=ffffff&w=a"></script>
-	<p> <small> If you are not seeing a map, please disable Ad block </small></p>
-</div>
-</div><div class="permlinks">
-<h2>Recent Posts</h2>
-<dl>
-	{% for post in site.posts limit:3 %}
-	<dt><code>{{ post.date | date_to_string }} </code><i class="fas fa-angle-double-right" aria-hidden="true"></i><a href="/Chao-Wang/{{ post.url }}">{{ post.title }}</a> &nbsp;{% include status-indicator.html status=post.status%}
-	{% if post.description %}
- <dd style="text-align: justify">{{ post.description | markdownify }}
-    </dd>
-	{% endif %}
-	{% endfor %}
-	<p>... <a href="/Chao-Wang/blog">Full Posts List</a> </p>
-</dl>
 
-<h2>Upcoming Posts</h2>
-<ul>
-	<li>Learning to Optimize</li>
-</ul>
-
-</div >
+{% include academic-home.html %}
